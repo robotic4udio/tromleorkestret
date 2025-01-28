@@ -5,14 +5,13 @@ permalink: /about/
 image: '/images/tromleorkestret/TrorkMVo1.jpg'
 ---
 
-We are Tromleorkestret, a Danish ensemble that brings together music, technology, and performance art to create immersive, genre-defying experiences. At the heart of what we do is our custom-built, fire-breathing music machine—a steampunk-inspired creation where human creativity and mechanical ingenuity collide.
+We are Tromleorkestret, a Danish ensemble that brings together music, technology, and performance art to create immersive, genre-defying, psychedelic experiences. At the heart of what we do is our custom-built, fire-breathing music machine—a steampunk-inspired creation where human creativity and mechanical ingenuity collide.
 
+> It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
+>
+> <cite> Percival Gearstride </cite>
 
-> This machine doesn’t just play music—it breathes it, ignites it, and lets it dance in the air.
-> 
-> <cite> Baroness Aelira Cogsworth </cite>
-
-Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, experimental EDM, and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
+Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, techno, electionic dance music and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
 
 <p><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FTromleorkestret%2Fvideos%2F2418357421702439%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
 
@@ -23,6 +22,10 @@ What makes Tromleorkestret truly unique is our music machine. Every instrument w
 > <cite> Aloysius G. Tinkerfoot </cite>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/CjUIswZyYQ0?si=TtqmyRw_mSruU7Xm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+> This machine doesn’t just play music—it breathes it, ignites it, and lets it dance in the air.
+> 
+> <cite> Baroness Aelira Cogsworth </cite>
 
 But Tromleorkestret is about more than just the music. Our performances are a feast for the senses—flames that light up the night, lights that pulse with the beat, and a stage full of moving parts that bring our vision to life. Inspired by steampunk aesthetics, cabaret, and a love for the absurd, we aim to transport our audiences to a world where anything is possible.
 
@@ -37,6 +40,12 @@ For us, Tromleorkestret is more than a band. It’s a playground for invention, 
 
 Welcome to our world—where music, fire, and invention come together in perfect chaos.
 
+# The Instruments
+
+- [The Aeolynth]({{site.baseurl}}/aeolynth): A synthetic wind instrument.
+- [Sound Gloves]({{site.baseurl}}/sound-gloves): Turning every movement into sound.
+- [The Sonimba]({{site.baseurl}}/sonimba): A reimagined kalimba that blends motion into dynamic soundscapes."
+- [The Automated Keyboard]({{site.baseurl}}/automated-keyboard): An Invisible Virtuoso.
 
 
 # The People

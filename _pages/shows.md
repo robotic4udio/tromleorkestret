@@ -10,7 +10,9 @@ image: '/images/tromleorkestret/TromleJul1.jpg'
 - 2024-06-28 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
 - 2024-06-27 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
 
-# Performance Archivec
+
+
+# Past Shows
 ## 2024
 - 2024-12-24 [Juleløses Jul 2024]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
 - 2024-09-14 [Folkedybet - Samsø Energiakademi](https://energiakademiet.dk/folkedybet-2024/)

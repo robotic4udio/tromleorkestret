@@ -15,7 +15,7 @@ Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautro
 
 <p><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FTromleorkestret%2Fvideos%2F2418357421702439%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
 
-What makes Tromleorkestret truly unique is our music machine. Every instrument we play is handcrafted and full of surprises, from the Robotic Slide Bass to the Aeolynth, the Sound Gloves, and the Autonomous Xylophone. These instruments are more than tools—they’re collaborators, driven by custom-built technology and designed to respond to motion, touch, and sound in real-time. Together, we turn every performance into a dynamic interplay between human and machine.
+What makes Tromleorkestret truly unique is our music machine. Every instrument we play is handcrafted and full of surprises, from the [Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass) to the [Aeolynth]({{site.baseurl}}/aeolynth), the [Sound Gloves]({{site.baseurl}}/sound-gloves), and the Autonomous Xylophone. These instruments are more than tools—they’re collaborators, driven by custom-built technology and designed to respond to motion, touch, and sound in real-time. Together, we turn every performance into a dynamic interplay between human and machine.
 
 > Every instrument in Tromleorkestret is a character in its own right, a mechanical soul with a story to tell.
 >
@@ -42,15 +42,16 @@ Welcome to our world—where music, fire, and invention come together in perfect
 
 # The Instruments
 
-- [The Aeolynth]({{site.baseurl}}/aeolynth): A synthetic wind instrument.
-- [Sound Gloves]({{site.baseurl}}/sound-gloves): Turning every movement into sound.
-- [The Sonimba]({{site.baseurl}}/sonimba): A reimagined kalimba that blends motion into dynamic soundscapes."
+- [The Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass): The Mechanical Marvel Behind the Low-End.
 - [The Automated Keyboard]({{site.baseurl}}/automated-keyboard): An Invisible Virtuoso.
+- [Sound Gloves]({{site.baseurl}}/sound-gloves): Turning every movement into sound.
+- [The Aeolynth]({{site.baseurl}}/aeolynth): A synthetic wind instrument.
+- [The Sonimba]({{site.baseurl}}/sonimba): A reimagined kalimba that blends motion into dynamic soundscapes."
 
 
 # The People
 
-## ABOUT HJALTE BESTED HJORTH
+## HJALTE BESTED HJORTH
 
 Hi, my name is Hjalte Bested Hjorth. I am a composer, musician, and creative technologist with a passion for blending art, music, and technology to create immersive, one-of-a-kind experiences. My work is driven by a love for crafting soundscapes that defy genres and inspire wonder, as well as a hands-on approach to building and coding the tools that make these creations possible.
 
@@ -58,11 +59,13 @@ As a composer, I explore a broad spectrum of styles, from cinematic and experime
 
 I’m also a DIY enthusiast and creative coder who thrives on turning bold concepts into tangible creations. With a background in robotics and engineering, I design and build robotic instruments, sensor-driven interfaces, and interactive installations. My projects seamlessly combine custom hardware, creative algorithms, and programming to blur the lines between musician and machine. Tools like Bela, MaxMSP, and Open Sound Control (OSC) play a central role in my work, allowing me to shape performances that are as visually captivating as they are sonically innovative.
 
+> "Few can transform technical mastery into pure artistry the way Hjalte does—it’s innovation, redefined."
+
 As the creator of Tromleorkestret, I have developed a performance style where human musicians and robotic instruments share the stage in a spectacle of sound, light, and motion. This blend of artistry and engineering reflects my lifelong fascination with pushing the boundaries of what music and technology can achieve together.
   
 Whether composing for theater, designing interactive learning tools, or performing on stage, my goal is always the same: to connect, inspire, and transport audiences to new realms of creativity and imagination.
 
-## ABOUT SOFIE HJORTH SCHAUSEN
+## SOFIE HJORTH SCHAUSEN
 
 Sofie Hjorth Schausen is a Danish multidisciplinary artist, sound designer, and podcaster with a passion for storytelling, performance, and exploring the intersections of art, science, and technology. Whether crafting immersive soundscapes, designing captivating visuals, or performing on stage, Sofie’s work invites audiences into richly layered worlds that inspire wonder and curiosity.  
 

@@ -14,7 +14,7 @@ Nestled beneath the commanding presence of the **Mechabass** in Tromleorkestretâ
 
 1. **Mechanical Actuation**
     - Inside the keyboard, every single key is connected to a **dedicated actuator**, enabling precise and independent control of each note.
-    - **Unparalleled Speed**: The actuators operate with blistering speed, replicating the dexterity of a player with 48 fingers. Complex arpeggios, rapid trills, and cascading scales flow effortlessly from the instrument, creating a sound that is both mechanical and musical.
+    - **Unparalleled Speed**: The actuators operate with blistering speed, replicating the dexterity of a player with 42 fingers. Complex arpeggios, rapid trills, and cascading scales flow effortlessly from the instrument, creating a sound that is both mechanical and musical.
 2. **Invisible Engineering**
     - Unlike many of Tromleorkestretâ€™s instruments, the mechanics of the Automated Keyboard are completely hidden. This creates an air of mystery and wonder as the keyboard seems to come to life on its own, its keys dancing with unerring precision.
 

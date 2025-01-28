@@ -13,7 +13,7 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
+    - title: 'Contact'
       url: '/contact/'
     - title: 'Style Guide'
       url: '/styleguide/'
@@ -30,7 +30,7 @@ author:
 # Hero Settings
 hero:
   title: TROMLEORKESTRET
-  description: The Firespewing Music Machine
+  description: The Firebreathing Music Machine
   image: '/images/TrorkMV2.jpg'
 
 

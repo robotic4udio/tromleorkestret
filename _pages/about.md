@@ -79,93 +79,45 @@ For Sofie, creativity is about connection—whether through the magic of a live 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CwvNORRMhln/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CwvNORRMhln/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">Vis dette opslag på Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CwvNORRMhln/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Et opslag delt af Sofie Hjorth Schausen (@sofie._.hjorth)</a></p></div></blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
 
+# The Origin Story
+Gather ’round, dear friend, and lend me your ears for the improbable, peculiar, and altogether delightful tale of Tromleorkestret. Born of boredom, and a shared penchant for the unusual, this merry band of human and mechanical collaborators has traveled far and wide, delighting all who encounter their whimsical, fire-spouting musical contraption.
 
-# Upcomming Shows
-## 2025
-- 2024-06-28 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
-- 2024-06-27 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
+### **A Spark of Genius (or Perhaps Madness)**
 
-# Performance Archivec
-## 2024
-- 2024-12-24 [Juleløses Jul 2024]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
-- 2024-09-14 [Folkedybet - Samsø Energiakademi](https://energiakademiet.dk/folkedybet-2024/)
-- 2024-09-07 Amagerbro Gårdfest
-- 2024-08-17 [Vadestedsfestival #8](https://www.facebook.com/events/1643807883065806/)
-- 2024-08-10 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
-- 2024-08-09 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
-- 2024-08-02 [Bascherdeis Festival 2024 - Senza Confini -](https://www.facebook.com/events/833929361608844/)
-- 2024-07-09 [Byggefestivalen på Als - 2024](https://www.facebook.com/events/312564731808115/)
-- 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)
-- 2024-06-15 [Bryllyp på Samsø]
-- 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
-- 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
-- 2024-05-08 [SOMMERFEST I BAGHAVEN // Mad: Det levende bord // Musik: Tromleorkestret](https://www.facebook.com/events/1599151907549191/)
+It was a quiet evening in 2012. The applause from our cabaret show, Cuckoo’s Nest Cabaret, had long faded, and Sofie and I found ourselves adrift in the void of post-performance ennui. The show had been a wild blend of slapstick, surrealism, and sonic chaos – including invisible man fights, dramatic slow-motion sequences, and sound effects ranging from whip cracks to well-timed flatulence. It was theater at its most delightfully absurd, but now that the curtains had closed, we asked ourselves: “What next?”
 
-## 2023
+The ceiling, predictably, offered no answers. So, we made a list – a proper inventory of all the skills and oddities we each brought to the table. By the time we’d scribbled halfway down, the idea struck: Why not build a music machine? A proper contraption! Picture this: a mobile mechanical marvel, with Sofie perched atop a spinning podium, all the while I, the industrious organ grinder, cranked out tunes on an assembly of instruments so peculiar, it would make a mad inventor blush.
 
-- 2023-09-30 [Pumpehuset - Support til Fastpoholmen](https://www.facebook.com/events/938028364124055)
-- 2023-09-17 [Svampenes verden - kreativ workshop og drømmende lirekassekoncert](https://www.facebook.com/events/970779604248692/)
-- 2023-09-03 [Kultur i Byen]
-- 2023-08-05 [Badesøen Festival 2023](https://www.facebook.com/events/927089168683505/)
-- 2023-08-24 [Sølyst Sommerfest 2023](https://www.facebook.com/events/216249494631632/)
-- 2023-07-22 [Stjerner over farø](https://www.facebook.com/profile.php?id=100083416773605)
-- 2023-02-12 [Amager Børnemusikfestival](https://www.facebook.com/events/1108896416464996/)
+Sofie, ever the designer, immediately began sketching outfits for our new venture. With her remarkable eye for aesthetics, she crafted costumes that turned us into characters as eccentric as the machine itself. Much of Tromleorkestret’s signature look owes itself to her genius, from the tailored details to the overall visual harmony.
 
-## 2022
-- 2022-08-21 [BIG BANG Festival 2022](https://www.facebook.com/events/2512919615504985/)
-- 2022-08-19 [ART by NIGHT - I avantgardens tegn](https://www.facebook.com/events/766343297741677/)
+### **From Modest Beginnings to Mechanical Mayhem**
 
-## 2021
-- 2021-08-27 [HØST MØN 2021](https://www.facebook.com/events/594341764510237/)
-- 2021-08-20 [den grænseløse festival 2021](https://www.facebook.com/events/1065508013897189/)
+Naturally, such an idea demanded a stage. So, we built a wagon. And thus, Tromleorkestret made its humble debut, rolling through streets and surprising unsuspecting onlookers with a mix of music, oddity, and sheer nerve.
 
-## 2020
-- 2020-10-16 [Extreeeme PART 4](https://www.facebook.com/events/3565469556838969/)
-- 2020-09-27 [Conducting Machines Livestream](https://www.facebook.com/events/427962321511508/)
-- 2020-09-24 [Conducting Machines - Grå Hal](https://www.facebook.com/events/370455487295710/)
-- 2020-08-22 [Conducting Machines - Frederiks Bastion](https://www.facebook.com/events/341926223645976/)
-- 2020-01-23 [DJBFA's Seminar & Bar](https://www.facebook.com/events/1059247374414333/)
+The wagon itself was as much a performer as we were. It housed a collection of mechanical wonders, each more curious than the last. Among its many marvels were three cuckoo doors, each one a portal to a little scene of whimsy. Behind one door was a taxidermied mouse sporting a jaunty top hat; behind another, a rat clad in race-driver gloves; and behind the last, a bird so lifelike it seemed ready to chirp. These tiny tableaux delighted audiences, adding a touch of charm to the machine’s already bizarre persona.
 
-## 2019
-- 2019-12-07 [Lystfest Afterparty i Ribersgård med Tromleorkestret](https://www.facebook.com/events/420478635299945/)
-- 2019-12-07 [Lysfest på Frederiksø 2019](https://www.facebook.com/events/496769957842450/)
-- 2019-10-11 [Kulturnatten 2019 X Reffen](https://www.facebook.com/events/730667017394410/)
-- 2019-09-21 [Analogik + support: Tromleorkestret // Loppen](https://www.facebook.com/events/369305030453917/)
-- 2019-08-23 [SMK Fridays x Udstillingsåbning: Dansk Guldalder](https://www.facebook.com/events/475133773046199/)
-- 2019-08-18 [Kulturværftet - Acting for climate](https://www.facebook.com/events/909628902714757/?ti=icl)
-- 2019-08-17 [Havnefest for klima & sejlende cirkusshow](https://www.facebook.com/events/2147376568896059/)
-- 2019-08-15 [BastiOn - Brunette Bros. Back to MaMa](https://www.facebook.com/events/702296600217062/)
-- 2019-08-14 [Hall of the odd - Tromleorkestret w. Zirkus](https://www.facebook.com/halloftheodd/)
-- 2019-07-26 [Himmelstorm Festival 2019](https://www.facebook.com/events/521446411664239/)
-- 2019-04-27 [Science & Cocktails: The Many Worlds of Quantum Reality](https://www.facebook.com/events/578407449293831/)
+Of course, the wagon quickly took on a life of its own. A slide bass here, a robotic drum there – soon, it resembled something out of Jules Verne’s sketchbook. Flames were added (because why not?), and before we knew it, we had a fire-breathing, sound-making, joy-inducing monstrosity that delighted and slightly alarmed audiences in equal measure.
 
-## 2017
-- 2017-06-29 [Science & Cocktails - Cosmic Connections: the Universe and You](https://www.facebook.com/events/262533510881384/)
-- 2017-04-22 [Godsbanens Forårsmarked 2017](https://www.facebook.com/events/1120144288097142/)
+### **An Education in Creativity (and Desperation)**
 
-## 2016
-- 2016-09-26 [Pyromaniacs og TromleOrkestret](https://www.facebook.com/events/255115434883637/)
-- 2016-07-29 [Nakkefestival 2016](https://www.facebook.com/events/1526703804308323/)
-- 2016-07-10 [Freqs Of Nature 2016 • Experimental Art & Music Festival • 7th-12th July](https://www.facebook.com/events/1650900035162677/)
-- 2016-07-01 [Fusion Festival 2016](https://www.facebook.com/events/974064902647964/)
-- 2016-09-26 [Pyromaniacs og TromleOrkestret](https://www.facebook.com/events/255115434883637/)
-- 2016-06-25 [Tromleorkestret på Magisk Midsommer](https://www.facebook.com/events/1591068821223534/)
-- 2016-06-11 [Tromleorkestret i Den Grå Hal](https://dengraahal.dk/)
-- 2016-05-24 [Science & Cocktails: Thinking about thinking about thinking](https://www.facebook.com/events/259786541036931/)
-- 2016-04-09 [Containerby Festival 2016](https://www.facebook.com/watch/?v=1975276956101993)
+Now, I’ll admit, there were moments in the construction process where things got…complicated. My knowledge of robotics and mechanics was stretched thinner than a poorly tuned violin string. At one point, I stared at the half-finished machine and thought, “Well, this is a pickle.”
 
-## 2015
-- 2015-08-28 Vadestedsfestival 2015
-- 2015-08-28 Skattejagten Pandekagemysteriet
-- 2015-07-25 Thylejren Festival 2015
+So, in a moment of either brilliance or panic, I enrolled at DTU to study robotics engineering. The university provided the tools I needed to take Tromleorkestret from a whimsical sketch to a fully-fledged music machine. My crowning achievement during this time was the creation of the robotic slide bass, which became a cornerstone of the orchestra and a testament to the ingenuity demanded by this project.
 
-## 2013
-- 2013-08-10 [Concert at "chez heiner"](https://www.facebook.com/events/486145334812463/)
-- 2013-06-22 [Tunneller og Døre](https://www.facebook.com/events/533015966757080/)
+### **A Symphony of Man, Machine, and Mayhem**
 
+Today, Tromleorkestret is a curious beast. It’s equal parts music machine, performance art, and science experiment. Fire leaps from its depths, robotic instruments play alongside humans, and sound-manipulating gloves summon melodies with the flick of a wrist.
 
+And let’s not forget Sofie’s contributions to the visual experience. Her designs ensure that Tromleorkestret isn’t just a musical marvel but a feast for the eyes as well. Whether she’s dressing the performers, orchestrating the machine’s aesthetics, or fine-tuning its many delightful details (like those cuckoo doors), her touch elevates the entire performance to something truly extraordinary.
 
-# The Background
+But here’s the thing: it’s not perfect. The machine sometimes groans, creaks, and argues back – much like its human creators. And that’s the charm of it. Tromleorkestret is a celebration of ingenuity, imperfection, and the sheer joy of creating something wildly unnecessary but endlessly entertaining.
+
+### **A Journey Without End**
+
+In the end, Tromleorkestret isn’t just about the music, the fire, or the spinning podiums (though those are delightful). It’s about bringing a little wonder to the world – the kind that makes you laugh, clap, and maybe scratch your head in amazement.
+
+So, the next time you see a fire-spouting wagon rolling your way, don’t be alarmed. Just step closer, admire the costumes, marvel at the cuckoo doors, and join us in the beautifully chaotic dance of man and machine.
+
 
 
 <hr>

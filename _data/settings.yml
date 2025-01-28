@@ -13,10 +13,12 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+    - title: 'Shows'
+      url: '/shows/'   
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Style Guide'
-      url: '/styleguide/'
+#    - title: 'Style Guide'
+#      url: '/styleguide/'
 
 
 #-------------------------------
@@ -47,14 +49,14 @@ contact:
 #-------------------------------
 # Footer section
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
+#- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com/tromleorkestret"}
+#- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/tromleorkestret"}
+#- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com/@tromleorkestret8375"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/robotic4udio"}
+#- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
 # Other icons can be found at https://fontawesome.com/icons

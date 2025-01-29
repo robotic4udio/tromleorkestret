@@ -15,6 +15,11 @@ Nestled beneath the commanding presence of the **Robotic Slide Bass** in Tromleo
 > <cite> Balthazar Rivetstone </cite>
 
 
+![AutoKey]({{site.baseurl}}/images/tromleorkestret/AutoKey.gif)
+*Automated Keyboard*
+
+
+
 ## Key Features and Mechanized Precision
 
 1. **Mechanical Actuation**
@@ -30,6 +35,8 @@ When the Automated Keyboard plays, it becomes a hypnotic spectacle. The rapid mo
 > The precision of the Automated Keyboard was mind-blowing, but the way it added emotion to the music was pure magic.
 > 
 > <cite> Elara Nightingale </cite>
+
+
 
 ### Integration with Tromleorkestret’s Music Machine
 

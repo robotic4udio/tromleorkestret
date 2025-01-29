@@ -29,7 +29,7 @@ menu-settings:
 # Author Settings
 author:
   name: HJALTE BESTED HJORTH
-  avatar: '/images/TrorkMV1.jpg'
+  avatar: '/images/tromleorkestret/TrorkMV1.jpg'
 
 
 #-------------------------------
@@ -37,7 +37,7 @@ author:
 hero:
   title: TROMLEORKESTRET
   description: The Firebreathing Music Machine
-  image: '/images/TrorkMV2.jpg'
+  image: '/images/tromleorkestret/TrorkMV2.jpg'
 
 
 #-------------------------------

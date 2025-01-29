@@ -90,6 +90,8 @@ The **Luminari Pads** weave shimmering harmonies through the industrial din, whi
 
 The composition **"Kyoto"** by Tromleorkestret draws inspiration from the sleek and emotive soundscapes of modern Japanese electronic music. The track also interweaves elements of ambient EDM and trip-hop, blending these genres into a unique auditory experience. This fusion underscores Tromleorkestret's commitment to pushing the boundaries of musical exploration and creating immersive, genre-defying performances​​. For a deeper dive into their work, check out their performance of ["Kyoto" on YouTube](https://www.youtube.com/watch?v=iWzG_LWJ1e8).
 
+<p><iframe src="https://www.youtube.com/embed/iWzG_LWJ1e8?si=FLEwiD-HuYvvkB88" frameborder="0" allowfullscreen></iframe></p>
+
 #### Key and Tempo
 - **Key**: **G minor**
 - **Tempo**: **125 BPM**
@@ -102,20 +104,19 @@ The composition **"Kyoto"** by Tromleorkestret draws inspiration from the sleek 
 
 As one of Tromleorkestret’s earliest tracks, **"Neukölln"** stands as a bold declaration of their creative vision, blending the iconic sounds of German krautrock with the unique voice of their Music Machine. Strongly inspired by **Neu**, the track channels the motorik rhythms and hypnotic precision of the genre, while nodding to the raw industrial energy of **Einstürzende Neubauten**.
 
+<p><iframe src="https://www.youtube.com/embed/CjUIswZyYQ0?si=cY7s-G8mBPgq2uaH" frameborder="0" allowfullscreen></iframe></p>
+
 At the core of **"Neukölln"** are the unique instrument, **The Springs**, brought to life by the expressive power of the **Sound Gloves**. Together, they create a driving, mechanical pulse that forms the rhythmic backbone of the piece. Each spring resonates with processed tones, manipulated in real time to generate shifting textures and evolving dynamics, delivering the hypnotic, forward momentum that defines the track.
 
 The **Robotic Bass** provides a powerful low end, its precise, sliding mechanics crafting deep, pulsating basslines that ground the composition. 
 
 With its relentless energy and precise mechanical interplay, **"Neukölln"** captures Tromleorkestret’s early exploration of sound and machinery, offering a glimpse of the innovative artistry that would define their work. It is a testament to their ability to reinterpret and expand upon the krautrock tradition, making it their own.
 
-Experience the performance of ["Neukölln" on YouTube](https://www.youtube.com/watch?v=CjUIswZyYQ0&utm_source=chatgpt.com).
-
 #### Key and Tempo
 - **Key**: **E minor**
 - **Tempo**: **125 BPM**
 - **Time Signature**: **4/4**
 - **Mood**: **Hypnotic, Industrial, Energetic**
-
 
 ---
 
@@ -179,6 +180,7 @@ From there, the medley transitions seamlessly into the adventurous spirit of the
 
 The epic **Imperial March** from _Star Wars_ brings a thunderous intensity, while the jazzy playfulness of **The Pink Panther** provides a lighthearted counterpoint. The medley then moves into the cheeky and cheerful tones of **Shaun the Sheep**, before closing with the energetic, show-stopping brilliance of **Friend Like Me** from _Aladdin_.
 
+<p><iframe src="https://www.youtube.com/embed/1At9PwdWjKA?si=-Y7lcLTpYSSYH2GA" frameborder="0" allowfullscreen></iframe></p>
 
 --- 
 
@@ -187,9 +189,15 @@ The epic **Imperial March** from _Star Wars_ brings a thunderous intensity, whil
 
 Looking for the ultimate wedding surprise? Let **Tromleorkestret** light up the day—literally! Our one-of-a-kind mechanical version of the Wedding March combines glowing drums, handcrafted instruments, and even **flamethrowers** for a spectacular performance like no other! 🎶🔥⚙️
 
+
+<p><iframe src="https://www.youtube.com/embed/I01Y3lGsxgI?si=fm-ZEQXQWwC6F_4y" frameborder="0" allowfullscreen></iframe></p>
+
+
 This unforgettable experience will leave the couple and guests in awe. Perfect for the ceremony or a show-stopping moment during the celebration!
 
 Book Tromleorkestret and give love a soundtrack—and a display—as unique and explosive as the couple themselves. 💍✨🔥
+
+
 
 
 

@@ -13,7 +13,8 @@ We are Tromleorkestret, a Danish ensemble that brings together music, technology
 
 Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, techno, electionic dance music and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
 
-<p><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FTromleorkestret%2Fvideos%2F2418357421702439%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=A1IvQfl7zaX8jK_K" frameborder="0" allowfullscreen></iframe></p>
+
 
 What makes Tromleorkestret truly unique is our music machine. Every instrument we play is handcrafted and full of surprises, from the [Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass) to the [Aeolynth]({{site.baseurl}}/aeolynth), the [Sound Gloves]({{site.baseurl}}/sound-gloves), and the Autonomous Xylophone. These instruments are more than tools—they’re collaborators, driven by custom-built technology and designed to respond to motion, touch, and sound in real-time. Together, we turn every performance into a dynamic interplay between human and machine.
 
@@ -36,7 +37,8 @@ But Tromleorkestret is about more than just the music. Our performances are a fe
 For us, Tromleorkestret is more than a band. It’s a playground for invention, a celebration of creativity, and a way to explore the boundaries of art and technology. We want to amaze, inspire, and leave you with a spark of wonder that stays long after the show ends.
 
 
-<p><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FTromleorkestret%2Fvideos%2F1360362534773507%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/BVNMIxkgRwk?si=p9GULsaK6UpsmWFI" frameborder="0" allowfullscreen></iframe></p>
+
 
 Welcome to our world—where music, fire, and invention come together in perfect chaos.
 
@@ -88,6 +90,8 @@ In the end, Tromleorkestret isn’t just about the music, the fire, or the spinn
 
 So, the next time you see a fire-spouting wagon rolling your way, don’t be alarmed. Just step closer, admire the costumes, marvel at the cuckoo doors, and join us in the beautifully chaotic dance of man and machine.
 
+
+<p><iframe src="https://www.youtube.com/embed/lAkAMG3JD3s?si=3uRlD41i6ALjzgKX" frameborder="0" allowfullscreen></iframe></p>
 
 
 <hr>

@@ -2,13 +2,33 @@
 layout: page
 title: SHOWS
 permalink: /shows/
-image: '/images/tromleorkestret/TromleJul1.jpg'
+image: '/images/tromleorkestret/Pub1.jpg'
 ---
 
 # Upcomming Shows
 ## 2025
-- 2024-06-28 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
-- 2024-06-27 [Fusion Festival 2025](https://tickets.fusion-festival.de/)
+- 2025-05-17 [Havespektakel 2025](https://fb.me/e/az3xZypqO)
+- 2025-06-13 Free the Freaks Festival 2025
+- 2025-06-14 Free the Freaks Festival 2025
+- 2025-06-28 [Fusion Festival 2025](https://fusion-festival.de/en)
+- 2025-06-27 [Fusion Festival 2025](https://fusion-festival.de/en)
+
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/fusion/DSC6086.jpg">
+    <img src="/images/fusion/DSC6244.jpg">
+    <img src="/images/fusion/DSC6183.jpg">
+    <img src="/images/fusion/DSC6404.jpg">
+    <img src="/images/fusion/DSC6201.jpg">
+    <img src="/images/fusion/DSC6598.jpg">
+    <img src="/images/fusion/DSC6198.jpg">
+    <img src="/images/fusion/DSC6128.jpg">
+    <img src="/images/fusion/DSC6600.jpg">
+  </div>
+    <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> and the <a href="https://www.facebook.com/pyromaniacs.dk/">Pyromaniacs</a> @ <a href="https://www.fusion-festival.de/en">Fusion Festival </a></em>
+</div>
 
 
 
@@ -26,7 +46,20 @@ image: '/images/tromleorkestret/TromleJul1.jpg'
 - 2024-06-15 [Bryllyp på Samsø]
 - 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
-- 2024-05-08 [SOMMERFEST I BAGHAVEN // Mad: Det levende bord // Musik: Tromleorkestret](https://www.facebook.com/events/1599151907549191/)
+- 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/jul24/TrorkJul14.jpg">
+    <img src="/images/jul24/TrorkJul13.jpg">
+    <img src="/images/jul24/TrorkJul15.jpg">
+    <img src="/images/jul24/TrorkJul1.jpg">
+    <img src="/images/jul24/TrorkJul10.jpg">
+    <img src="/images/jul24/TrorkJul11.jpg">
+  </div>
+    <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> @ <a href="https://www.juleloesesjul.com/">Juleløses Jul</a> // Photos by Jens Raadal </em>
+</div>
+
 
 ## 2023
 
@@ -89,6 +122,16 @@ image: '/images/tromleorkestret/TromleJul1.jpg'
 ## 2013
 - 2013-08-10 [Concert at "chez heiner"](https://www.facebook.com/events/486145334812463/)
 - 2013-06-22 [Tunneller og Døre](https://www.facebook.com/events/533015966757080/)
+
+
+
+## 2012
+- 2012-08-26 Circus Spectaculum, La Capra Grassa, Christiania
+- 2012-08-25 Circus Spectaculum, La Capra Grassa, Christiania
+- 2012-08-24 Circus Spectaculum, La Capra Grassa, Christiania
+- 2012-08-23 Circus Spectaculum, La Capra Grassa, Christiania
+
+![]({{site.baseurl}}/images/tromleorkestret/IMG_1566658694568.jpg#wide)
 
 
 <hr>

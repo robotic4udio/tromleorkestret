@@ -4,6 +4,8 @@ title:  The Robotic Slide Bass
 description: The Mechanical Marvel Behind the Low-End Groove
 image:  '/images/tromleorkestret/BassPicks.png'
 tags:   [Tromleorkestret, DIY, Music, SoundDesign, Work]
+featured: true
+showdate: false
 ---
 
 Deep within the intricate workings of Tromleorkestret’s Music Machine lies the **Robotic Bass**—a mechanical wonder and the driving force of low-end resonance in their performances. This remarkable robotic slide bass fuses precision engineering with musical artistry, providing a foundation of rich, dynamic tones that harmonize effortlessly with the ensemble’s unique sound.

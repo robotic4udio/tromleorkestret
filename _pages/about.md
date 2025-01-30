@@ -94,4 +94,15 @@ So, the next time you see a fire-spouting wagon rolling your way, don’t be ala
 <p><iframe src="https://www.youtube.com/embed/lAkAMG3JD3s?si=3uRlD41i6ALjzgKX" frameborder="0" allowfullscreen></iframe></p>
 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/drawings/Master.jpg">
+    <img src="/images/drawings/Machine.jpg">
+    <img src="/images/drawings/MasterScetch.jpg">
+  </div>
+    <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> and the <a href="https://www.facebook.com/pyromaniacs.dk/">Pyromaniacs</a> @ <a href="https://www.fusion-festival.de/en">Fusion Festival </a></em>
+</div>
+
+
+
 <hr>

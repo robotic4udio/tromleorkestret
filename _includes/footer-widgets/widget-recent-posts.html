@@ -20,8 +20,10 @@
               {{ words | divided_by:180 }} min read
             {% endif %}
           </span>
+          {% if post.showdate %}
           <time class="article__date"
             datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time>
+          {% endif %}
         </div>
         <h4 class="recent-posts__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
         <div class="article__bottom">

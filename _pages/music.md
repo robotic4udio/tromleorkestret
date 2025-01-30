@@ -2,7 +2,7 @@
 layout: page
 title: MUSIC
 permalink: /music/
-image: '/images/tromleorkestret/TrorkMVo1.jpg'
+image: '/images/tromleorkestret/TrorkMV1.jpg'
 ---
 
 Tromleorkestret’s music is a kaleidoscopic blend of soundscapes where the mechanical meets the magical, creating a genre-defying experience. Rooted in the psychedelic traditions of exploration and immersion, their compositions draw from a multitude of genres, including cinematic orchestration, steampunk-inspired whimsy, ambient electronic music, and the driving rhythms of experimental EDM.
@@ -198,6 +198,7 @@ This unforgettable experience will leave the couple and guests in awe. Perfect f
 Book Tromleorkestret and give love a soundtrack—and a display—as unique and explosive as the couple themselves. 💍✨🔥
 
 
+![]({{site.baseurl}}/images/tromleorkestret/IMG_1566361426127.jpg#wide)
 
 
 

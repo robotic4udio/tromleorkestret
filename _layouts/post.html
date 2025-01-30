@@ -24,8 +24,10 @@ layout: default
               {% else %}
                 {{ words | divided_by:180 }} min read
               {% endif %}
+              {% if page.showdate %}
               <time class="post__date"
                 datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
+              {% endif %}
             </span>
           </div>
 

@@ -4,6 +4,7 @@ title:  The Automated Keyboard
 description: An Invisible Virtuoso
 image:  '/images/tromleorkestret/AutoKey.jpg'
 tags:   [Tromleorkestret, DIY, Music, SoundDesign, Work]
+featured: true
 ---
 
 > "The Automated Keyboard played with such speed and precision, it was like listening to a virtuoso from the future."

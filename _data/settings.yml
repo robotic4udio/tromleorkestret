@@ -19,8 +19,8 @@ menu-settings:
       url: '/shows/'
     - title: 'WHO ARE WE?'
       url: '/people/'
-    - title: 'Contact'
-      url: '/contact/'
+#   - title: 'Contact'
+#     url: '/contact/'
 #    - title: 'Style Guide'
 #      url: '/styleguide/'
 
@@ -70,7 +70,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: hjaltebestedhjorth # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: hjaltebestedhjorth # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

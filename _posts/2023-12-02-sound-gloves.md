@@ -4,6 +4,7 @@ title:  Sound Gloves
 description: A Key Instrument in Tromleorkestret’s Sonic Arsenal
 image:  '/images/tromleorkestret/GloveLight.jpg'
 tags:   [Tromleorkestret, DIY, Music, SoundDesign, Work]
+featured: true
 ---
 
 The **Sound Gloves** are an instrument designed exclusively for Tromleorkestret, blending cutting-edge technology with expressive performance. Developed as a wearable controller for real-time sound manipulation, the Sound Gloves empower the performer, to sculpt dynamic sonic landscapes with precision and creativity.

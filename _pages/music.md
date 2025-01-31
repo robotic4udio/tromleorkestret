@@ -5,20 +5,17 @@ permalink: /music/
 image: '/images/tromleorkestret/TromleJul1.jpg'
 ---
 
-Tromleorkestret’s music is a kaleidoscopic blend of soundscapes where the mechanical meets the magical, creating a genre-defying experience. Rooted in the psychedelic traditions of exploration and immersion, their compositions draw from a multitude of genres, including cinematic orchestration, steampunk-inspired whimsy, kraut-rock, techno, ambient electronic music, and more.
-
-The melodies are infused with cinematic grandeur, evoking vast landscapes and dreamlike journeys. The rhythms pulsate with hypnotic energy, driven by robotic precision and human artistry, drawing listeners into a vivid, otherworldly soundscape.
+Tromleorkestret’s music is a kaleidoscopic blend of soundscapes where the mechanical meets the magical, creating a genre-defying experience. Rooted in the psychedelic traditions of exploration and immersion, their compositions draw from a multitude of genres, including cinematic scores, steampunk-inspired whimsy, kraut-rock, techno and ambient electronic music.
 
 Psychedelic undertones run deep in Tromleorkestret’s music, with rich textures, surreal effects, and immersive sound design that transport the audience to an altered auditory dimension. 
-
-With humor and ingenuity woven into their compositions, Tromleorkestret doesn’t just perform music—they create a living, breathing world of sound and spectacle. 
-
 
 # Original Compositions
 
 ## Aeolian Horizon
 
-**"Aeolian Horizon"** features the **Aeolynth** leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
+**"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
+
+<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022945644&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
 ## Battery
 **"Battery"** is Tromleorkestret’s playful homage to Kraftwerk, blending retro-futuristic charm with mechanical precision. The track pulses with vibrant energy, humor, and innovation, creating a captivating dance between man and machine.
@@ -26,9 +23,10 @@ With humor and ingenuity woven into their compositions, Tromleorkestret doesn’
 ## Fautec
 A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and experimental IDM**, driven by our self-constructed, steampunk-infused music machine. Mechanical precision meets psychedelic textures in this hypnotic performance.  
 
-<p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
-*A raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy*
+<p><iframe height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2023007844&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
+Below is a raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy:
+<p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
 
 ## The Introducer
 This track channels the glitchy grooves and cinematic bass design of Tipper, blending intricate percussive textures, warped synth lines, and our signature mechanical precision.
@@ -40,6 +38,8 @@ As the performance reaches its climax, the steampunk music machine locks into hy
 ## High Voltage
 
 **"High Voltage"** is a relentless fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.
+
+<p><iframe height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2023020088&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
 <p><iframe src="https://www.youtube.com/embed/tCststWZANQ?si=FyvWxDS61yp-I7L1" frameborder="0" allowfullscreen></iframe></p>
 *A raw audience recording of Tromleorkestret performing *"High Voltage"* at *Bascherdeis Festival 2024* in Italy*
@@ -58,17 +58,17 @@ As one of Tromleorkestret’s earliest tracks, **"Neukölln"** stands as a bold 
 <p><iframe src="https://www.youtube.com/embed/CjUIswZyYQ0?si=cY7s-G8mBPgq2uaH" frameborder="0" allowfullscreen></iframe></p>
 
 
-
-
 ## The Midnight Carousel
 
 Step into the swirling chaos of **"The Midnight Carousel"**, a darkly enchanting composition that captures the madness and wonder of a haunted carnival spinning endlessly in the dead of night. Composed in the shadowy tones of **F minor**, with an unsettling reliance on **chromatic mediant chord relations**, this track twists and turns unpredictably, much like the carousel it depicts—a machine of both beauty and eerie disarray. 
 
 
 
-## Velvet Mechanica
+## Velvet
  
- **"Velvet Mechanica"** is a lush and hypnotic track that plunges the listener into the moody, cinematic world of trip-hop. Inspired by the genre-defining sounds of **Portishead**, **Lamb**, and **Massive Attack**, this composition layers haunting melodies, ethereal atmospheres, and pulsating rhythms into a tapestry that feels both deeply human and intriguingly machine-like. 
+ **"Velvet"** is a lush and hypnotic track that plunges the listener into the moody, cinematic world of trip-hop. Inspired by the genre-defining sounds of **Portishead**, **Lamb**, and **Massive Attack**, this composition layers haunting melodies, ethereal atmospheres, and pulsating rhythms into a tapestry that feels both deeply human and intriguingly machine-like. 
+
+<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022920744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
 <hr>
 
@@ -91,6 +91,9 @@ The epic **Imperial March** from _Star Wars_ brings a thunderous intensity, whil
 
 <p><iframe src="https://www.youtube.com/embed/cEMoyGLqiOM?si=tgVrxkCMEydU15N2" frameborder="0" allowfullscreen></iframe></p>
 
+
+
+<p><iframe height="160" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1961598160&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
 <hr>
 

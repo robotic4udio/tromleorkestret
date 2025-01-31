@@ -37,11 +37,6 @@ As the performance reaches its climax, the steampunk music machine locks into hy
 <p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=ckJ88gOAAjy1qRJi" frameborder="0" allowfullscreen></iframe></p>
 *A raw audience recording of Tromleorkestret performing *"The Introducer"* at *Bascherdeis Festival 2024* in Italy*
 
-The End:
-
-<p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=ckJ88gOAAjy1qRJi" frameborder="0" allowfullscreen></iframe></p>
-*A raw audience recording of Tromleorkestret performing *"The Introducer"* at *Bascherdeis Festival 2024* in Italy*
-
 ## High Voltage
 
 **"High Voltage"** is a relentless fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.

@@ -17,10 +17,10 @@ menu-settings:
       url: '/music/'  
     - title: 'Shows'
       url: '/shows/'
-    - title: 'WHO ARE WE?'
+    - title: 'People'
       url: '/people/'
-#   - title: 'Contact'
-#     url: '/contact/'
+    - title: 'Contact'
+      url: '/contact/'
 #    - title: 'Style Guide'
 #      url: '/styleguide/'
 

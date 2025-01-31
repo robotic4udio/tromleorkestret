@@ -2,7 +2,7 @@
 layout: page
 title: Who are we?
 permalink: /people/
-image: '/images/tromleorkestret/TromleJul1.jpg'
+image: '/images/tromleorkestret/TrorkMV1.jpg'
 ---
 
 # HJALTE BESTED HJORTH
@@ -13,7 +13,7 @@ As a composer, I explore a broad spectrum of styles, from cinematic and experime
 
 I’m also a DIY enthusiast and creative coder who thrives on turning bold concepts into tangible creations. With a background in robotics and engineering, I design and build robotic instruments, sensor-driven interfaces, and interactive installations. My projects seamlessly combine custom hardware, creative algorithms, and programming to blur the lines between musician and machine. Tools like Bela, MaxMSP, and Open Sound Control (OSC) play a central role in my work, allowing me to shape performances that are as visually captivating as they are sonically innovative.
 
-> "Few can transform technical mastery into pure artistry the way Hjalte does—it’s innovation, redefined."
+> "Few can transform technical mastery into pure artistry the way Hjalte does!"
 
 As the creator of Tromleorkestret, I have developed a performance style where human musicians and robotic instruments share the stage in a spectacle of sound, light, and motion. This blend of artistry and engineering reflects my lifelong fascination with pushing the boundaries of what music and technology can achieve together.
   

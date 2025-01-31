@@ -9,7 +9,7 @@ We are Tromleorkestret, a Danish ensemble that brings together music, technology
 
 > It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
 >
-> <cite> Percival Gearstride </cite>
+> <cite> Ichabod Crane </cite>
 
 Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, techno, electionic dance music and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
 

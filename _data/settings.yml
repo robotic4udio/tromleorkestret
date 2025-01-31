@@ -17,6 +17,8 @@ menu-settings:
       url: '/music/'  
     - title: 'Shows'
       url: '/shows/'
+    - title: 'Gallery'
+      url: '/gallery/'  
     - title: 'People'
       url: '/people/'
     - title: 'Contact'
@@ -60,9 +62,19 @@ social:
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/tromleorkestret"}
 #- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com/@tromleorkestret8375"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/robotic4udio"}
 #- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
+social-hjalte:
+- {icon: "fa-regular fa-envelope", name: "Email", link: "mailto:hjalte.bested.hjorth@gmail.com"}
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com/hjalte.hjorth"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/robotic4udio"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://dk.linkedin.com/in/hjalte-bested-moeller"}
+
+social-sofie:
+- {icon: "fa-regular fa-envelope", name: "Email", link: "mailto:sofie.hjorth@gmail.com"}
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com/sofie.schausen"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: https://www.instagram.com/sofie._.hjorth}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://dk.linkedin.com/in/sofie-hjorth-schausen-7570787a"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
 # Other icons can be found at https://fontawesome.com/icons

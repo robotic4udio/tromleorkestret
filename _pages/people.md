@@ -19,10 +19,7 @@ As the creator of Tromleorkestret, I have developed a performance style where hu
   
 Whether composing for theater, designing interactive learning tools, or performing on stage, my goal is always the same: to connect, inspire, and transport audiences to new realms of creativity and imagination.
 
-
-
-
-![]({{site.baseurl}}/images/drawings/master.jpg#right)
+{% include social-links-hjalte.html %}
 
 
 
@@ -32,15 +29,20 @@ Whether composing for theater, designing interactive learning tools, or performi
 
 Sofie Hjorth Schausen is a Danish multidisciplinary artist, sound designer, and podcaster with a passion for storytelling, performance, and exploring the intersections of art, science, and technology. Whether crafting immersive soundscapes, designing captivating visuals, or performing on stage, Sofie’s work invites audiences into richly layered worlds that inspire wonder and curiosity.  
 
-![]({{site.baseurl}}/images/tromleorkestret/SofieMV2.jpg#right)
-
 As a co-creator and performer in **Tromleorkestret**, Sofie is an integral force behind the ensemble’s unique blend of music, technology, and theatricality. From her role as a sound manipulator—shaping live, dynamic audio experiences—to her design of intricate costumes and visuals, she brings Tromleorkestret’s steampunk-inspired music machine to life. Her ability to weave sound, motion, and design creates performances that transcend traditional boundaries, captivating audiences with their immersive spectacle.  
 
+![]({{site.baseurl}}/images/tromleorkestret/SofieMV2.jpg#right)
+
 Sofie is also the creator and host of the podcast **"Lyden af Videnskab" (The Sound of Science)**, where she combines her love for storytelling with a talent for sound design to make science both accessible and engaging. Through vivid narratives and atmospheric audio, Sofie transforms complex topics into captivating listening experiences, connecting audiences to the wonder of the natural world and the discoveries shaping our future.  
+
 
 Her artistic foundation is rooted in a diverse background that spans cabaret, surrealism, and global engagement through organizations like Mellemfolkeligt Samvirke. These influences shine through in her work, where humor, playfulness, and a touch of the absurd meet meticulous craftsmanship and technical expertise.  
 
 For Sofie, creativity is about connection—whether through the magic of a live performance, the intimacy of a podcast, or the transformative power of sound and design. Her work reflects a dedication to crafting experiences that resonate, provoke thought, and leave a lasting impression.  
+
+{% include social-links-hjalte.html %}
+
+<br>
 
 ![]({{site.baseurl}}/images/tromleorkestret/IMG_1566658694568.jpg#wide)
 

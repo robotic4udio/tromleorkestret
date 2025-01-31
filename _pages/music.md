@@ -23,13 +23,31 @@ With humor and ingenuity woven into their compositions, Tromleorkestret doesn’
 ## Battery
 **"Battery"** is Tromleorkestret’s playful homage to Kraftwerk, blending retro-futuristic charm with mechanical precision. The track pulses with vibrant energy, humor, and innovation, creating a captivating dance between man and machine.
 
+## Fautec
+A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and experimental IDM**, driven by our self-constructed, steampunk-infused music machine. Mechanical precision meets psychedelic textures in this hypnotic performance.  
 
+<p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
+*A raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy*
+
+
+## The Introducer
+This track channels the glitchy grooves and cinematic bass design of Tipper, blending intricate percussive textures, warped synth lines, and our signature mechanical precision.
+As the performance reaches its climax, the steampunk music machine locks into hypnotic rhythms, twisting and bending sound in a mesmerizing display of organic-meets-robotic energy. Pulsing bass, crisp stutters, and swirling melodies weave together in an electrified, otherworldly finale.
+
+<p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=ckJ88gOAAjy1qRJi" frameborder="0" allowfullscreen></iframe></p>
+*A raw audience recording of Tromleorkestret performing *"The Introducer"* at *Bascherdeis Festival 2024* in Italy*
+
+The End:
+
+<p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=ckJ88gOAAjy1qRJi" frameborder="0" allowfullscreen></iframe></p>
+*A raw audience recording of Tromleorkestret performing *"The Introducer"* at *Bascherdeis Festival 2024* in Italy*
 
 ## High Voltage
 
 **"High Voltage"** is a relentless fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.
 
-
+<p><iframe src="https://www.youtube.com/embed/tCststWZANQ?si=FyvWxDS61yp-I7L1" frameborder="0" allowfullscreen></iframe></p>
+*A raw audience recording of Tromleorkestret performing *"High Voltage"* at *Bascherdeis Festival 2024* in Italy*
 
 ## Kyoto
 

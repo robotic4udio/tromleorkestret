@@ -11,6 +11,9 @@ Hi, my name is Hjalte Bested Hjorth. I am a composer, musician, and creative tec
 
 As a composer, I explore a broad spectrum of styles, from cinematic and experimental electronic music to dynamic, interactive performances. My music often combines human expression with mechanical precision, showcasing custom-built instruments like the fire-breathing music machine of **Tromleorkestret**. Rooted in creativity and experimentation, my compositions are inspired by everything from psychedelic journeys and film scores to the rich interplay of acoustic and electronic sound.
 
+![]({{site.baseurl}}/images/tromleorkestret/AarhusHjalte.jpg#right)
+
+
 I’m also a DIY enthusiast and creative coder who thrives on turning bold concepts into tangible creations. With a background in robotics and engineering, I design and build robotic instruments, sensor-driven interfaces, and interactive installations. My projects seamlessly combine custom hardware, creative algorithms, and programming to blur the lines between musician and machine. Tools like Bela, MaxMSP, and Open Sound Control (OSC) play a central role in my work, allowing me to shape performances that are as visually captivating as they are sonically innovative.
 
 > "Few can transform technical mastery into pure artistry the way Hjalte does!"

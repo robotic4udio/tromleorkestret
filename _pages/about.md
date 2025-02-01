@@ -58,6 +58,22 @@ The ceiling, predictably, offered no answers. So, we made a list – a proper in
 
 Sofie, ever the designer, immediately began sketching outfits for our new venture. With her remarkable eye for aesthetics, she crafted costumes that turned us into characters as eccentric as the machine itself. Much of Tromleorkestret’s signature look owes itself to her genius, from the tailored details to the overall visual harmony.
 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/contruction/IMG_1459.JPG">
+    <img src="/images/contruction/IMG_1581.JPG">
+    <img src="/images/contruction/IMG_1575.JPG">
+    <img src="/images/contruction/IMG_1586.JPG">
+    <img src="/images/contruction/IMG_1595.JPG">
+    <img src="/images/contruction/IMG_1599.JPG">
+    <img src="/images/contruction/IMG_1593.JPG">
+    <img src="/images/contruction/IMG_1626.JPG">
+    <img src="/images/contruction/IMG_1608.JPG">
+  </div>
+</div>
+
+
 ### **From Modest Beginnings to Mechanical Mayhem**
 
 Naturally, such an idea demanded a stage. So, we built a wagon. And thus, Tromleorkestret made its humble debut, rolling through streets and surprising unsuspecting onlookers with a mix of music, oddity, and sheer nerve.

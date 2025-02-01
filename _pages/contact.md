@@ -2,7 +2,7 @@
 layout: page
 title: CONTACT 
 permalink: /contact/
-image: '/images/tromleorkestret/TrorkMV1.jpg'
+image: '/images/smk/SMK2.jpg'
 ---
 
 Contact us for booking, collaborations, or just to say hello!
@@ -19,6 +19,7 @@ Contact us for booking, collaborations, or just to say hello!
 - Phone: [+45 23 28 29 26](tel:+4523282926)
 
 {% include social-links-hjalte.html %}
+
 
 <hr>
 

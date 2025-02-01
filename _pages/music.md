@@ -11,7 +11,7 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 >
 > <cite> Ichabod Crane </cite>
 
-# Original Compositions
+# Tromleorkestret's Music
 
 ## Velvet
  
@@ -105,7 +105,9 @@ This unforgettable experience will leave the couple and guests in awe. Perfect f
 Book Tromleorkestret and give love a soundtrack—and a display—as unique and explosive as the couple themselves. 💍✨🔥
 
 
-![]({{site.baseurl}}/images/tromleorkestret/IMG_1566361426127.jpg#wide)
+![]({{site.baseurl}}/images/tromleorkestret/Gisselfeldt1.jpg#wide)
+
+
 
 
 

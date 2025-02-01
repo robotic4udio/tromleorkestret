@@ -131,7 +131,7 @@ image: '/images/tromleorkestret/Pub1.jpg'
 - 2012-08-24 Circus Spectaculum, La Capra Grassa, Christiania
 - 2012-08-23 Circus Spectaculum, La Capra Grassa, Christiania
 
-![]({{site.baseurl}}/images/tromleorkestret/IMG_1566658694568.jpg#wide)
+![]({{site.baseurl}}/images/smk/SMK4.jpg.jpg#wide)
 
 
 <hr>

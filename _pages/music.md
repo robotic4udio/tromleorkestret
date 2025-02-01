@@ -7,7 +7,9 @@ image: '/images/tromleorkestret/TromleJul1.jpg'
 
 Tromleorkestret’s music is a kaleidoscopic blend of soundscapes where the mechanical meets the magical, creating a genre-defying experience. Rooted in the psychedelic traditions of exploration and immersion, their compositions draw from a multitude of genres, including cinematic scores, steampunk-inspired whimsy, kraut-rock, techno and ambient electronic music.
 
-Psychedelic undertones run deep in Tromleorkestret’s music, with rich textures, surreal effects, and immersive sound design that transport the audience to an altered auditory dimension. 
+> It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
+>
+> <cite> Ichabod Crane </cite>
 
 # Original Compositions
 

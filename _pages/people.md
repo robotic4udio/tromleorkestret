@@ -44,7 +44,7 @@ For Sofie, creativity is about connection—whether through the magic of a live 
 
 <br>
 
-![]({{site.baseurl}}/images/tromleorkestret/IMG_1566658694568.jpg#wide)
+![]({{site.baseurl}}/images/smk/SMK4.jpg.jpg#wide)
 
 
 

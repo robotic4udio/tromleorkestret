@@ -106,7 +106,7 @@ image: '/images/KB3/KB3-2.jpg'
 
 
 
-![]({{site.baseurl}}/images/tromleorkestret/IMG_1566658694568.jpg#wide)
+![]({{site.baseurl}}/images/smk/SMK4.jpg.jpg#wide)
 
 
 

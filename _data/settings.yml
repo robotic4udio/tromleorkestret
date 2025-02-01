@@ -39,7 +39,9 @@ author:
 hero:
   title: TROMLEORKESTRET
   description: The Firebreathing Music Machine
-  image: '/images/tromleorkestret/TrorkMV2.jpg'
+  #image: '/images/tromleorkestret/TrorkMV2.jpg'
+  image: '/images/himmelstorm/Himmelstorm1.jpg'
+
 
 
 #-------------------------------

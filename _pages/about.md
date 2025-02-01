@@ -7,9 +7,7 @@ image: '/images/tromleorkestret/TrorkMVo1.jpg'
 
 We are Tromleorkestret, a Danish ensemble that brings together music, technology, and performance art to create immersive, genre-defying, psychedelic experiences. At the heart of what we do is our custom-built, fire-breathing music machine—a steampunk-inspired creation where human creativity and mechanical ingenuity collide.
 
-> It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
->
-> <cite> Ichabod Crane </cite>
+
 
 Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, techno, electionic dance music and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
 

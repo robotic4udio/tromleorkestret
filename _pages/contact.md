@@ -8,6 +8,7 @@ image: '/images/smk/SMK2.jpg'
 Contact us for booking, collaborations, or just to say hello!
 
 # TROMLEORKESTRET
+- Email: [tromleorkestret@gmail.com](mailto:tromleorkestret@gmail.com)
 
 {% include social-links.html %}
 

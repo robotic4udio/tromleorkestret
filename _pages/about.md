@@ -9,7 +9,9 @@ We are Tromleorkestret, a Danish ensemble that brings together music, technology
 
 Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautrock, techno, electionic dance music and more. Each performance is an adventure, combining robotic precision with human artistry to craft soundscapes that are both otherworldly and deeply emotive. We love exploring the space where chaos meets harmony, where the mechanical becomes magical.
 
-<p><iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=A1IvQfl7zaX8jK_K" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe></p>
+
 
 
 What makes Tromleorkestret truly unique is our music machine. Every instrument we play is handcrafted and full of surprises, from the [Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass) to the [Aeolynth]({{site.baseurl}}/aeolynth), the [Sound Gloves]({{site.baseurl}}/sound-gloves), and the Autonomous Xylophone. These instruments are more than tools—they’re collaborators, driven by custom-built technology and designed to respond to motion, touch, and sound in real-time. Together, we turn every performance into a dynamic interplay between human and machine.

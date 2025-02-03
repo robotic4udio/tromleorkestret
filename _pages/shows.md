@@ -37,7 +37,13 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2024-08-10 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
 - 2024-08-09 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
 - 2024-08-02 [Bascherdeis Festival 2024 - Senza Confini -](https://www.facebook.com/events/833929361608844/)
-  <iframe src="https://www.youtube.com/embed/nIYu7RLSAy4?si=A1IvQfl7zaX8jK_K" frameborder="0" allowfullscreen></iframe>
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/bascherdeis/Bascherdeis-9.jpg">
+      <img src="/images/bascherdeis/Bascherdeis-13.jpg">
+      <img src="/images/bascherdeis/Bascherdeis-S12.png">
+    </div>
+  </div>
 - 2024-07-12 [Byggefestivalen på Als - 2024](https://www.facebook.com/events/312564731808115/)
   <iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe>
 - 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)

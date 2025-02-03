@@ -50,10 +50,6 @@ Welcome to our world—where music, fire, and invention come together in perfect
 
 
 # The Origin Story
-Gather ’round, dear friend, and lend me your ears for the improbable, peculiar, and altogether delightful tale of Tromleorkestret. Born of boredom, and a shared penchant for the unusual, this merry band of human and mechanical collaborators has traveled far and wide, delighting all who encounter their whimsical, fire-spouting musical contraption.
-
-### **A Spark of Genius (or Perhaps Madness)**
-
 It was a quiet evening in 2012. The applause from our cabaret show, Cuckoo’s Nest Cabaret, had long faded, and Sofie and I found ourselves adrift in the void of post-performance ennui. The show had been a wild blend of slapstick, surrealism, and sonic chaos – including invisible man fights, dramatic slow-motion sequences, and sound effects ranging from whip cracks to well-timed flatulence. It was theater at its most delightfully absurd, but now that the curtains had closed, we asked ourselves: “What next?”
 
 The ceiling, predictably, offered no answers. So, we made a list – a proper inventory of all the skills and oddities we each brought to the table. By the time we’d scribbled halfway down, the idea struck: Why not build a music machine? A proper contraption! Picture this: a mobile mechanical marvel, with Sofie perched atop a spinning podium, all the while I, the industrious organ grinder, cranked out tunes on an assembly of instruments so peculiar, it would make a mad inventor blush.
@@ -82,17 +78,17 @@ Naturally, such an idea demanded a stage. So, we built a wagon. And thus, Tromle
 
 The wagon itself was as much a performer as we were. It housed a collection of mechanical wonders, each more curious than the last. Among its many marvels were three cuckoo doors, each one a portal to a little scene of whimsy. Behind one door was a taxidermied mouse sporting a jaunty top hat; behind another, a rat clad in race-driver gloves; and behind the last, a bird so lifelike it seemed ready to chirp. These tiny tableaux delighted audiences, adding a touch of charm to the machine’s already bizarre persona.
 
-Of course, the wagon quickly took on a life of its own. A slide bass here, a robotic drum there – soon, it resembled something out of Jules Verne’s sketchbook. Flames were added (because why not?), and before we knew it, we had a fire-breathing, sound-making, joy-inducing monstrosity that delighted and slightly alarmed audiences in equal measure.
+Of course, the wagon quickly took on a life of its own. A [slide bass]({{site.baseurl}}/robotic-slide-bass) here, a robotic drum there – soon, it resembled something out of Jules Verne’s sketchbook. Flames were added (because why not?), and before we knew it, we had a fire-breathing, sound-making, joy-inducing monstrosity that delighted and slightly alarmed audiences in equal measure.
 
 ### **An Education in Creativity (and Desperation)**
 
 Now, I’ll admit, there were moments in the construction process where things got…complicated. My knowledge of robotics and mechanics was stretched thinner than a poorly tuned violin string. At one point, I stared at the half-finished machine and thought, “Well, this is a pickle.”
 
-So, in a moment of either brilliance or panic, I enrolled at DTU to study robotics engineering. The university provided the tools I needed to take Tromleorkestret from a whimsical sketch to a fully-fledged music machine. My crowning achievement during this time was the creation of the robotic slide bass, which became a cornerstone of the orchestra and a testament to the ingenuity demanded by this project.
+So, in a moment of either brilliance or panic, I enrolled at DTU to study robotics engineering. The university provided the tools I needed to take Tromleorkestret from a whimsical sketch to a fully-fledged music machine. My crowning achievement during this time was the creation of the [robotic slide bass]({{site.baseurl}}/robotic-slide-bass), which became a cornerstone of the orchestra and a testament to the ingenuity demanded by this project.
 
 ### **A Symphony of Man, Machine, and Mayhem**
 
-Today, Tromleorkestret is a curious beast. It’s equal parts music machine, performance art, and science experiment. Fire leaps from its depths, robotic instruments play alongside humans, and sound-manipulating gloves summon melodies with the flick of a wrist.
+Today, Tromleorkestret is a curious beast. It’s equal parts music machine, performance art, and science experiment. Fire leaps from its depths, robotic instruments play alongside humans, and [sound-manipulating gloves]({{site.baseurl}}/sound-gloves) summon melodies with the flick of a wrist.
 
 And let’s not forget Sofie’s contributions to the visual experience. Her designs ensure that Tromleorkestret isn’t just a musical marvel but a feast for the eyes as well. Whether she’s dressing the performers, orchestrating the machine’s aesthetics, or fine-tuning its many delightful details (like those cuckoo doors), her touch elevates the entire performance to something truly extraordinary.
 

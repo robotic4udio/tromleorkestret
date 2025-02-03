@@ -5,7 +5,7 @@ permalink: /music/
 image: '/images/tromleorkestret/TromleJul1.jpg'
 ---
 
-Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk aesthetics meet psychedelic energy in a fire-breathing, robotic symphony. Crafted on a self-built mechanical music machine, their compositions fuse cinematic grandeur, hypnotic rhythms, and futuristic orchestration into a sonic experience. Imagine a cyberpunk carnival, where robotic basslines glide like clockwork, automated xylophones shimmer, and percussive gears drive relentless grooves. With a spirit rooted in krautrock, ambient electronic, and avant-garde experimentation, Tromleorkestret blurs the lines between man and machine, past and future—delivering an electrifying, otherworldly spectacle.
+Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk aesthetics meet psychedelic energy in a fire-breathing, robotic symphony. Crafted on a self-built mechanical music machine, their compositions fuse cinematic grandeur, hypnotic rhythms, and futuristic orchestration into a sonic experience. Imagine a cyberpunk carnival, where [robotic basslines]({{site.baseurl}}/robotic-slide-bass)  glide like clockwork, automated xylophones shimmer, and percussive gears drive relentless grooves. With a spirit rooted in krautrock, ambient electronic, and avant-garde experimentation, Tromleorkestret blurs the lines between man and machine, past and future—delivering an electrifying, otherworldly spectacle.
 
 > It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
 >

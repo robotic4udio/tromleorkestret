@@ -37,6 +37,7 @@ The **Sound Gloves** are an instrument designed exclusively for Tromleorkestret,
 
 2. **[Max4Live](https://www.ableton.com/en/live/max-for-live/) Integration**
     - In addition to Bela systems, the Sound Gloves control a special [Max4Live](https://www.ableton.com/en/live/max-for-live/) device tailored specifically for the gloves. This device includes a specialized effect chain designed to leverage the gloves’ expressive capabilities, offering endless possibilities for real-time sound manipulation during performances.
+    ![SofieGloves]({{site.baseurl}}/images/gloves/M4L-HandFx.png)
 
 ### **Dynamic Parameter Space**
 

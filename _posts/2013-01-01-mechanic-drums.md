@@ -10,6 +10,21 @@ showdate: false
 
 The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret’s Music Machine. Its mechanical precision and unique instrument setup bring a dynamic percussive presence to the compositions, blending sound and visuals seamlessly.
 
+
+<div class="gallery-box">
+    <div class="gallery" columns="2">
+        <img src="/images/drums/Frog1.png">
+        <img src="/images/drums/Maracas1.png">
+        <img src="/images/drums/Speaker2.png">
+        <img src="/images/drums/Speaker1.png">
+        <img src="/images/drums/TopDrum.png">
+        <img src="/images/drums/SideDrum2.png">
+    </div>
+</div>
+
+
+
+
 #### Key Features and Setup
 
 1. **Instrumentation**

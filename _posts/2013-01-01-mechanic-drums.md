@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Mechanic Drum Ensemble
+description: 
+image:  '/images/drums/SideDrum3_cover.png'
+tags:   [Instrument, SoundDesign, Robot, Work]
+faetured: false
+showdate: false
+---
+
+The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret’s Music Machine. Its mechanical precision and unique instrument setup bring a dynamic percussive presence to the compositions, blending sound and visuals seamlessly.
+
+#### Key Features and Setup
+
+1. **Instrumentation**
+    - A small **drum**
+    - A **tambourine drum**, combining sharp tambourine jingles with a solid percussive strike.
+    - A **cabasa**, offering metallic, scraping textures that add movement and complexity.
+    - A **frog guiro**, providing striking wood sound for playful and organic rhythmic elements.
+    - A synth kick that is emphasized by a light bulb blinking on every kick, placed in the center of the bass speakers.
+1. **Mechanics**
+    - Actuators and solenoids drive each instrument, executing rhythms with precise timing. The mechanical operation allows for complex, interlocking patterns across the ensemble.
+    - Lights flash in time with the percussion, either glowing within or on the instruments, creating a striking visual effect synchronized with the rhythm.
+
+#### Role in the Music Machine
+
+The **Mechanic Drum Ensemble** brings together the low, driving beats of the drum, the shimmering accents of the tambourine drum, the metallic scrapes of the cabasa, and the distinctive textures of the frog guiro. These elements combine to create a layered percussive sound that interacts dynamically with the other instruments in the Music Machine. The visual element of flashing lights enhances the performance, amplifying the mechanical aesthetic of the ensemble.
+
+

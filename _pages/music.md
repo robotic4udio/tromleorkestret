@@ -13,22 +13,6 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 
 # Tromleorkestret's Music
 
-## The Midnight Carousel (2024)
-The Midnight Carousel is a composition from 2025, where the music machine drives a hypnotic, manic procession of mechanical rhythms and distorted melodies. The piece is a claustrophobic fusion of techno and circus music from hell, where the machine’s relentless pulse pulls the listener into an endless, dancing nightmare carousel.
-
-The music machine serves as the engine of the piece, building an intense, trance-like rhythm with skewed, self-playing harmonies. Layered on top, I play Springs, a self-built percussion instrument that adds metallic resonances, piercing percussive textures, and subtle dissonances, amplifying the feeling of mechanical madness.
-
-This is the sound of a machine that never stops—a carousel spinning faster and faster, until the rhythm fractures and the machine devours itself in an explosion of warped tones and industrial pulses.
-
-<p><iframe src="https://www.youtube.com/embed/t2adjStANaQ?si=4dTS4ARmID4hC3I3" frameborder="0" allowfullscreen></iframe></p>
-
-## Velvet
- 
- **"Velvet"** is a lush and hypnotic track that plunges the listener into the moody, cinematic world of trip-hop. Inspired by the genre-defining sounds of **Portishead**, **Lamb**, and **Massive Attack**, this composition layers haunting melodies, ethereal atmospheres, and pulsating rhythms into a tapestry that feels both deeply human and intriguingly machine-like. 
-
-<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022920744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
-
-
 ## High Voltage
 
 **"High Voltage"** is a relentless fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.
@@ -38,6 +22,23 @@ This is the sound of a machine that never stops—a carousel spinning faster and
 <p><iframe src="https://www.youtube.com/embed/tCststWZANQ?si=FyvWxDS61yp-I7L1" frameborder="0" allowfullscreen></iframe></p>
 *A raw audience recording of Tromleorkestret performing *"High Voltage"* at *Bascherdeis Festival 2024* in Italy*
 
+## Aeolian Horizon
+
+**"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
+
+<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022945644&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
+
+
+
+## Velvet
+ 
+ **"Velvet"** is a lush and hypnotic track that plunges the listener into the moody, cinematic world of trip-hop. Inspired by the genre-defining sounds of **Portishead**, **Lamb**, and **Massive Attack**, this composition layers haunting melodies, ethereal atmospheres, and pulsating rhythms into a tapestry that feels both deeply human and intriguingly machine-like. 
+
+<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022920744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
+
+
+
+
 ## Fautec
 A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and experimental IDM**, driven by our self-constructed, steampunk-infused music machine. Mechanical precision meets psychedelic textures in this hypnotic performance.  
 
@@ -45,13 +46,6 @@ A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and e
 
 Below is a raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy:
 <p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
-
-
-## Aeolian Horizon
-
-**"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
-
-<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022945644&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
 
 
@@ -70,6 +64,15 @@ As one of Tromleorkestret’s earliest tracks, **"Neukölln"** stands as a bold 
 <p><iframe src="https://www.youtube.com/embed/CjUIswZyYQ0?si=cY7s-G8mBPgq2uaH" frameborder="0" allowfullscreen></iframe></p>
 
 
+
+## The Midnight Carousel
+The Midnight Carousel is a composition from 2024, where the music machine drives a hypnotic, manic procession of mechanical rhythms and distorted melodies. The piece is a claustrophobic fusion of techno and circus music from hell, where the machine’s relentless pulse pulls the listener into an endless, dancing nightmare carousel.
+
+The music machine serves as the engine of the piece, building an intense, trance-like rhythm with skewed, self-playing harmonies. Layered on top, I play Springs, a self-built percussion instrument that adds metallic resonances, piercing percussive textures, and subtle dissonances, amplifying the feeling of mechanical madness.
+
+This is the sound of a machine that never stops—a carousel spinning faster and faster, until the rhythm fractures and the machine devours itself in an explosion of warped tones and industrial pulses.
+
+<p><iframe src="https://www.youtube.com/embed/t2adjStANaQ?si=4dTS4ARmID4hC3I3" frameborder="0" allowfullscreen></iframe></p>
 
 
 <hr>

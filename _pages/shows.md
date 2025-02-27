@@ -36,17 +36,6 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2024-08-17 [Vadestedsfestival #8](https://www.facebook.com/events/1643807883065806/)
 - 2024-08-10 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
 - 2024-08-09 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
-  <div class="gallery-box">
-    <div class="gallery">
-      <img src="/images/jul24/TrorkJul14.jpg">
-      <img src="/images/jul24/TrorkJul13.jpg">
-      <img src="/images/jul24/TrorkJul15.jpg">
-      <img src="/images/jul24/TrorkJul1.jpg">
-      <img src="/images/jul24/TrorkJul10.jpg">
-      <img src="/images/jul24/TrorkJul11.jpg">
-    </div>
-      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> @ <a href="https://www.juleloesesjul.com/">Juleløses Jul</a> // Photos by Jens Raadal </em>
-  </div>
 - 2024-08-02 [Bascherdeis Festival 2024 - Senza Confini -](https://www.facebook.com/events/833929361608844/)
   <div class="gallery-box">
     <div class="gallery">

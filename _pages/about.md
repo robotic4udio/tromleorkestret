@@ -42,14 +42,6 @@ Welcome to our world—where music, fire, and invention come together in perfect
 
 # The Instruments
 
-- [The Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass): The Mechanical Marvel Behind the Low-End.
-- [The Automated Keyboard]({{site.baseurl}}/automated-keyboard): An Invisible Virtuoso.
-- [The Autonomous Xylophone]({{site.baseurl}}/autoxylo): A Robotized Xylophone that Plays Itself.
-- [The Springs]({{site.baseurl}}/springs): A Novel Percussion Instrument.
-- [Sound Gloves]({{site.baseurl}}/sound-gloves): Turning every movement into sound.
-- [The Aeolynth]({{site.baseurl}}/aeolynth): A synthetic wind instrument.
-- [The Sonimba]({{site.baseurl}}/sonimba): A reimagined kalimba that blends motion into dynamic soundscapes."
-
 ## Robotic Instruments
 
 {% include instruments-robotic.html %}

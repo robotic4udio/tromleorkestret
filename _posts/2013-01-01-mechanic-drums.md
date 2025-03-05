@@ -8,7 +8,7 @@ faetured: false
 showdate: false
 ---
 
-The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret’s Music Machine. Its mechanical precision and unique instrument setup bring a dynamic percussive presence to the compositions, blending sound and visuals seamlessly.
+The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret’s Music Machine. Its mechanical precision and unique instrument setup bring a dynamic percussive presence to the compositions, blending sound and visuals.
 
 
 <div class="gallery-box">

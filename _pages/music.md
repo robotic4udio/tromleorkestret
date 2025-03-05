@@ -15,7 +15,7 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 
 ## High Voltage
 
-**"High Voltage"** is a relentless fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.
+**"High Voltage"** is a fusion of krautrock, techno, and cyberpunk energy. Pulsing with motorik rhythms and sharp, industrial textures, the track drives forward with unyielding intensity. Drawing inspiration from **Neu**, **CAN**, and **Einstürzende Neubauten**, this piece awakens Tromleorkestret’s Music Machine in a cacophony of mechanical precision and evolving textures.
 
 <p><iframe height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2023020088&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
@@ -46,9 +46,6 @@ A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and e
 
 Below is a raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy:
 <p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
-
-
-
 
 
 ## Kyoto

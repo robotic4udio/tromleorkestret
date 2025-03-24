@@ -8,12 +8,14 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-05-17 [Havespektakel 2025](https://fb.me/e/az3xZypqO)
-- 2025-06-13 Free the Freaks Festival 2025
-- 2025-06-14 Free the Freaks Festival 2025
-- 2025-06-28 [Fusion Festival 2025](https://fusion-festival.de/en)
-- 2025-06-27 [Fusion Festival 2025](https://fusion-festival.de/en)
-
+- 2025-05-17 [HaveSpektakel Festival](https://www.facebook.com/events/1672024136989019/)
+- 2025-06-07 Avantgarde i Alken
+- 2025-06-13 Free the Freaks Festival
+- 2025-06-14 Free the Freaks Festival
+- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
+- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
+- 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
+- 2025-06-27 [Fusion Festival](https://fusion-festival.de/en)
 <hr>
 
 # Past Shows
@@ -36,18 +38,29 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2024-08-17 [Vadestedsfestival #8](https://www.facebook.com/events/1643807883065806/)
 - 2024-08-10 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
 - 2024-08-09 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Gisselfeldt1.jpg">
+    </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> @ <a href="https://kultursalonernegisselfeld.dk/tidligere-programmer">Kultursalonerne Gisselfeldt</a></em>
+  </div>
 - 2024-08-02 [Bascherdeis Festival 2024 - Senza Confini -](https://www.facebook.com/events/833929361608844/)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/bascherdeis/Bascherdeis-9.jpg">
       <img src="/images/bascherdeis/Bascherdeis-13.jpg">
       <img src="/images/bascherdeis/Bascherdeis-S12.png">
+      <img src="/images/bascherdeis/Bascherdeis-S9.png">
+      <img src="/images/bascherdeis/Bascherdeis-S8.png">
+      <img src="/images/bascherdeis/Bascherdeis-S15.png">
     </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> @ <a href="https://www.bascherdeis.it/gli-artisti/">Bascherdeis Festival 2024 // Italy </a>  </em>
   </div>
+
 - 2024-07-12 [Byggefestivalen på Als - 2024](https://www.facebook.com/events/312564731808115/)
   <iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe>
 - 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)
-- 2024-06-15 [Bryllyp på Samsø]
+- 2024-06-15 Bryllyp på Samsø
 - 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
 - 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)
@@ -84,14 +97,39 @@ image: '/images/jul24/TrorkJul3.jpg'
 ## 2019
 - 2019-12-07 [Lystfest Afterparty i Ribersgård med Tromleorkestret](https://www.facebook.com/events/420478635299945/)
 - 2019-12-07 [Lysfest på Frederiksø 2019](https://www.facebook.com/events/496769957842450/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Lysfest_Svendborg_2019.jpg">
+    </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> @ <a href="https://www.facebook.com/events/496769957842450/">Lysfest på Frederiksø 2019</a></em>
+  </div>
 - 2019-10-11 [Kulturnatten 2019 X Reffen](https://www.facebook.com/events/730667017394410/)
 - 2019-09-21 [Analogik + support: Tromleorkestret // Loppen](https://www.facebook.com/events/369305030453917/)
 - 2019-08-23 [SMK Fridays x Udstillingsåbning: Dansk Guldalder](https://www.facebook.com/events/475133773046199/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/smk/SMK3.jpg">
+      <img src="/images/smk/SMK2.jpg">
+      <img src="/images/smk/SMK1.jpg">
+    </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> at <a href="https://www.facebook.com/events/475133773046199/">SMK Fridays x Udstillingsåbning: Dansk Guldalder</a></em>
+  </div>
 - 2019-08-18 [Kulturværftet - Acting for climate](https://www.facebook.com/events/909628902714757/?ti=icl)
 - 2019-08-17 [Havnefest for klima & sejlende cirkusshow](https://www.facebook.com/events/2147376568896059/)
 - 2019-08-15 [BastiOn - Brunette Bros. Back to MaMa](https://www.facebook.com/events/702296600217062/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/BackToMama.jpg">
+    </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> @ <a href="https://www.facebook.com/events/702296600217062/">BastiOn - Brunette Bros. Back to MaMa</a></em>
 - 2019-08-14 [Hall of the odd - Tromleorkestret w. Zirkus](https://www.facebook.com/halloftheodd/)
 - 2019-07-26 [Himmelstorm Festival 2019](https://www.facebook.com/events/521446411664239/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Pub1.jpg">
+      <img src="/images/tromleorkestret/Pub2.jpg">
+    </div>
+  </div>
 - 2019-04-27 [Science & Cocktails: The Many Worlds of Quantum Reality](https://www.facebook.com/events/578407449293831/)
 
 ## 2017
@@ -102,6 +140,11 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2016-09-26 [Pyromaniacs og Tromleorkestret](https://www.facebook.com/events/255115434883637/)
 - 2016-07-29 [Nakkefestival 2016](https://www.facebook.com/events/1526703804308323/)
 - 2016-07-10 [Freqs Of Nature 2016 • Experimental Art & Music Festival • 7th-12th July](https://www.facebook.com/events/1650900035162677/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Freqs2.jpg">
+    </div>
+  </div>
 - 2016-07-01 [Fusion Festival 2016](https://www.facebook.com/events/974064902647964/)
   <div class="gallery-box">
     <div class="gallery">
@@ -117,7 +160,6 @@ image: '/images/jul24/TrorkJul3.jpg'
     </div>
       <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> and the <a href="https://www.facebook.com/pyromaniacs.dk/">Pyromaniacs</a> @ <a href="https://www.fusion-festival.de/en">Fusion Festival </a></em>
   </div>
-- 2016-09-26 [Pyromaniacs og TromleOrkestret](https://www.facebook.com/events/255115434883637/)
 - 2016-06-25 [Tromleorkestret på Magisk Midsommer](https://www.facebook.com/events/1591068821223534/)
 - 2016-06-11 [Tromleorkestret i Den Grå Hal](https://dengraahal.dk/)
 - 2016-05-24 [Science & Cocktails: Thinking about thinking about thinking](https://www.facebook.com/events/259786541036931/)
@@ -126,6 +168,18 @@ image: '/images/jul24/TrorkJul3.jpg'
 ## 2015
 - 2015-08-28 Vadestedsfestival 2015
 - 2015-08-28 Skattejagten Pandekagemysteriet
+- 2015-08-21 Pyromaniacs Feat. Tromleorkestret @ KB3
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/KB3/KB3-1.jpg">
+      <img src="/images/KB3/KB3-2.jpg">
+      <img src="/images/KB3/KB3-3.jpg">
+      <img src="/images/KB3/KB3-4.jpg">
+      <img src="/images/KB3/KB3-5.jpg">
+      <img src="/images/KB3/KB3-7.jpg">
+    </div>
+      <em><a href="{{site.baseurl}}/">Tromleorkestret</a> and the <a href="https://www.facebook.com/pyromaniacs.dk/">Pyromaniacs</a> @ <a href="https://www.kb3.dk/">KB3 </a></em>
+  </div>
 - 2015-07-25 Thylejren Festival 2015
 
 ## 2014
@@ -137,6 +191,12 @@ image: '/images/jul24/TrorkJul3.jpg'
 ## 2013
 
 - 2013-11-16 [43 Farben - Acid Pauli, Tromleorkestret & Pyromaniacs](https://ra.co/events/530492)
+- 2013-09-26 Pyromaniacs & Tromleorkestret @ Christiania's Birthday 2013
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/CaBday2013.jpg">
+    </div>
+  </div>
 - 2013-08-23 [Århus Lydfestival](https://dinavis.dk/samfund/ECE15502048/lydfestival-med-360-graderskoncert/)
   ![]({{site.baseurl}}/images/tromleorkestret/AarhusGallery.jpg#center)
 - 2013-08-10 [Concert at "chez heiner"](https://www.facebook.com/events/486145334812463/)

@@ -7,12 +7,7 @@ tags:   [Instrument, SoundDesign, Work]
 featured: false
 ---
 
-The **Sound Gloves** are an instrument designed exclusively for Tromleorkestret, blending cutting-edge technology with expressive performance. Developed as a wearable controller for real-time sound manipulation, the Sound Gloves empower the performer, to sculpt dynamic sonic landscapes with precision and creativity.
-
-
-> I’ve never seen anything like it. Every gesture seemed to unlock a new layer of sound—absolutely magical!
->
-> <cite>John Doe</cite>
+The **Sound Gloves** are an instrument designed exclusively for Tromleorkestret. Developed as a wearable controller for real-time sound manipulation, the Sound Gloves empower the performer, to sculpt dynamic sonic landscapes with precision and creativity.
 
 
 ![SofieGloves]({{site.baseurl}}/images/tromleorkestret/GlovesSofie.png)
@@ -49,4 +44,6 @@ As with many of my other instruments, the Sound Gloves integrate seamlessly with
 
 
 <p><iframe src="https://www.youtube.com/embed/yolz8VWj9BM?si=Y4-xCmx1mrCFw8Nf" frameborder="0" allowfullscreen></iframe></p>
+
+
 

@@ -17,8 +17,6 @@ menu-settings:
       url: '/music/'  
     - title: 'Shows'
       url: '/shows/'
-    - title: 'Gallery'
-      url: '/gallery/'  
     - title: 'People'
       url: '/people/'
     - title: 'Contact'

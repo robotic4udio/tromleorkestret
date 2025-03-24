@@ -123,7 +123,7 @@ image: '/images/jul24/TrorkJul3.jpg'
     </div>
       <em><a href="{{site.baseurl}}/">Tromleorkestret</a> @ <a href="https://www.facebook.com/events/702296600217062/">BastiOn - Brunette Bros. Back to MaMa</a></em>
 - 2019-08-14 [Hall of the odd - Tromleorkestret w. Zirkus](https://www.facebook.com/halloftheodd/)
-- 2019-07-26 [Himmelstorm Festival 2019](https://www.facebook.com/events/521446411664239/)
+- 2019-07-26 [Himmelstorm Festival](https://www.facebook.com/events/521446411664239/)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/tromleorkestret/Pub1.jpg">
@@ -133,19 +133,19 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2019-04-27 [Science & Cocktails: The Many Worlds of Quantum Reality](https://www.facebook.com/events/578407449293831/)
 
 ## 2017
-- 2017-06-29 [Science & Cocktails - Cosmic Connections: the Universe and You](https://www.facebook.com/events/262533510881384/)
-- 2017-04-22 [Godsbanens Forårsmarked 2017](https://www.facebook.com/events/1120144288097142/)
+- 2017-06-29 [Science & Cocktails • Cosmic Connections: the Universe and You](https://www.facebook.com/events/262533510881384/)
+- 2017-04-22 [Godsbanens Forårsmarked 2017, Århus](https://www.facebook.com/events/1120144288097142/)
 
 ## 2016
 - 2016-09-26 [Pyromaniacs og Tromleorkestret](https://www.facebook.com/events/255115434883637/)
 - 2016-07-29 [Nakkefestival 2016](https://www.facebook.com/events/1526703804308323/)
-- 2016-07-10 [Freqs Of Nature 2016 • Experimental Art & Music Festival • 7th-12th July](https://www.facebook.com/events/1650900035162677/)
+- 2016-07-10 [Freqs Of Nature • Experimental Art & Music Festival • Germany](https://www.facebook.com/events/1650900035162677/)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/tromleorkestret/Freqs2.jpg">
     </div>
   </div>
-- 2016-07-01 [Fusion Festival 2016](https://www.facebook.com/events/974064902647964/)
+- 2016-07-01 [Fusion Festival • Germany](https://www.facebook.com/events/974064902647964/)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/fusion/DSC6086.jpg">
@@ -166,7 +166,7 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2016-04-09 [Containerby Festival 2016](https://www.facebook.com/watch/?v=1975276956101993)
 
 ## 2015
-- 2015-08-28 Vadestedsfestival 2015
+- 2015-08-28 Vadestedsfestival
 - 2015-08-28 Skattejagten Pandekagemysteriet
 - 2015-08-21 Pyromaniacs Feat. Tromleorkestret @ KB3
   <div class="gallery-box">
@@ -183,7 +183,7 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2015-07-25 Thylejren Festival 2015
 
 ## 2014
-- 2014-11-14 [P3 GANDHI Awalks](https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E)
+- 2014-11-14 [P3 GANDHI Awalks, Århus](https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E)
   <iframe src="https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E" frameborder="0" allowfullscreen></iframe>
 - 2014-05-09 [Science & Cocktails - The Luck Factor](https://www.scienceandcocktails.org/en/events/copenhagen/the-luck-factor)
 - 2014-04-12 [Byens Lys, Christiania](https://youtu.be/bC2RTdl-8B0?si=euN2TtkGwlWvIrJs)
@@ -199,9 +199,36 @@ image: '/images/jul24/TrorkJul3.jpg'
   </div>
 - 2013-08-23 [Århus Lydfestival](https://dinavis.dk/samfund/ECE15502048/lydfestival-med-360-graderskoncert/)
   ![]({{site.baseurl}}/images/tromleorkestret/AarhusGallery.jpg#center)
-- 2013-08-10 [Concert at "chez heiner"](https://www.facebook.com/events/486145334812463/)
-- 2013-07-16 [Festival d'Avignon](https://festival-avignon.com/en/edition-2013)
-- 2013-06-22 [Tunneller og Døre](https://www.facebook.com/events/533015966757080/)
+- 2013-08-11 Ménage a trois Festival, Germany
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Ménage a trois/2013-08-12 12.31.06.jpg">
+      <img src="/images/tromleorkestret/Ménage a trois/2013-08-12 12.30.38.jpg">
+      <img src="/images/tromleorkestret/Ménage a trois/2013-08-11 19.15.27.jpg">
+    </div>
+  </div>
+- 2013-08-10 [Concert at "chez heiner", Berlin](https://www.facebook.com/events/486145334812463/)
+- 2013-08-09 Tromleorkestret in Mauerpark, Berlin
+- 2013-08-09 Tromleorkestret in Red Light District, Amsterdam
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/RedLightDistrict.jpg">
+    </div>
+  </div>
+- 2013-07-30 Eiffel Tower, Paris
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Eiffel1.jpg">
+    </div>
+  </div>
+- 2013-07-16 [Festival d'Avignon, France](https://festival-avignon.com/en/edition-2013)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Avignon1.jpg">
+      <img src="/images/tromleorkestret/Avignon2.jpg">
+    </div>
+  </div>
+- 2013-06-22 [Tunneller og Døre, Byens Lys, Christiania](https://www.facebook.com/events/533015966757080/)
 
 ## 2012
 - 2012-08-26 Circus Spectaculum, La Capra Grassa, Christiania

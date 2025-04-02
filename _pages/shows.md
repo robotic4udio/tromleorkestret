@@ -12,10 +12,10 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2025-06-07 Avantgarde i Alken
 - 2025-06-13 Free the Freaks Festival
 - 2025-06-14 Free the Freaks Festival
-- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
-- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
-- 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
 - 2025-06-27 [Fusion Festival](https://fusion-festival.de/en)
+- 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
+- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
+- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
 <hr>
 
 # Past Shows
@@ -61,6 +61,13 @@ image: '/images/jul24/TrorkJul3.jpg'
   <iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe>
 - 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)
 - 2024-06-15 Bryllyp på Samsø
+- 2024-06-08 [Svanholm Festival 2024](https://www.facebook.com/events/682861533823170/)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Svanholm.jpg">
+      <img src="/images/tromleorkestret/Svanholm2.jpg">
+    </div>
+  </div>
 - 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
 - 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)

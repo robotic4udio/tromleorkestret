@@ -59,9 +59,10 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 - 2024-07-12 [Byggefestivalen på Als - 2024](https://www.facebook.com/events/312564731808115/)
   <iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe>
+- 2024-06-25 Østre Gasværk Teatercafé
 - 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)
 - 2024-06-15 Bryllyp på Samsø
-- 2024-06-08 [Svanholm Festival 2024](https://www.facebook.com/events/682861533823170/)
+- 2024-06-08 [Svanholm Festival 2024](https://fb.me/e/2YspWUeOX)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/tromleorkestret/Svanholm.jpg">
@@ -83,6 +84,7 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2023-08-05 [Badesøen Festival 2023](https://www.facebook.com/events/927089168683505/)
 - 2023-08-24 [Sølyst Sommerfest 2023](https://www.facebook.com/events/216249494631632/)
 - 2023-07-22 [Stjerner over farø](https://www.facebook.com/profile.php?id=100083416773605)
+- 2023-06-03 [Svanholm Festival](https://www.facebook.com/events/1417871128619577/)
 - 2023-02-12 [Amager Børnemusikfestival](https://www.facebook.com/events/1108896416464996/)
 
 ## 2022

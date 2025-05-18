@@ -8,18 +8,22 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-05-17 [HaveSpektakel Festival](https://www.facebook.com/events/1672024136989019/)
-- 2025-05-17 A Summer Day In The Garden
 - 2025-06-07 [Avantgarde i Alken](https://fb.me/e/9OlAZmbrm)
 - 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
-- 2025-06-14 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
 - 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
 - 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
 <hr>
 
+
 # Past Shows
+## 2025
+- 2025-05-17 A Summer Day In The Garden
+- 2025-05-17 [HaveSpektakel Festival](https://www.facebook.com/events/1672024136989019/)
+- 2025-05-16 [Lyden af Hovedstaden](https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden)
+
+
 ## 2024
 - 2024-12-24 [Juleløses Jul 2024]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
   <div class="gallery-box">

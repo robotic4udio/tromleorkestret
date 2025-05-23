@@ -12,8 +12,10 @@ image: '/images/jul24/TrorkJul3.jpg'
 - 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
 - 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
 - 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
+- 2025-07-05 [Holzmarkt Sessions](https://www.holzmarkt.com/)
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
+- 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 <hr>
 
 
@@ -21,11 +23,23 @@ image: '/images/jul24/TrorkJul3.jpg'
 ## 2025
 - 2025-05-17 A Summer Day In The Garden
 - 2025-05-17 [HaveSpektakel Festival](https://www.facebook.com/events/1672024136989019/)
-- 2025-05-16 [Lyden af Hovedstaden](https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden)
+- 2025-05-16 [Lyden af København](https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_036.jpg">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_037.jpg">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_050.jpg">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_046.jpg">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_047.jpg">
+      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_052.jpg">
+    </div>
+    <em> Lyden af København  -  Københavns Museum  -  Foto: Lina Ahnoff </em>
+  </div>
+  
 
 
 ## 2024
-- 2024-12-24 [Juleløses Jul 2024]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
+- 2024-12-24 [Juleløses Jul 2024 feat. Rosyán]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/jul24/TrorkJul14.jpg">
@@ -74,6 +88,8 @@ image: '/images/jul24/TrorkJul3.jpg'
       <img src="/images/tromleorkestret/Svanholm2.jpg">
     </div>
   </div>
+
+  
 - 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
 - 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)
@@ -81,7 +97,6 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 
 ## 2023
-
 - 2023-09-30 [Pumpehuset - Support til Fastpoholmen](https://www.facebook.com/events/938028364124055)
   <iframe src="https://www.youtube.com/embed/BVNMIxkgRwk?si=p9GULsaK6UpsmWFI" frameborder="0" allowfullscreen></iframe>
 - 2023-09-17 [Svampenes verden - kreativ workshop og drømmende lirekassekoncert](https://www.facebook.com/events/970779604248692/)

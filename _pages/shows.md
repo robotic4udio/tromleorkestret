@@ -8,19 +8,21 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-06-07 [Avantgarde i Alken](https://fb.me/e/9OlAZmbrm)
-- 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
-- 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
-- 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
-- 2025-07-05 [Holzmarkt Sessions](https://www.holzmarkt.com/)
-- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/)
-- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/)
+- 2025-07-05 18:30 [Holzmarkt Sessions](https://www.holzmarkt.com/)
+- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
+- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
+- 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
+- 2025-10-10 [Kulturnatten på Københavns Museum]()
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 <hr>
 
-
 # Past Shows
 ## 2025
+- 2025-06-30 Biesenthaler Wukuhlen
+- 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
+- 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
+- 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
+- 2025-06-07 [Avantgarde i Alken](https://fb.me/e/9OlAZmbrm)
 - 2025-05-17 A Summer Day In The Garden
 - 2025-05-17 [HaveSpektakel Festival](https://www.facebook.com/events/1672024136989019/)
 - 2025-05-16 [Lyden af København](https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden)

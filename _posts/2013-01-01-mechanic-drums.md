@@ -22,7 +22,8 @@ The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestretâ€
     </div>
 </div>
 
-
+Here is a video of some Mechanic Drum action:
+<p><iframe height=9 width=16 src="https://drive.google.com/file/d/1jX9EM3zr-8Dq9EosMivF-h8bfo46egpa/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 
 
 #### Key Features and Setup
@@ -40,5 +41,4 @@ The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestretâ€
 #### Role in the Music Machine
 
 The **Mechanic Drum Ensemble** brings together the low, driving beats of the drum, the shimmering accents of the tambourine drum, the metallic scrapes of the cabasa, and the distinctive textures of the frog guiro. These elements combine to create a layered percussive sound that interacts dynamically with the other instruments in the Music Machine. The visual element of flashing lights enhances the performance, amplifying the mechanical aesthetic of the ensemble.
-
 

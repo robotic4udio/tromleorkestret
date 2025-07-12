@@ -20,8 +20,6 @@ Nestled beneath the commanding presence of the [Robotic Slide Bass]({{site.baseu
 ![AutoKey]({{site.baseurl}}/images/tromleorkestret/AutoKey.gif)
 *Automated Keyboard*
 
-
-
 ## Key Features and Mechanized Precision
 
 1. **Mechanical Actuation**
@@ -29,6 +27,10 @@ Nestled beneath the commanding presence of the [Robotic Slide Bass]({{site.baseu
     - **Unparalleled Speed**: The actuators operate with blistering speed, replicating the dexterity of a player with 42 fingers. Complex arpeggios, rapid trills, and cascading scales flow effortlessly from the instrument, creating a sound that is both mechanical and musical.
 2. **Invisible Engineering**
     - Unlike many of Tromleorkestret’s instruments, the mechanics of the Automated Keyboard are completely hidden. This creates an air of mystery and wonder as the keyboard seems to come to life on its own, its keys dancing with unerring precision.
+
+
+<p><iframe height=9 width=16 src="https://drive.google.com/file/d/1fCsbT-7CwfJgbemUBy_Ot0V4p-62ZqrN/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
+
 
 ## A Mesmerizing Visual Effect
 

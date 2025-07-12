@@ -6,13 +6,27 @@ permalink: /music/
 image: '/images/KB3/KB3-2.jpg'
 ---
 
-Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk aesthetics meet psychedelic energy in a fire-breathing, robotic symphony. Crafted on a self-built mechanical music machine, their compositions fuse cinematic grandeur, hypnotic rhythms, and futuristic orchestration into a sonic experience. Imagine a cyberpunk carnival, where [robotic basslines]({{site.baseurl}}/robotic-slide-bass)  glide like clockwork, automated xylophones shimmer, and percussive gears drive relentless grooves. With a spirit rooted in krautrock, ambient electronic, and avant-garde experimentation, Tromleorkestret blurs the lines between man and machine, past and future—delivering an electrifying, otherworldly spectacle.
+Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk aesthetics meet psychedelic energy in a fire-breathing, robotic symphony. Crafted on a self-built mechanical music machine, their compositions fuse cinematic grandeur, hypnotic rhythms, and futuristic orchestration into a sonic experience. Imagine a cyberpunk carnival, where [robotic basslines]({{site.baseurl}}/robotic-slide-bass)  glide like clockwork, [automated xylophones]({{site.baseurl}}/autoxylo) shimmer, and [percussive robots]({{site.baseurl}}/mechanic-drums) drive relentless grooves. With a spirit rooted in krautrock, ambient electronic, and avant-garde experimentation, Tromleorkestret blurs the lines between man and machine, past and future—delivering an electrifying, otherworldly spectacle.
 
 > It felt like I was being transported to another dimension—flames, lights, and sounds swirling together in a mind-bending symphony."
 >
 > <cite> Ichabod Crane </cite>
 
 # Tromleorkestret's Music
+
+## Aeolian Horizon
+
+**"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
+
+<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022945644&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
+
+
+## The Introducer
+**"The Introducer"** is a track created to make a unique introduction to Tromleorkestret’s Music Machine. The style is electronic dance music with some [driving robotic bass]({{site.baseurl}}/robotic-slide-bass) and [synth lines]({{site.baseurl}}/automated-keyboard). The track features a blend of [robotic rhythms]({{site.baseurl}}/mechanic-drums), glitchy noises from the [Sound Gloves]({{site.baseurl}}/sound-gloves), and melodic hooks that set the stage for the ensemble’s dynamic performances.
+
+Below is an edit of various audience recordings of Tromleorkestret performing *"The Introducer"* at *Sølyst Summerparty 2025* in Christiania, Copenhagen:
+
+<p><iframe height=9 width=9 src="https://drive.google.com/file/d/1ya1aJYxONvOr9zwbf7J6HIwRN2O0VNjk/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 
 ## High Voltage
 
@@ -23,12 +37,12 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 <p><iframe src="https://www.youtube.com/embed/tCststWZANQ?si=FyvWxDS61yp-I7L1" frameborder="0" allowfullscreen></iframe></p>
 *A raw audience recording of Tromleorkestret performing *"High Voltage"* at *Bascherdeis Festival 2024* in Italy*
 
-## Aeolian Horizon
 
-**"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.
+## Fautec
+A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and experimental IDM**, driven by our self-constructed, steampunk-infused music machine and [The Aeolynth]({{site.baseurl}}/aeolynth).
 
-<p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022945644&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
-
+Below is an edit of various audience recordings of Tromleorkestret performing *"Fautec"* at *Sølyst Summerparty 2025* in Christiania, Copenhagen:
+<p><iframe height=9 width=9 src="https://drive.google.com/file/d/1IK87dOY4u5-92FcFDFOUa38Vk8ulZO6Y/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 
 
 ## Velvet
@@ -37,16 +51,6 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 
 <p><iframe height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2022920744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
 
-
-
-
-## Fautec
-A pulsating, electronic-inspired journey with shades of **Plaid, Autechre, and experimental IDM**, driven by our self-constructed, steampunk-infused music machine. Mechanical precision meets psychedelic textures in this hypnotic performance.  
-
-<p><iframe height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2023007844&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
-
-Below is a raw audience recording of Tromleorkestret performing *"Fautec"* at *Bascherdeis Festival 2024* in Italy:
-<p><iframe src="https://www.youtube.com/embed/XhqKQKAevvg?si=Ms19kBLu-6QCqqmE" frameborder="0" allowfullscreen></iframe></p>
 
 
 ## Kyoto
@@ -74,6 +78,9 @@ This is the sound of a machine that never stops—a carousel spinning faster and
 
 
 <hr>
+
+
+
 
 
 # Tromleorkestret's Aftershow

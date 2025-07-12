@@ -8,19 +8,24 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-07-05 18:30 [Holzmarkt Sessions](https://www.holzmarkt.com/)
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
 - 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
 - 2025-10-10 [Kulturnatten på Københavns Museum]()
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 <hr>
-
 # Past Shows
 ## 2025
-- 2025-06-30 Biesenthaler Wukuhlen
+- 2025-07-05 [Holzmarkt Sessions](https://www.holzmarkt.com/)
+- 2025-06-30 [Biesenthal Wokule](https://wokule.de/)
 - 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/fusion/2025/Before Show.png">
+    </div>
+  </div>
 - 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
+  <p><iframe height=9 width=9 src="https://drive.google.com/file/d/1ya1aJYxONvOr9zwbf7J6HIwRN2O0VNjk/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 - 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
 - 2025-06-07 [Avantgarde i Alken](https://fb.me/e/9OlAZmbrm)
 - 2025-05-17 A Summer Day In The Garden
@@ -37,7 +42,6 @@ image: '/images/jul24/TrorkJul3.jpg'
     </div>
     <em> Lyden af København  -  Københavns Museum  -  Foto: Lina Ahnoff </em>
   </div>
-  
 
 
 ## 2024
@@ -176,6 +180,11 @@ image: '/images/jul24/TrorkJul3.jpg'
       <img src="/images/tromleorkestret/Freqs2.jpg">
     </div>
   </div>
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/Freqs3.jpg">
+    </div>
+  </div> 
 - 2016-07-01 [Fusion Festival • Germany](https://www.facebook.com/events/974064902647964/)
   <div class="gallery-box">
     <div class="gallery">

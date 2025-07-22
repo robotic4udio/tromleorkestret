@@ -3,27 +3,32 @@ layout: page
 title: SHOWS
 permalink: /shows/
 #image: '/images/tromleorkestret/Pub1.jpg'
-image: '/images/jul24/TrorkJul3.jpg'
+# image: '/images/jul24/TrorkJul3.jpg'
+image: '/images/fusion/2025/MADS_IMG_9424.jpg'
+
 ---
 
 # Upcomming Shows
 ## 2025
-- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
-- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
 - 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
 - 2025-10-10 [Kulturnatten på Københavns Museum]()
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
+
 <hr>
+
 # Past Shows
 ## 2025
+- 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
+- 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/byggefestival2025/IMG_1693.jpg">
+    </div>
+  </div>
 - 2025-07-05 [Holzmarkt Sessions](https://www.holzmarkt.com/)
 - 2025-06-30 [Biesenthal Wokule](https://wokule.de/)
 - 2025-06-28 [Fusion Festival](https://fusion-festival.de/en)
-  <div class="gallery-box">
-    <div class="gallery">
-      <img src="/images/fusion/2025/Before Show.png">
-    </div>
-  </div>
+  ![]({{site.baseurl}}/images/fusion/2025/Before Show.png)
 - 2025-06-21 [SØLYST SOMMERFEST '25](https://fb.me/e/3expXiHal)
   <p><iframe height=9 width=9 src="https://drive.google.com/file/d/1ya1aJYxONvOr9zwbf7J6HIwRN2O0VNjk/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 - 2025-06-13 [Free the Freaks Festival](https://www.facebook.com/free.the.freaks.festival)
@@ -103,6 +108,20 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 
 ## 2023
+- 2023-10-07 [Buster i Naturen](https://fb.me/e/6GY6wK4rD)
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/buster2023/FM-HQ-11.jpg">
+      <img src="/images/buster2023/FM-HQ-24.jpg">
+      <img src="/images/buster2023/FM-HQ-23.jpg">
+      <img src="/images/buster2023/FM-HQ-28.jpg">
+      <img src="/images/buster2023/FM-HQ-70.jpg">
+      <img src="/images/buster2023/FM-HQ-45.jpg">
+      <img src="/images/buster2023/FM-HQ-32.jpg">
+      <img src="/images/buster2023/FM-HQ-39.jpg">
+      <img src="/images/buster2023/FM-HQ-37.jpg">
+    </div>
+  </div>
 - 2023-09-30 [Pumpehuset - Support til Fastpoholmen](https://www.facebook.com/events/938028364124055)
   <iframe src="https://www.youtube.com/embed/BVNMIxkgRwk?si=p9GULsaK6UpsmWFI" frameborder="0" allowfullscreen></iframe>
 - 2023-09-17 [Svampenes verden - kreativ workshop og drømmende lirekassekoncert](https://www.facebook.com/events/970779604248692/)
@@ -119,6 +138,12 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 ## 2021
 - 2021-08-27 [HØST MØN 2021](https://www.facebook.com/events/594341764510237/)
+- 2021-08-27 HF Kongelunden
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/tromleorkestret/HF_Kongelunden_2021.jpg">
+    </div>
+  </div>
 - 2021-08-20 [den grænseløse festival 2021](https://www.facebook.com/events/1065508013897189/)
 
 ## 2020
@@ -279,6 +304,8 @@ image: '/images/jul24/TrorkJul3.jpg'
 
 
 ![]({{site.baseurl}}/images/tromleorkestret/Freqs4.jpg#wide)
+
+![]({{site.baseurl}}/images/fusion/2025/MADS_IMG_9424.jpg#wide)
 
 
 

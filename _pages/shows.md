@@ -10,14 +10,16 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
-- 2025-10-10 [Kulturnatten på Københavns Museum]()
+- 2025-08-09 [Frigjort Festival](https://www.facebook.com/events/1200255194805346/)
+- 2025-08-30 [Karrusel Festival](https://www.karrusel.dk/)
+- 2025-10-10 [Kulturnatten // Lyden af Københavm på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 
 <hr>
 
 # Past Shows
 ## 2025
+- 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
   <div class="gallery-box">
@@ -104,8 +106,6 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2024-05-25 [Gennem Porten 2024: Åben Hus](https://www.facebook.com/events/984718222527135/)
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
 - 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)
-
-
 
 ## 2023
 - 2023-10-07 [Buster i Naturen](https://fb.me/e/6GY6wK4rD)

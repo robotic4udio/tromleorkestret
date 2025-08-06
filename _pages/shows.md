@@ -24,8 +24,23 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
   <div class="gallery-box">
     <div class="gallery">
-      <img src="/images/byggefestival2025/IMG_1693.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_001_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_005_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_008_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_013_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_016_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_017_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_022_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_023_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_026_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_027_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_029_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_032_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_035_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_037_photo_by_Pato_Soto.jpg">
+      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_038_photo_by_Pato_Soto.jpg">
     </div>
+     <em> Byggefestival 2025 // Foto: Pato Soto </em>
   </div>
 - 2025-07-05 [Holzmarkt Sessions](https://www.holzmarkt.com/)
 - 2025-06-30 [Biesenthal Wokule](https://wokule.de/)

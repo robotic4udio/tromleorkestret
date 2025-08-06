@@ -2,7 +2,7 @@
 layout: page
 title: Who are we?
 permalink: /people/
-image: '/images/tromleorkestret/TrorkMV1.jpg'
+image: '/images/byggefestival2025/Byggefestival_Tromleorkestret_032_photo_by_Pato_Soto.jpg'
 ---
 
 # HJALTE BESTED HJORTH

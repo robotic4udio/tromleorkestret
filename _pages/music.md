@@ -14,6 +14,12 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 
 # Tromleorkestret's Music
 
+## MoonWolf
+
+**"MoonWolf"** is a haunting polyrythmic exploration of the night, featuring a blend of acoustic and electronic elements. The track takes listeners on a journey through a mystical landscape, with shimmering synths and pulsating rhythms evoking the feeling of hunting under a full moon.
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/m5TXkQw0ib0?si=j2Tnui0_1wZunIw_&amp;start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 ## Aeolian Horizon
 
 **"Aeolian Horizon"** features the [The Aeolynth]({{site.baseurl}}/aeolynth), a custom build wind instrument, leading a cinematic journey. Inspired by Hans Zimmer and Ludwig Göransson. The piece begins with breath-like tones and deep drones, building to a majestic crescendo with rhythmic layers and soaring lines, blending natural and mechanical elements.

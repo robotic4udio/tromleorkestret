@@ -4,6 +4,7 @@ title: MUSIC
 permalink: /music/
 #image: '/images/fusion/DSC6201.jpg'
 image: '/images/KB3/KB3-2.jpg'
+#image: '/images/byggefestival2025/Byggefestival_Tromleorkestret_004_photo_by_Pato_Soto.jpg'
 ---
 
 Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk aesthetics meet psychedelic energy in a fire-breathing, robotic symphony. Crafted on a self-built mechanical music machine, their compositions fuse cinematic grandeur, hypnotic rhythms, and futuristic orchestration into a sonic experience. Imagine a cyberpunk carnival, where [robotic basslines]({{site.baseurl}}/robotic-slide-bass)  glide like clockwork, [automated xylophones]({{site.baseurl}}/autoxylo) shimmer, and [percussive robots]({{site.baseurl}}/mechanic-drums) drive relentless grooves. With a spirit rooted in krautrock, ambient electronic, and avant-garde experimentation, Tromleorkestret blurs the lines between man and machine, past and future—delivering an electrifying, otherworldly spectacle.
@@ -128,10 +129,6 @@ This unforgettable experience will leave the couple and guests in awe. Perfect f
 Book Tromleorkestret and give love a soundtrack—and a display—as unique and explosive as the couple themselves. 💍✨🔥
 
 
-![]({{site.baseurl}}/images/tromleorkestret/Gisselfeldt1.jpg#wide)
-
-
-
-
+![]({{site.baseurl}}/images/byggefestival2025/Byggefestival_Tromleorkestret_004_photo_by_Pato_Soto.jpg#wide)
 
 <hr>

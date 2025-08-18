@@ -42,3 +42,5 @@ Here is a video of some Mechanic Drum action:
 
 The **Mechanic Drum Ensemble** brings together the low, driving beats of the drum, the shimmering accents of the tambourine drum, the metallic scrapes of the cabasa, and the distinctive textures of the frog guiro. These elements combine to create a layered percussive sound that interacts dynamically with the other instruments in the Music Machine. The visual element of flashing lights enhances the performance, amplifying the mechanical aesthetic of the ensemble.
 
+
+![]({{site.baseurl}}/images/drums/TopDrum.png#wide)

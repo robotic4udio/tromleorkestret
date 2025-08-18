@@ -45,5 +45,4 @@ As with many of my other instruments, the Sound Gloves integrate seamlessly with
 
 <p><iframe src="https://www.youtube.com/embed/yolz8VWj9BM?si=Y4-xCmx1mrCFw8Nf" frameborder="0" allowfullscreen></iframe></p>
 
-
-
+![]({{site.baseurl}}/images/byggefestival2025/Byggefestival_Tromleorkestret_032_photo_by_Pato_Soto.jpg#wide)

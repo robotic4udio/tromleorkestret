@@ -53,3 +53,5 @@ When the Automated Keyboard plays, it becomes a hypnotic spectacle. The rapid mo
 ## Conclusion
 
 The **Automated Keyboard** is a marvel of engineering and artistry, offering Tromleorkestret a limitless palette of musical possibilities. Its ability to perform at superhuman speeds, combined with the enchanting visual effect of its moving keys, makes it an indispensable part of the Music Machine. Whether adding intricate counterpoint or driving the rhythm with mechanical precision, the Automated Keyboard exemplifies Tromleorkestret’s mastery of blending technology with musicality.
+
+![AutoKey]({{site.baseurl}}/images/tromleorkestret/AutoKey.gif#wide)

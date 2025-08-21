@@ -10,8 +10,8 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-08-30 22:00-23:00 [Karrusel Festival](https://www.karrusel.dk/)
-- 2025-10-10 [Kulturnatten // Lyden af Københavm på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
+- 2025-08-30 [Karrusel Festival - Hakkertdukkert Teahouse Stage](https://www.karrusel.dk/) 22:00-23:00
+- 2025-10-10 [Kulturnatten // Lyden af København på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 
 <hr>

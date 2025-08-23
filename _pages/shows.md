@@ -10,15 +10,16 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-08-30 [Karrusel Festival - Hakkertdukkert Teahouse Stage](https://www.karrusel.dk/) 22:00-23:00
-- 2025-10-10 [Kulturnatten // Lyden af København på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
-- 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
+- 2025-08-30 [Karrusel Festival](https://www.karrusel.dk/) - [Hakkertdukkert's Teahouse Stage](https://hakkertdukkert.dk/) 22.00-23.00
+- 2025-10-10 [Kulturnatten // Lyden af København på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn) 22.00-23.00
+- 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/) 19.45-20.45
 
 <hr>
 
 # Past Shows
 ## 2025
 - 2025-08-09 [Frigjort Festival](https://www.facebook.com/events/1200255194805346/)
+  <p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/XIEsC5YV8EI?si=4Ebf7llrSDopZ57z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 - 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 

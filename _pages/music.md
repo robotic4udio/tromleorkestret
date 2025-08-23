@@ -3,7 +3,8 @@ layout: page
 title: MUSIC
 permalink: /music/
 #image: '/images/fusion/DSC6201.jpg'
-image: '/images/KB3/KB3-2.jpg'
+#image: '/images/KB3/KB3-2.jpg'
+image: '/images/Frigjort Cover.jpg'
 #image: '/images/byggefestival2025/Byggefestival_Tromleorkestret_004_photo_by_Pato_Soto.jpg'
 ---
 
@@ -19,7 +20,8 @@ Tromleorkestret’s music is a genre-defying explosion of sound, where steampunk
 
 **"MoonWolf"** is a haunting polyrythmic exploration of the night, featuring a blend of acoustic and electronic elements. The track takes listeners on a journey through a mystical landscape, with shimmering synths and pulsating rhythms evoking the feeling of hunting under a full moon.
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/m5TXkQw0ib0?si=j2Tnui0_1wZunIw_&amp;start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/XIEsC5YV8EI?si=4Ebf7llrSDopZ57z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 
 ## Aeolian Horizon
 

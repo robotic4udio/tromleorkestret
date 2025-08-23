@@ -12,7 +12,7 @@ Our sound is a kaleidoscope of styles, blending cinematic orchestration, krautro
 
 <p><iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe></p>
 
-
+<p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/XIEsC5YV8EI?si=4Ebf7llrSDopZ57z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 What makes Tromleorkestret truly unique is our music machine. Every instrument we play is handcrafted and full of surprises, from the [Robotic Slide Bass]({{site.baseurl}}/robotic-slide-bass) to the [Aeolynth]({{site.baseurl}}/aeolynth), the [Sound Gloves]({{site.baseurl}}/sound-gloves), and the Autonomous Xylophone. These instruments are more than tools—they’re collaborators, driven by custom-built technology and designed to respond to motion, touch, and sound in real-time. Together, we turn every performance into a dynamic interplay between human and machine.
 

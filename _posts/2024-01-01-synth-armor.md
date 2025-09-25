@@ -10,6 +10,8 @@ featured: false
 Meet the **SynthArmor**: part synthesizer, part exoskeleton.
 I blow, beatbox, and twist knobs — it answers with a voice of its own.
 
+<p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/RqQnMvwpiNk?si=-GzJn1UAaF41Nag-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 ### **Key Features and Design**
 
 1. **Arm-Mounted Interface**  

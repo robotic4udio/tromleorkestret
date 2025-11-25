@@ -10,12 +10,12 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 
 # Upcomming Shows
 ## 2025
-- 2025-11-22 [Åbning af Christianias Skøjtebane](https://fb.me/e/6RwMTak5r) 18.00 - 18.45
 
 <hr>
 
 # Past Shows
 ## 2025
+- 2025-11-22 [Åbning af Christianias Skøjtebane](https://fb.me/e/6RwMTak5r)
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 - 2025-10-10 [Lyden af Kulturnatten på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
 - 2025-09-27 [NusNus'](https://www.nusnus.dk/) SummerParty - [Hangaren](https://www.hangaren.dk/)

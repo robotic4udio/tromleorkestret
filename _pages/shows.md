@@ -9,9 +9,8 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 ---
 
 # Upcomming Shows
-## 2025
-
-<hr>
+## 2026
+- 2026-06-20 23:30 [Magisk Midsommer](https://www.instagram.com/magiskmidsommer/)
 
 # Past Shows
 ## 2025

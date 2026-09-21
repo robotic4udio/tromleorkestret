@@ -9,11 +9,12 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 ---
 
 # Upcomming Shows
-- 2026-11-06 17:00 [Fredericia Art Festival](https://www.eventc.dk/fredericia-art-festival/)
+- 2026-11-06 17:00 [Fredericia Art Festival @ Eksercerhuset](https://www.eventc.dk/fredericia-art-festival/)
 
 # Past Shows
 
 ## 2026
+- 2026-09-12 22:30 [Ny Bastion - Høstfest](https://www.nybastion.dk/)
 - 2026-06-20 23:30 [Magisk Midsommer](https://www.instagram.com/magiskmidsommer/)
 
 ## 2025

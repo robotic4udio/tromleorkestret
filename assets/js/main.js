@@ -50,7 +50,7 @@
   document.querySelectorAll('[data-yt]').forEach(function (btn) {
     btn.addEventListener('click', function () {
       var iframe = document.createElement('iframe');
-      iframe.src = 'https://www.youtube-nocookie.com/embed/' + btn.dataset.yt + '?autoplay=1&rel=0';
+      iframe.src = 'https://www.youtube-nocookie.com/embed/' + btn.dataset.yt + '?autoplay=1&rel=0' + (btn.dataset.start ? '&start=' + btn.dataset.start : '');
       iframe.title = btn.getAttribute('aria-label') || 'YouTube video';
       iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
       iframe.allowFullscreen = true;

@@ -63,7 +63,7 @@
   });
 
   /* Lightbox for gallery and content images */
-  var selector = '.gallery img, .prose p > img, .mosaic img';
+  var selector = '.gallery img, .prose p > img, .mosaic img, .collage img';
   var images = Array.prototype.slice.call(document.querySelectorAll(selector));
   if (!images.length || typeof HTMLDialogElement !== 'function') return;
 
@@ -99,7 +99,7 @@
 
   images.forEach(function (img) {
     img.addEventListener('click', function () {
-      var container = img.closest('.gallery, .mosaic');
+      var container = img.closest('.gallery, .mosaic, .collage');
       group = container ? Array.prototype.slice.call(container.querySelectorAll('img')) : [img];
       show(group.indexOf(img));
       dialog.showModal();

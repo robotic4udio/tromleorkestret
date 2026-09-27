@@ -1,51 +1,50 @@
 ---
-layout: page
-title: SHOWS
+title: Shows
+kicker: On the road
+body_class: shows-page
 permalink: /shows/
-#image: '/images/tromleorkestret/Pub1.jpg'
-# image: '/images/jul24/TrorkJul3.jpg'
 image: '/images/fusion/2025/MADS_IMG_9424.jpg'
-
 ---
 
-# Upcomming Shows
-- 2026-11-06 17:00 [Fredericia Art Festival @ Eksercerhuset](https://www.eventc.dk/fredericia-art-festival/)
+## Upcoming {#upcoming}
 
-# Past Shows
+<div class="wide">{% include upcoming-shows.html %}</div>
 
-## 2026
+## Past shows {#past}
+
+### 2026
 - 2026-09-12 22:30 [Ny Bastion - Høstfest](https://www.nybastion.dk/)
 - 2026-06-20 23:30 [Magisk Midsommer](https://www.instagram.com/magiskmidsommer/)
 
-## 2025
+### 2025
 - 2025-11-22 [Åbning af Christianias Skøjtebane](https://fb.me/e/6RwMTak5r)
 - 2025-11-15 [Magiske Haslev](https://www.magiskehaslev.dk/)
 - 2025-10-10 [Lyden af Kulturnatten på Københavns Museum](https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn)
 - 2025-09-27 [NusNus'](https://www.nusnus.dk/) SummerParty - [Hangaren](https://www.hangaren.dk/)
 - 2025-08-30 [Karrusel Festival](https://www.karrusel.dk/) - [Hakkertdukkert's Teahouse Stage](https://hakkertdukkert.dk/) 22.00-23.00
-  <p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/RqQnMvwpiNk?si=-GzJn1UAaF41Nag-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  <div class="wide">{% include youtube.html id="RqQnMvwpiNk" %}</div>
 - 2025-08-09 [Frigjort Festival](https://www.facebook.com/events/1200255194805346/)
-  <p><iframe width="3840" height="2160" src="https://www.youtube.com/embed/XIEsC5YV8EI?si=4Ebf7llrSDopZ57z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  <div class="wide">{% include youtube.html id="XIEsC5YV8EI" %}</div>
 - 2025-07-26 [Ved Vandet Festival](https://fb.me/e/2ZNgzOjlF)
 - 2025-07-18 [Byggefestivalen på Als](https://www.byggefest.dk/) + Jam Session
 - 2025-07-17 [Byggefestivalen på Als](https://www.byggefest.dk/) 
   <div class="gallery-box">
     <div class="gallery">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_001_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_005_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_008_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_013_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_016_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_017_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_022_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_023_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_026_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_027_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_029_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_032_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_035_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_037_photo_by_Pato_Soto.jpg">
-      <img src="/images/byggefestival2025/Byggefestival_Tromleorkestret_038_photo_by_Pato_Soto.jpg">
+      <img src="/images/web/bygge-001-sm.jpg">
+      <img src="/images/web/bygge-005-sm.jpg">
+      <img src="/images/web/bygge-008-sm.jpg">
+      <img src="/images/web/bygge-013-sm.jpg">
+      <img src="/images/web/bygge-016-sm.jpg">
+      <img src="/images/web/bygge-017-sm.jpg">
+      <img src="/images/web/bygge-022-sm.jpg">
+      <img src="/images/web/bygge-023-sm.jpg">
+      <img src="/images/web/bygge-026-sm.jpg">
+      <img src="/images/web/bygge-027-sm.jpg">
+      <img src="/images/web/bygge-029-sm.jpg">
+      <img src="/images/web/bygge-032-sm.jpg">
+      <img src="/images/web/bygge-035-sm.jpg">
+      <img src="/images/web/bygge-037-sm.jpg">
+      <img src="/images/web/bygge-038-sm.jpg">
     </div>
      <em> Byggefestival 2025 // Foto: Pato Soto </em>
   </div>
@@ -62,18 +61,18 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2025-05-16 [Lyden af København](https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden)
   <div class="gallery-box">
     <div class="gallery">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_036.jpg">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_037.jpg">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_050.jpg">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_046.jpg">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_047.jpg">
-      <img src="/images/lyden-af-kbh/2025_05_16_lyden_af_KBH_052.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_036.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_037.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_050.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_046.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_047.jpg">
+      <img src="/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_052.jpg">
     </div>
     <em> Lyden af København  -  Københavns Museum  -  Foto: Lina Ahnoff </em>
   </div>
 
 
-## 2024
+### 2024
 - 2024-12-24 [Juleløses Jul 2024 feat. Rosyán]( https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0)
   <div class="gallery-box">
     <div class="gallery">
@@ -87,7 +86,7 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
       <em><a href="{{site.baseurl}}/">Tromleorkestret</a> with <a href="https://www.facebook.com/rosyanmusic">rosyán</a> @ <a href="https://www.juleloesesjul.com/">Juleløses Jul</a> // Photos by Jens Raadal </em>
   </div>
 - 2024-09-14 [Folkedybet - Samsø Energiakademi](https://energiakademiet.dk/folkedybet-2024/)
-  <iframe src="https://www.youtube.com/embed/Ih18heM69U4?si=C02DXhTnywyZmwJO" frameborder="0" allowfullscreen></iframe>
+  <div class="wide">{% include youtube.html id="Ih18heM69U4" %}</div>
 - 2024-09-07 Amagerbro Gårdfest
 - 2024-08-17 [Vadestedsfestival #8](https://www.facebook.com/events/1643807883065806/)
 - 2024-08-10 [Kultursalonerne Gisselfeld 2024](https://www.facebook.com/events/1053737365543912/)
@@ -112,7 +111,7 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
   </div>
 
 - 2024-07-12 [Byggefestivalen på Als - 2024](https://www.facebook.com/events/312564731808115/)
-  <iframe src="https://www.youtube.com/embed/ZJ_z8yWe3jE?si=PpvutfqsmLq3i2t8" frameborder="0" allowfullscreen></iframe>
+  <div class="wide">{% include youtube.html id="ZJ_z8yWe3jE" %}</div>
 - 2024-06-25 Østre Gasværk Teatercafé
 - 2024-06-22 [Sølyst Sommerfest 24'](https://www.facebook.com/events/988467155848276/)
 - 2024-06-15 Bryllyp på Samsø
@@ -129,23 +128,23 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2024-05-11 [Grå Hal's Sommerfest](https://www.facebook.com/dengraahal)
 - 2024-05-08 [Verdens Mindste Kulturhus - Sommerfest i baghaven](https://www.facebook.com/events/1599151907549191/)
 
-## 2023
+### 2023
 - 2023-10-07 [Buster i Naturen](https://fb.me/e/6GY6wK4rD)
   <div class="gallery-box">
     <div class="gallery">
-      <img src="/images/buster2023/FM-HQ-11.jpg">
-      <img src="/images/buster2023/FM-HQ-24.jpg">
-      <img src="/images/buster2023/FM-HQ-23.jpg">
-      <img src="/images/buster2023/FM-HQ-28.jpg">
-      <img src="/images/buster2023/FM-HQ-70.jpg">
-      <img src="/images/buster2023/FM-HQ-45.jpg">
-      <img src="/images/buster2023/FM-HQ-32.jpg">
-      <img src="/images/buster2023/FM-HQ-39.jpg">
-      <img src="/images/buster2023/FM-HQ-37.jpg">
+      <img src="/images/web/buster2023-FM-HQ-11.jpg">
+      <img src="/images/web/buster2023-FM-HQ-24.jpg">
+      <img src="/images/web/buster2023-FM-HQ-23.jpg">
+      <img src="/images/web/buster2023-FM-HQ-28.jpg">
+      <img src="/images/web/buster2023-FM-HQ-70.jpg">
+      <img src="/images/web/buster2023-FM-HQ-45.jpg">
+      <img src="/images/web/buster2023-FM-HQ-32.jpg">
+      <img src="/images/web/buster2023-FM-HQ-39.jpg">
+      <img src="/images/web/buster2023-FM-HQ-37.jpg">
     </div>
   </div>
 - 2023-09-30 [Pumpehuset - Support til Fastpoholmen](https://www.facebook.com/events/938028364124055)
-  <iframe src="https://www.youtube.com/embed/BVNMIxkgRwk?si=p9GULsaK6UpsmWFI" frameborder="0" allowfullscreen></iframe>
+  <div class="wide">{% include youtube.html id="BVNMIxkgRwk" %}</div>
 - 2023-09-17 [Svampenes verden - kreativ workshop og drømmende lirekassekoncert](https://www.facebook.com/events/970779604248692/)
 - 2023-09-03 [Kultur i Byen]
 - 2023-08-05 [Badesøen Festival 2023](https://www.facebook.com/events/927089168683505/)
@@ -154,11 +153,11 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2023-06-03 [Svanholm Festival](https://www.facebook.com/events/1417871128619577/)
 - 2023-02-12 [Amager Børnemusikfestival](https://www.facebook.com/events/1108896416464996/)
 
-## 2022
+### 2022
 - 2022-08-21 [BIG BANG Festival 2022](https://www.facebook.com/events/2512919615504985/)
 - 2022-08-19 [ART by NIGHT - I avantgardens tegn](https://www.facebook.com/events/766343297741677/)
 
-## 2021
+### 2021
 - 2021-08-27 [HØST MØN 2021](https://www.facebook.com/events/594341764510237/)
 - 2021-08-27 HF Kongelunden
   <div class="gallery-box">
@@ -168,15 +167,15 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
   </div>
 - 2021-08-20 [den grænseløse festival 2021](https://www.facebook.com/events/1065508013897189/)
 
-## 2020
+### 2020
 - 2020-10-16 [Extreeeme PART 4](https://www.facebook.com/events/3565469556838969/)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/C9E8QsPlKdQ?si=YfXAei1HeEinIdZI&amp;start=3837" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <div class="wide">{% include youtube.html id="C9E8QsPlKdQ" %}</div>
 - 2020-09-27 [Conducting Machines Livestream](https://www.facebook.com/events/427962321511508/)
 - 2020-09-24 [Conducting Machines - Grå Hal](https://www.facebook.com/events/370455487295710/)
 - 2020-08-22 [Conducting Machines - Frederiks Bastion](https://www.facebook.com/events/341926223645976/)
 - 2020-01-23 [DJBFA's Seminar & Bar](https://www.facebook.com/events/1059247374414333/)
 
-## 2019
+### 2019
 - 2019-12-07 [Lystfest Afterparty i Ribersgård med Tromleorkestret](https://www.facebook.com/events/420478635299945/)
 - 2019-12-07 [Lysfest på Frederiksø 2019](https://www.facebook.com/events/496769957842450/)
   <div class="gallery-box">
@@ -214,11 +213,11 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
   </div>
 - 2019-04-27 [Science & Cocktails: The Many Worlds of Quantum Reality](https://www.facebook.com/events/578407449293831/)
 
-## 2017
+### 2017
 - 2017-06-29 [Science & Cocktails • Cosmic Connections: the Universe and You](https://www.facebook.com/events/262533510881384/)
 - 2017-04-22 [Godsbanens Forårsmarked 2017, Århus](https://www.facebook.com/events/1120144288097142/)
 
-## 2016
+### 2016
 - 2016-09-26 [Pyromaniacs og Tromleorkestret](https://www.facebook.com/events/255115434883637/)
 - 2016-07-29 [Nakkefestival 2016](https://www.facebook.com/events/1526703804308323/)
 - 2016-07-10 [Freqs Of Nature • Experimental Art & Music Festival • Germany](https://www.facebook.com/events/1650900035162677/)
@@ -252,7 +251,7 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
 - 2016-05-24 [Science & Cocktails: Thinking about thinking about thinking](https://www.facebook.com/events/259786541036931/)
 - 2016-04-09 [Containerby Festival 2016](https://www.facebook.com/watch/?v=1975276956101993)
 
-## 2015
+### 2015
 - 2015-08-28 Vadestedsfestival
 - 2015-08-28 Skattejagten Pandekagemysteriet
 - 2015-08-21 Pyromaniacs Feat. Tromleorkestret @ KB3
@@ -269,13 +268,13 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
   </div>
 - 2015-07-25 Thylejren Festival 2015
 
-## 2014
+### 2014
 - 2014-11-14 [P3 GANDHI Awalks, Århus](https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E)
-  <iframe src="https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E" frameborder="0" allowfullscreen></iframe>
+  <div class="wide">{% include youtube.html id="p7UaffmEIS0" %}</div>
 - 2014-05-09 [Science & Cocktails - The Luck Factor](https://www.scienceandcocktails.org/en/events/copenhagen/the-luck-factor)
 - 2014-04-12 [Byens Lys, Christiania](https://youtu.be/bC2RTdl-8B0?si=euN2TtkGwlWvIrJs)
 
-## 2013
+### 2013
 
 - 2013-11-16 [43 Farben - Acid Pauli, Tromleorkestret & Pyromaniacs](https://ra.co/events/530492)
 - 2013-09-26 Pyromaniacs & Tromleorkestret @ Christiania's Birthday 2013
@@ -317,7 +316,7 @@ image: '/images/fusion/2025/MADS_IMG_9424.jpg'
   </div>
 - 2013-06-22 [Tunneller og Døre, Byens Lys, Christiania](https://www.facebook.com/events/533015966757080/)
 
-## 2012
+### 2012
 - 2012-08-26 Circus Spectaculum, La Capra Grassa, Christiania
 - 2012-08-25 Circus Spectaculum, La Capra Grassa, Christiania
 - 2012-08-24 Circus Spectaculum, La Capra Grassa, Christiania

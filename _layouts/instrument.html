@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% assign instruments = site.instruments | sort: "order" %}
+{% for item in instruments %}
+  {% if item.url == page.url %}
+    {% assign idx = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% assign count = instruments.size %}
+{% assign prev_idx = idx | minus: 1 | plus: count | modulo: count %}
+{% assign next_idx = idx | plus: 1 | modulo: count %}
+{% assign prev = instruments[prev_idx] %}
+{% assign next = instruments[next_idx] %}
+
+<section class="instrument-hero">
+  <div class="instrument-hero__media">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" fetchpriority="high">
+  </div>
+  <div class="instrument-hero__content">
+    <a class="back-link" href="{{ '/the-machine/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> The Machine</a>
+    <p class="kicker">
+      {% if page.robotic %}<i class="fa-solid fa-robot"></i> Robotic instrument{% else %}<i class="fa-solid fa-hand"></i> Played by hand{% endif %}
+      <span class="kicker__count">{{ idx | plus: 1 | prepend: '0' | slice: -2, 2 }} / {{ count | prepend: '0' | slice: -2, 2 }}</span>
+    </p>
+    <h1 class="instrument-hero__title">{{ page.title }}</h1>
+    {% if page.tagline %}<p class="instrument-hero__lead">{{ page.tagline }}</p>{% endif %}
+  </div>
+</section>
+
+<article class="prose">
+  {{ content }}
+</article>
+
+<nav class="instrument-pager" aria-label="More instruments">
+  <a class="instrument-pager__link" href="{{ prev.url | relative_url }}">
+    <img src="{{ prev.image | relative_url }}" alt="" loading="lazy">
+    <span class="instrument-pager__label"><i class="fa-solid fa-arrow-left"></i> Previous</span>
+    <span class="instrument-pager__title">{{ prev.title }}</span>
+  </a>
+  <a class="instrument-pager__link instrument-pager__link--next" href="{{ next.url | relative_url }}">
+    <img src="{{ next.image | relative_url }}" alt="" loading="lazy">
+    <span class="instrument-pager__label">Next <i class="fa-solid fa-arrow-right"></i></span>
+    <span class="instrument-pager__title">{{ next.title }}</span>
+  </a>
+</nav>

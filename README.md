@@ -1,32 +1,58 @@
-# Norlin
+# Tromleorkestret
 
-Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
+Website for Tromleorkestret – the firebreathing music machine. Live at <https://tromleorkestret.com> (GitHub Pages, Jekyll).
 
-Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
+## Run locally
 
-* * *
+```bash
+bundle install
+LANG=en_US.UTF-8 bundle exec jekyll serve --livereload
+```
 
-### Demo
+(`LANG` must be UTF-8, otherwise Jekyll chokes on the `ø` in `images/sølyst2025`.)
 
-Check the theme in action [Demo](https://norlin.netlify.app/)
+## Where things live
 
-* * *
+| What | Where |
+| --- | --- |
+| Front page (the showcase) | `index.html` |
+| The Machine page | `_pages/the-machine.md` |
+| Music, Shows, The Band, Contact | `_pages/` |
+| Instruments (sub-pages of The Machine) | `_instruments/` → `/the-machine/<file-name>/` |
+| Upcoming shows | `_data/upcoming.yml` |
+| Menu, social links, site texts | `_data/settings.yml` |
+| Styles / scripts | `assets/css/main.css`, `assets/js/main.js` |
+| Web-sized photos | `images/web/` |
 
-### Deployment
+## Adding a show
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
+Add it to `_data/upcoming.yml` – it appears on the front page and at the top of the Shows page.
+After the show, move it to the "Past shows" list in `_pages/shows.md`.
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+## Adding an instrument
 
+Create `_instruments/my-instrument.md`:
 
-* * *
+```yaml
+---
+title: The New Thing
+tagline: "One sentence shown on the cards."
+image: '/images/web/inst-my-instrument.jpg'
+robotic: false   # true = listed under "The robots"
+order: 10        # position in the lists and prev/next navigation
+---
+Markdown content…
+```
 
-### Documentation
+It automatically shows up on The Machine page and in the front-page rail.
 
-Before using the Norlin theme, please read the attached documentation.
+## Content helpers
 
-* * *
+- `{% include youtube.html id="VIDEO_ID" title="Optional title" %}` – fast click-to-play YouTube video.
+- `<div class="wide">…</div>` – let something be wider than the text column.
+- `![](/images/…jpg#wide)` – edge-to-edge photo; `#right` floats it to the right.
+- `<div class="gallery-box"><div class="gallery"><img src="…">…</div><em>Caption</em></div>` – photo grid with lightbox.
 
-### Support
-
-<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+Big photos: make a web copy before using them, e.g.
+`sips -s format jpeg -s formatOptions 72 -Z 2400 original.jpg --out images/web/name.jpg`
+(and `-Z 1000 … name-sm.jpg` for gallery thumbnails – the lightbox shows the big one).

@@ -3,20 +3,19 @@
 
 {% include head.html %}
 
-<body>
+<body class="{{ page.body_class }}">
   {% if site.data.settings.google-analytics %}
     {% include google-analytics.html %}
   {% endif %}
 
-  {% include header.html %}
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
+  {% include header.html over_hero=true %}
+
+  <main id="main">
     {{ content }}
   </main>
-  <!-- end content -->
 
-  <div class="top" title="Top"><i class="fa-solid fa-chevron-up"></i></div>
   {% include footer.html %}
   {% include javascripts.html %}
 </body>

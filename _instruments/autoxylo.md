@@ -1,0 +1,35 @@
+---
+layout: instrument
+title: The Autonomous Xylophone
+tagline: "Solenoid-struck tines that ring out all on their own."
+image: '/images/web/inst-autoxylo.jpg'
+robotic: true
+order: 4
+redirect_from:
+  - /autoxylo
+---
+The **Autonomous Xylophone** is a simple yet enchanting addition to the Music Machine. Fitted with solenoid actuators—one for each tine—it plays autonomously, striking precise notes to add a layer of magic to the sound.
+
+
+![AutoXylo]({{site.baseurl}}/images/xylo/xylo.gif)
+*Automated Xylophone*
+
+
+Its bright, chiming tones evoke the charm of a mechanical music box, bringing a sense of wonder and delight to the compositions. Controlled via **Open Sound Control (OSC)**, the xylophone integrates seamlessly with the other instruments, enhancing the machine’s cohesive performance.
+
+
+<div class="gallery-box">
+    <div class="gallery" columns="2">
+        <img src="/images/xylo/Xylo1.png">
+        <img src="/images/xylo/Xylo2.png">
+        <img src="/images/xylo/Xylo3.png">
+        <img src="/images/xylo/Xylo4.png">
+        <img src="/images/xylo/Xylo5.png">
+        <img src="/images/xylo/Xylo7.png">
+    </div>
+</div>
+
+
+Though modest in complexity, the Autonomous Xylophone’s melodic clarity and whimsical character make it an essential part of Tromleorkestret’s unique musical identity.
+
+![Xylo5]({{site.baseurl}}/images/xylo/Xylo5.png#wide)

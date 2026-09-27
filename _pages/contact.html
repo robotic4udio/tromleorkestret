@@ -1,49 +1,35 @@
 ---
-layout: page
-title: CONTACT 
+title: Contact
+kicker: Booking · Collaborations · Hello
+lead: Want the firebreathing music machine at your festival, stage, party or wedding? Get in touch.
 permalink: /contact/
-#image: '/images/smk/SMK2.jpg'
-image: '/images/byggefestival2025/Byggefestival_Tromleorkestret_029_photo_by_Pato_Soto.jpg'
+image: '/images/web/bygge-029.jpg'
 ---
 
-
-
-<div style="text-align: center;">
-    Contact us for booking, collaborations, or just to say hello!
+<div class="contact-main wide">
+  <p class="kicker">Tromleorkestret</p>
+  <a class="contact-main__mail" href="mailto:{{ site.data.settings.email }}">{{ site.data.settings.email }}</a>
+  {% include social-links.html %}
 </div>
 
-<hr>
+<div class="contact-grid wide">
+  <div class="contact-card">
+    <h2>Hjalte Bested Hjorth</h2>
+    <ul>
+      <li><i class="fa-solid fa-globe"></i><a href="http://roboticaudio.com/">roboticaudio.com</a></li>
+      <li><i class="fa-regular fa-envelope"></i><a href="mailto:hjalte.bested.hjorth@gmail.com">hjalte.bested.hjorth@gmail.com</a></li>
+      <li><i class="fa-solid fa-phone"></i><a href="tel:+4523282926">+45 23 28 29 26</a></li>
+    </ul>
+    {% include social-links.html list="social-hjalte" %}
+  </div>
 
-
-<h1>TROMLEORKESTRET</h1>
-<ul>
-    <li>Email: <a href="mailto:tromleorkestret@gmail.com">tromleorkestret@gmail.com</a></li>
-</ul>
-
-{% include social-links.html %}
-
-<hr>
-
-<h1>HJALTE BESTED HJORTH</h1>
-<ul>
-    <li>Home: <a href="http://roboticaudio.com/">www.roboticaudio.com</a></li>
-    <li>Email: <a href="mailto:hjalte.bested.hjorth@gmail.com">hjalte.bested.hjorth@gmail.com</a></li>
-    <li>Phone: <a href="tel:+4523282926">+45 23 28 29 26</a></li>
-</ul>
-
-{% include social-links-hjalte.html %}
-
-<hr>
-
-<h1>SOFIE HJORTH SCHAUSEN</h1>
-<ul>
-    <li>Home: <a href="http://www.lydenafvidenskab.dk/">www.lydenafvidenskab.dk</a></li>
-    <li>Email: <a href="mailto:sofiehjorth@gmail.com">sofiehjorth@gmail.com</a></li>
-    <li>Phone: <a href="tel:+4526369967">+45 26 36 99 67</a></li>
-</ul>
-
-{% include social-links-sofie.html %}
-
-<hr>
-
-
+  <div class="contact-card">
+    <h2>Sofie Hjorth Schausen</h2>
+    <ul>
+      <li><i class="fa-solid fa-globe"></i><a href="http://www.lydenafvidenskab.dk/">lydenafvidenskab.dk</a></li>
+      <li><i class="fa-regular fa-envelope"></i><a href="mailto:sofiehjorth@gmail.com">sofiehjorth@gmail.com</a></li>
+      <li><i class="fa-solid fa-phone"></i><a href="tel:+4526369967">+45 26 36 99 67</a></li>
+    </ul>
+    {% include social-links.html list="social-sofie" %}
+  </div>
+</div>

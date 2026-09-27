@@ -1,0 +1,25 @@
+{% comment %}
+  Grid of instrument cards.
+  {% include instrument-grid.html %}               – all instruments
+  {% include instrument-grid.html robotic=true %}  – only robotic ones
+  {% include instrument-grid.html robotic=false %} – only hand-played ones
+  {% include instrument-grid.html style="rail" %}  – horizontal scrolling rail
+{% endcomment %}
+{% assign instruments = site.instruments | sort: "order" %}
+<div class="instrument-grid{% if include.style == 'rail' %} instrument-grid--rail{% endif %}">
+  {% for item in instruments %}
+  {% if include.robotic == nil or item.robotic == include.robotic %}
+  <a class="instrument-card reveal" href="{{ item.url | relative_url }}">
+    <div class="instrument-card__media">
+      <img src="{{ item.image | relative_url }}" alt="" loading="lazy">
+    </div>
+    <div class="instrument-card__body">
+      <span class="instrument-card__type">{% if item.robotic %}Robotic{% else %}Played by hand{% endif %}</span>
+      <h3 class="instrument-card__title">{{ item.title }}</h3>
+      <p class="instrument-card__text">{{ item.tagline }}</p>
+      <span class="instrument-card__more">Explore <i class="fa-solid fa-arrow-right"></i></span>
+    </div>
+  </a>
+  {% endif %}
+  {% endfor %}
+</div>

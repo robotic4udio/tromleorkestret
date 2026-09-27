@@ -1,0 +1,16 @@
+# Upcoming shows – shown on the front page and at the top of the Shows page.
+# When a show has happened, move it to the "Past Shows" list in _pages/shows.md.
+#
+#   - date: 2026-11-06        # YYYY-MM-DD
+#     time: "17:00"           # optional
+#     title: Fredericia Art Festival
+#     venue: Eksercerhuset     # optional
+#     city: Fredericia         # optional
+#     url: https://...         # optional
+
+- date: 2026-11-06
+  time: "17:00"
+  title: Fredericia Art Festival
+  venue: Eksercerhuset
+  city: Fredericia
+  url: https://www.eventc.dk/fredericia-art-festival/

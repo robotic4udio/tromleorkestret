@@ -310,37 +310,6 @@ p { margin: 0 0 1.2em; }
   text-wrap: balance;
 }
 
-.intro { padding-bottom: 0; }
-
-/* Blueprint band: the original machine drawings as copper line-art on a faint grid */
-.blueprint {
-  --grid: rgba(232, 149, 92, 0.07);
-  display: flex; justify-content: center; align-items: center; gap: clamp(16px, 4vw, 72px);
-  height: clamp(220px, 30vw, 440px);
-  margin-block: clamp(40px, 6vw, 80px) clamp(64px, 9vw, 120px);
-  padding-block: clamp(16px, 2vw, 28px);
-  border-block: 1px solid rgba(232, 149, 92, 0.28);
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 32px 32px;
-  background-position: center;
-  overflow: hidden;
-  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
-  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
-}
-.blueprint img { height: 100%; width: auto; max-width: none; }
-.blueprint__main { opacity: 0.95; }
-.blueprint__side { opacity: 0.45; }
-@media (max-width: 700px) { .blueprint__side { display: none; } }
-
-/* Draw the band in from left to right when it scrolls into view */
-.js .blueprint.reveal { opacity: 1; transform: none; }
-.js .blueprint.reveal img { clip-path: inset(0 100% 0 0); transition: clip-path 1.6s var(--ease); }
-.js .blueprint.reveal img:nth-child(2) { transition-delay: 0.35s; }
-.js .blueprint.reveal img:nth-child(3) { transition-delay: 0.7s; }
-.js .blueprint.reveal.is-visible img { clip-path: inset(0 0 0 0); }
-
 .film { padding-top: 0; }
 .film__player { border-radius: var(--radius); overflow: hidden; box-shadow: 0 40px 120px -40px rgba(255, 90, 20, 0.45); }
 

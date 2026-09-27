@@ -312,23 +312,34 @@ p { margin: 0 0 1.2em; }
 
 .intro { padding-bottom: 0; }
 
-/* Embers: a decorative band of sparks rising from a glowing line (drawn by main.js) */
-.embers {
-  position: relative; height: clamp(160px, 20vw, 260px);
-  margin-block: clamp(8px, 2vw, 24px) clamp(56px, 8vw, 104px);
-  pointer-events: none;
+/* Blueprint band: the original machine drawings as copper line-art on a faint grid */
+.blueprint {
+  --grid: rgba(232, 149, 92, 0.07);
+  display: flex; justify-content: center; align-items: center; gap: clamp(16px, 4vw, 72px);
+  height: clamp(220px, 30vw, 440px);
+  margin-block: clamp(40px, 6vw, 80px) clamp(64px, 9vw, 120px);
+  padding-block: clamp(16px, 2vw, 28px);
+  border-block: 1px solid rgba(232, 149, 92, 0.28);
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 32px 32px;
+  background-position: center;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
 }
-.embers canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
-.embers::before {
-  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 70%;
-  background: radial-gradient(50% 100% at 50% 100%, rgba(255, 90, 20, 0.28), rgba(255, 90, 20, 0.06) 55%, transparent 75%);
-  animation: ember 4s ease-in-out infinite alternate;
-}
-.embers::after {
-  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px;
-  background: linear-gradient(90deg, transparent, var(--ember) 20%, var(--fire-hot) 50%, var(--ember) 80%, transparent);
-  box-shadow: 0 0 18px 2px rgba(255, 106, 26, 0.55);
-}
+.blueprint img { height: 100%; width: auto; max-width: none; }
+.blueprint__main { opacity: 0.95; }
+.blueprint__side { opacity: 0.45; }
+@media (max-width: 700px) { .blueprint__side { display: none; } }
+
+/* Draw the band in from left to right when it scrolls into view */
+.js .blueprint.reveal { opacity: 1; transform: none; }
+.js .blueprint.reveal img { clip-path: inset(0 100% 0 0); transition: clip-path 1.6s var(--ease); }
+.js .blueprint.reveal img:nth-child(2) { transition-delay: 0.35s; }
+.js .blueprint.reveal img:nth-child(3) { transition-delay: 0.7s; }
+.js .blueprint.reveal.is-visible img { clip-path: inset(0 0 0 0); }
 
 .film { padding-top: 0; }
 .film__player { border-radius: var(--radius); overflow: hidden; box-shadow: 0 40px 120px -40px rgba(255, 90, 20, 0.45); }

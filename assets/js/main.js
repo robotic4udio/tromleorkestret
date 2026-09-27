@@ -56,7 +56,7 @@
       iframe.allowFullscreen = true;
       iframe.className = 'yt-frame';
       var wrap = document.createElement('div');
-      wrap.className = 'yt';
+      wrap.className = 'yt yt--playing';
       wrap.appendChild(iframe);
       btn.replaceWith(wrap);
     });

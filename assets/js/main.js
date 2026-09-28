@@ -63,7 +63,7 @@
   });
 
   /* Lightbox for gallery and content images */
-  var selector = '.gallery img, .prose p > img, .mosaic img, .collage img';
+  var selector = '.gallery img, .prose p > img, .mosaic img, .collage img, .masonry img';
   var images = Array.prototype.slice.call(document.querySelectorAll(selector));
   if (!images.length || typeof HTMLDialogElement !== 'function') return;
 
@@ -85,6 +85,7 @@
 
   // Galleries use small "-sm" thumbnails; show the larger version in the viewer.
   function fullSrc(img) {
+    if (img.dataset.full) return img.dataset.full;
     return (img.currentSrc || img.src).replace(/-sm\.jpg$/, '.jpg').replace(/#.*$/, '');
   }
 
@@ -99,7 +100,7 @@
 
   images.forEach(function (img) {
     img.addEventListener('click', function () {
-      var container = img.closest('.gallery, .mosaic, .collage');
+      var container = img.closest('.gallery, .mosaic, .collage, .masonry');
       group = container ? Array.prototype.slice.call(container.querySelectorAll('img')) : [img];
       show(group.indexOf(img));
       dialog.showModal();

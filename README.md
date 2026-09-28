@@ -20,6 +20,7 @@ LANG=en_US.UTF-8 bundle exec jekyll serve --livereload
 | Music, Shows, The Band, Contact | `_pages/` |
 | Instruments (sub-pages of The Machine) | `_instruments/` → `/the-machine/<file-name>/` |
 | Upcoming shows | `_data/upcoming.yml` |
+| Gallery photos | `images/gallery/` (added with `tools/gallery-add.sh`) |
 | Menu, social links, site texts | `_data/settings.yml` |
 | Styles / scripts | `assets/css/main.css`, `assets/js/main.js` |
 | Web-sized photos | `images/web/` |
@@ -28,6 +29,16 @@ LANG=en_US.UTF-8 bundle exec jekyll serve --livereload
 
 Add it to `_data/upcoming.yml` – it appears on the front page and at the top of the Shows page.
 After the show, move it to the "Past shows" list in `_pages/shows.md`.
+
+## Adding photos to the Gallery
+
+```bash
+tools/gallery-add.sh ~/Pictures/new-photo.jpg
+```
+
+This puts a web-sized copy in `images/gallery/` and a thumbnail in `images/gallery/thumbs/`, and updates `_data/gallery.yml`.
+Photos are shown in file-name order; use `--as 000-name` to choose the name (e.g. to put a photo first).
+To remove a photo, delete it from both folders and run `tools/gallery-add.sh` once without arguments.
 
 ## Adding an instrument
 

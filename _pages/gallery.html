@@ -1,0 +1,30 @@
+---
+layout: default
+title: Gallery
+permalink: /gallery/
+description: Photos of Tromleorkestret and the firebreathing music machine on stage.
+image: '/images/gallery/010-byggefestival-008.jpg'
+---
+
+{% comment %}
+  Shows every photo in images/gallery/ (in file-name order), using the thumbnail from
+  images/gallery/thumbs/ when there is one. Add photos with tools/gallery-add.sh.
+{% endcomment %}
+{% assign files = site.static_files | sort: "path" %}
+
+<section class="gallery-page">
+  <h1 class="visually-hidden">Gallery</h1>
+  <div class="masonry">
+    {% for file in files %}
+      {% if file.path contains '/images/gallery/' %}{% unless file.path contains '/thumbs/' %}
+        {% assign thumb = '/images/gallery/thumbs/' | append: file.name %}
+        {% assign has_thumb = site.static_files | where: "path", thumb | size %}
+        {% assign size = site.data.gallery[file.name] %}
+        <img src="{% if has_thumb > 0 %}{{ thumb | relative_url }}{% else %}{{ file.path | relative_url }}{% endif %}"
+             data-full="{{ file.path | relative_url }}"
+             {% if size %}width="{{ size[0] }}" height="{{ size[1] }}"{% endif %}
+             alt="" loading="lazy" decoding="async">
+      {% endunless %}{% endif %}
+    {% endfor %}
+  </div>
+</section>

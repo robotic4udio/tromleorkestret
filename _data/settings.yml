@@ -16,6 +16,8 @@ menu-items:
     url: '/music/'
   - title: 'Shows'
     url: '/shows/'
+  - title: 'Gallery'
+    url: '/gallery/'
   - title: 'The Band'
     url: '/band/'
   - title: 'Contact'

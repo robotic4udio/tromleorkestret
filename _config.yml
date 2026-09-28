@@ -37,3 +37,4 @@ exclude:
   - README.md
   - vendor
   - _posts_tutorial
+  - tools

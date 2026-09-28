@@ -49,3 +49,18 @@ social-sofie:
 #-------------------------------
 # Google Analytics
 google-analytics: # Add your identifier. For example G-XXXXXXX
+
+
+#-------------------------------
+# Press kit – PDFs built by https://github.com/robotic4udio/tromleorkestret-presskit
+# The links always point to the newest version on its main branch.
+# The preview images are page 1 of each PDF (update them if the first page changes a lot).
+presskit:
+  - title: Booking Sheet
+    description: Who we are, the machine, the show and photos – everything an organiser needs in two pages.
+    url: https://raw.githubusercontent.com/robotic4udio/tromleorkestret-presskit/main/Tromleorkestret%20-%20Booking%20Sheet.pdf
+    preview: '/images/web/presskit-booking-sheet.jpg'
+  - title: Technical Rider
+    description: Stage, power, sound, lighting and fire-safety requirements for a standard show.
+    url: https://raw.githubusercontent.com/robotic4udio/tromleorkestret-presskit/main/Tromleorkestret%20-%20Technical%20Rider.pdf
+    preview: '/images/web/presskit-technical-rider.jpg'

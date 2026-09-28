@@ -1,0 +1,18 @@
+{% comment %}
+  Download cards for the press kit PDFs listed under "presskit" in _data/settings.yml.
+{% endcomment %}
+<div class="presskit">
+  {% for doc in site.data.settings.presskit %}
+  <a class="presskit__card reveal" href="{{ doc.url }}" download target="_blank" rel="noopener">
+    <div class="presskit__preview">
+      <img src="{{ doc.preview | relative_url }}" alt="First page of the {{ doc.title }}" loading="lazy">
+    </div>
+    <div class="presskit__body">
+      <span class="presskit__type"><i class="fa-regular fa-file-pdf"></i> PDF · A4</span>
+      <h3 class="presskit__title">{{ doc.title }}</h3>
+      <p class="presskit__text">{{ doc.description }}</p>
+      <span class="btn btn--fire presskit__btn"><i class="fa-solid fa-download"></i> Download</span>
+    </div>
+  </a>
+  {% endfor %}
+</div>

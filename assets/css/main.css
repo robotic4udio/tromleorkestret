@@ -698,3 +698,27 @@ p { margin: 0 0 1.2em; }
 .masonry:hover img { opacity: 0.75; }
 .masonry img:hover { opacity: 1; }
 @media (max-width: 600px) { .masonry { columns: 2; column-gap: 4px; } .masonry img { margin-bottom: 4px; border-radius: 4px; } .gallery-page { padding-inline: 4px; } }
+
+/* ---------- Press kit downloads ---------- */
+
+.presskit { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+.presskit__card {
+  display: grid; grid-template-columns: minmax(120px, 42%) 1fr; align-items: stretch;
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  overflow: hidden; color: var(--text); text-decoration: none;
+  transition: transform 0.35s var(--ease), border-color 0.35s, box-shadow 0.35s;
+}
+.presskit__card:hover { color: var(--text); transform: translateY(-4px); border-color: rgba(255, 106, 26, 0.6); box-shadow: 0 24px 60px -24px rgba(255, 90, 20, 0.45); }
+.presskit__preview { background: #000; padding: 18px; display: flex; align-items: center; justify-content: center; }
+.presskit__preview img {
+  width: 100%; aspect-ratio: 210 / 297; object-fit: cover; object-position: top;
+  border-radius: 3px; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+  transform: rotate(-2deg); transition: transform 0.4s var(--ease);
+}
+.presskit__card:hover .presskit__preview img { transform: rotate(0deg) scale(1.03); }
+.presskit__body { padding: clamp(20px, 3vw, 32px); display: flex; flex-direction: column; justify-content: center; align-items: flex-start; }
+.presskit__type { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--fire-hot); margin-bottom: 10px; }
+.presskit__title { font-size: clamp(1.8rem, 3vw, 2.4rem); margin-bottom: 0.35em; }
+.presskit__text { color: var(--muted); font-size: 0.95rem; line-height: 1.55; margin-bottom: 1.4em; }
+@media (max-width: 900px) { .presskit { grid-template-columns: 1fr; } }
+@media (max-width: 480px) { .presskit__card { grid-template-columns: 1fr; } .presskit__preview img { max-width: 200px; } }

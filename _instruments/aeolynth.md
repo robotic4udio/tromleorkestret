@@ -1,47 +1,35 @@
 ---
 layout: instrument
 title: The Aeolynth
-tagline: "A synthetic wind instrument that breathes, bends and plays chords."
+tagline: "A wind synth with touch keys that can play chords."
 image: '/images/web/inst-aeolynth.jpg'
 robotic: false
 order: 5
 redirect_from:
   - /aeolynth
 ---
-The **Aeolynth** is a synthetic wind instrument. The name “Aeolynth” combines “Aeolus,” the Greek god of wind, with “synth,” emphasizing its synthetic origins. It evokes a sense of grandeur and mythological power, perfectly fitting for a custom wind instrument capable of producing epic, awe-inspiring sounds.
+The **Aeolynth** is a synthetic wind instrument. The name combines Aeolus, the Greek god of wind, with “synth”.
 
 <figure>
     <iframe height="9" width="9" src="https://drive.google.com/file/d/1IK87dOY4u5-92FcFDFOUa38Vk8ulZO6Y/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
     <figcaption align="center" style="text-align: center;">Sofie playing the Aeolynth</figcaption>
 </figure>
 
-> "Hearing the Aeolynth felt like stepping into a dream where sound and motion were one."
-
-#### **Key Components and Functionality**
-1. **Capacitive Touch Key System**
-    - **Design**: The **Aeolynth** features three octaves of capacitive touch buttons made from furniture nails, chosen for their tactile feel and visual appeal.
-    - **Technology**: These keys are powered by **MPR101 capacitive touch sensors**, ensuring precise and responsive input detection.
-    - **Chord Capabilities**: Unlike traditional wind instruments, the Aeolynth allows for **chord playing**, enabling the performer to produce rich harmonies and explore musical possibilities that are typically unattainable in similar instruments.
-2. **Mouthpiece with Pressure Sensor**
-    - **Component**: A salvaged clarinet mouthpiece fitted with an **Adafruit MPRLS Breakout** pressure sensor captures the breath intensity of the performer.
-    - **Expressive Dynamics**: The pressure input controls parameters such as volume, attack, and timbre, allowing nuanced musical phrasing.
-3. **Inertial Measurement Unit (IMU)**
-    - **Component**: The instrument integrates an [Adafruit BNO055 IMU](https://www.adafruit.com/product/4646) sensor, capable of detecting roll, pitch, and yaw.
-    - **Dynamic Modulation**: These motion-based inputs enable expressive control over effects like vibrato, glissando, or spatial audio manipulation, adding an interactive and immersive dimension to performances.
-4. **Microcontroller Unit (MCU)**
-    - **Component**: The **Adafruit ESP32-S3 FEATHER 4MB/2MB PSRAM** microcontroller serves as the brain of the Aeolynth, processing inputs from the keys, pressure sensor, and IMU.
-    - **Communication Protocol**: Data is transmitted using **Open Sound Control (OSC)**, ensuring high-speed, low-latency communication with external audio systems.
-5. **Sound Engine and Audio Processing**
-    - **Custom Engine**: Tromleorkestret employs a proprietary sound engine, developed in **C++**, to process and generate audio from the Aeolynth’s inputs. This engine is tailored to support the unique characteristics of their instruments.
-    - **Embedded Solutions**: **Bela** platforms are used to deliver high-quality, real-time audio processing across the ensemble’s instruments, ensuring flawless integration with the Aeolynth.
-    - **MaxMSP Integration**: The team also utilizes **MaxMSP** for specific audio applications, combining the best of custom programming and graphical tools.
-6. **Commercial Software Synergy**
-    - Tromleorkestret strategically integrates **industry-leading audio software** when appropriate to achieve optimal results, balancing custom development with proven commercial solutions.
-
-#### **Innovative Performance Capabilities**
-One of the Aeolynth’s most groundbreaking features is its ability to play **chords**. This capability transforms the instrument into a harmonic powerhouse, enabling the performer to layer rich textures and create orchestral-like arrangements. Combined with its expressive breath control, motion-sensing capabilities, and the ability to interface seamlessly with both custom and commercial audio systems, the Aeolynth pushes the boundaries of what a wind instrument can achieve.
-
-#### **Conclusion**
-The Aeolynth is a revolutionary step forward in wind instrument design, offering unparalleled versatility and expressivity. Its chord-playing capability, combined with dynamic control and cutting-edge technology, makes it a centerpiece of Tromleorkestret’s innovative musical vision, capable of delivering performances that are as extraordinary as the instrument itself.
+#### How it works
+1. **Touch keys**
+    - Three octaves of capacitive touch buttons made from furniture nails, read by **MPR101 capacitive touch sensors**.
+    - Unlike most wind instruments, the Aeolynth can play **chords**.
+2. **Mouthpiece**
+    - A salvaged clarinet mouthpiece fitted with an **Adafruit MPRLS** pressure sensor measures how hard the player blows.
+    - The pressure controls volume, attack and timbre.
+3. **Motion sensor**
+    - An [Adafruit BNO055 IMU](https://www.adafruit.com/product/4646) measures roll, pitch and yaw.
+    - Moving the instrument controls things like vibrato, glissando and where the sound is placed.
+4. **Microcontroller**
+    - An **Adafruit ESP32-S3 Feather** reads the keys, the pressure sensor and the IMU.
+    - It sends the data as **Open Sound Control (OSC)**.
+5. **Sound**
+    - The sound comes from our own sound engine, written in **C++** and running on **Bela**.
+    - We also use **MaxMSP** and commercial audio software where they do the job better.
 
 ![]({{site.baseurl}}/images/web/bygge-023.jpg#wide)

@@ -1,62 +1,38 @@
 ---
 layout: instrument
 title: The Robotic Slide Bass
-tagline: "The mechanical heart of the low end: a robot that slides, plucks and growls."
+tagline: "A four-string bass played by sliders and picks on motors."
 image: '/images/web/inst-robotic-slide-bass.jpg'
 robotic: true
 order: 1
 redirect_from:
   - /robotic-slide-bass
 ---
-Deep within the intricate workings of Tromleorkestret’s Music Machine lies the **Robotic Bass**—a mechanical wonder and the driving force of low-end resonance in their performances. This remarkable robotic slide bass fuses precision engineering with musical artistry, providing a foundation of rich, dynamic tones that harmonize effortlessly with the ensemble’s unique sound.
-
-Beyond its sonic contributions, the Robotic Bass is a visual spectacle, captivating audiences with its mesmerizing mechanical movements.
+The **Robotic Slide Bass** plays the bass in the machine. It has four strings. On each string a slider sets the pitch, and an actuator with a guitar pick plucks it.
 
 
-## Design and Functionality
+## How it works
 
-1. **Robotic Slide Mechanism**
-    - The Robotic Bass is equipped with a **sliding actuator system** that glides with unerring speed and precision along each of its four strings.
-    - **Expressive Capabilities**: The mechanism replicates musical techniques such as slides and vibrato with extraordinary fidelity, while also achieving rapid chromatic shifts and dynamic leaps impossible for human hands.
-    - **Mechanized Precision**: The system is meticulously calibrated to deliver each note with flawless timing and resonance.
-2. **Strings of Resonant Power**
-    - Each of the Robotic Bass’s strings produces a robust, resonant tone, its vibrations captured by a bespoke pickup system.
-    - **A Wide Tonal Palette**: Spanning subsonic depths to melodic midranges, the strings deliver both the powerful foundation and intricate textures that define Tromleorkestret’s signature sound.
+1. **The slide**
+    - A sliding actuator moves along each of the four strings and reaches the right pitch within milliseconds.
+    - It can do slides and vibrato, and also fast chromatic runs and jumps that are impossible for a hand.
+2. **The picks**
+    - Actuators with guitar picks pluck the strings.
+3. **The strings**
+    - A custom pickup system captures the strings, from very deep bass up into the melodic midrange.
+4. **In the open**
+    - The mechanics are not hidden, so you can watch the sliders and picks work while it plays.
 
-### Visual Marvel of Performance
+### Choosing a string
 
-The Robotic Bass is not only an auditory marvel but also a visual highlight of Tromleorkestret’s performances. Its mechanical precision and speed turn it into a kinetic sculpture, fascinating to watch as it plays.
+A note can usually be played on more than one string. When a MIDI note arrives via **Open Sound Control (OSC)**, the bass works out which string should play it, using a cost function:
 
-- **Hypnotic Speed and Precision**: Audiences are entranced as the actuators race beneath the strings, gliding smoothly to pinpoint the exact pitch within milliseconds. The speed and fluidity of these movements create a sense of otherworldly precision, amplifying the futuristic allure of Tromleorkestret’s Music Machine.
-- **String Excitation**: Mounted actuators equipped with guitar picks pluck the strings with rhythmic precision, their deliberate movements adding a tactile, almost human-like quality to the Robotic Bass’s performance. The interplay of sliding actuators and picking mechanisms forms a mesmerizing dance of motion and sound.
-- **Engineering Aesthetics**: The exposed mechanisms of the Robotic Bass—gleaming actuators, taut strings, and rhythmic movements—offer a striking visual contrast to the ensemble’s organic soundscapes, embodying the beauty of art in machinery.
+- **Distance**: how far the slider has to travel. Shorter moves mean less delay.
+- **Tone**: notes close to the nut sound fuller, so they are preferred.
+- **Availability**: a string that is already sounding costs more to interrupt than an idle one.
 
-### Intelligent Note Mapping
+The string with the lowest cost plays the note. The decision takes less than a millisecond.
 
-Beneath the surface of the Robotic Bass lies a computational brilliance that governs its every action—a sophisticated **note-mapping system** designed to maximize efficiency and musicality:
+### Sound
 
-1. **MIDI-Controlled Selection**
-    - Upon receiving a MIDI note via the **Open Sound Control (OSC)** protocol, the Robotic Bass’s logic engine evaluates which string is best suited to play the note.
-2. **Dynamic Cost Function**
-    - **Economy of Motion**: The algorithm calculates the distance each string must travel to reach the desired note, prioritizing shorter movements to minimize latency.
-    - **Tonal Priority**: Notes closer to the nut are preferred for their tonal richness, ensuring a deep and resonant sound.
-    - **String Availability**: Strings already engaged in producing sound are evaluated for interruption cost, favoring idle strings to maintain fluidity in performance.
-3. **Seamless Execution**
-    - The system selects the string with the lowest cost and commands the slide mechanism into action. This decision-making process occurs in under one millisecond, ensuring impeccable timing and responsiveness.
-
-### Audio Processing and Integration
-
-1. **Real-Time Effects**
-    - The Robotic Bass interfaces seamlessly with Tromleorkestret’s **Bela** based DSP systems, allowing real-time application of effects such as saturation, delay, reverb, and more.
-2. **Synchronized Performance**
-    - The Robotic Bass communicates effortlessly with Tromleorkestret’s other instruments, creating a unified and harmonious sonic environment that evolves in real time.
-
-### A Central Role in Tromleorkestret
-
-The Robotic Bass serves as far more than a bass instrument—it is a vital component of Tromleorkestret’s Music Machine, delivering both rhythmic depth and melodic nuance. With its ability to adapt to complex musical contexts and its seamless integration into the ensemble, the Robotic Bass plays a crucial role in shaping Tromleorkestret’s distinctive sound.
-
-### Conclusion
-
-The **Robotic Slide Bass** is a masterpiece of design and performance, embodying the spirit of innovation that defines Tromleorkestret. With its intelligent note-mapping system, precise mechanics, and visually stunning movements, it serves as a cornerstone of Tromleorkestret’s soundscapes and an unmissable highlight of their performances. The Robotic Bass doesn’t just play music—it brings it to life in a display of synchronized beauty and mechanical wonder.
-
-<hr>
+The signal runs through our **Bela** based DSP system, with real-time effects such as saturation, delay and reverb.

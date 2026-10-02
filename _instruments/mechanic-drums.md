@@ -1,14 +1,14 @@
 ---
 layout: instrument
 title: Mechanic Drum Ensemble
-tagline: "Robotic percussion that drives the machine’s relentless grooves."
+tagline: "Drum, tambourine, cabasa and frog guiro, played by actuators and solenoids."
 image: '/images/web/inst-mechanic-drums.jpg'
 robotic: true
 order: 3
 redirect_from:
   - /mechanic-drums
 ---
-The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret’s Music Machine. Its mechanical precision and unique instrument setup bring a dynamic percussive presence to the compositions, blending sound and visuals.
+The **Mechanic Drum Ensemble** is the percussion section of the machine.
 
 
 <div class="gallery-box">
@@ -22,25 +22,22 @@ The **Mechanic Drum Ensemble** provides the rhythmic drive for Tromleorkestret�
     </div>
 </div>
 
-Here is a video of some Mechanic Drum action:
+A video of the drums playing:
 <p><iframe height=9 width=16 src="https://drive.google.com/file/d/1jX9EM3zr-8Dq9EosMivF-h8bfo46egpa/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
 
 
-#### Key Features and Setup
+#### The instruments
 
-1. **Instrumentation**
-    - A small **drum**
-    - A **tambourine drum**, combining sharp tambourine jingles with a solid percussive strike.
-    - A **cabasa**, offering metallic, scraping textures that add movement and complexity.
-    - A **frog guiro**, providing striking wood sound for playful and organic rhythmic elements.
-    - A synth kick that is emphasized by a light bulb blinking on every kick, placed in the center of the bass speakers.
-1. **Mechanics**
-    - Actuators and solenoids drive each instrument, executing rhythms with precise timing. The mechanical operation allows for complex, interlocking patterns across the ensemble.
-    - Lights flash in time with the percussion, either glowing within or on the instruments, creating a striking visual effect synchronized with the rhythm.
+- A small **drum**.
+- A **tambourine drum**: a drum with tambourine jingles.
+- A **cabasa**, for metallic, scraping sounds.
+- A **frog guiro**, for a wooden sound.
+- A synth kick. A light bulb in the middle of the bass speakers blinks on every kick.
 
-#### Role in the Music Machine
+#### The mechanics
 
-The **Mechanic Drum Ensemble** brings together the low, driving beats of the drum, the shimmering accents of the tambourine drum, the metallic scrapes of the cabasa, and the distinctive textures of the frog guiro. These elements combine to create a layered percussive sound that interacts dynamically with the other instruments in the Music Machine. The visual element of flashing lights enhances the performance, amplifying the mechanical aesthetic of the ensemble.
+- Actuators and solenoids play each instrument, with precise timing and in interlocking patterns.
+- Lights in or on the instruments flash in time with the hits.
 
 
 ![]({{site.baseurl}}/images/drums/TopDrum.png#wide)

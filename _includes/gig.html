@@ -1,0 +1,34 @@
+{% comment %}
+  One show, as a row in a .gig-list. Used for upcoming and past shows alike.
+  {% include gig.html show=show %}
+{% endcomment %}
+{% assign show = include.show %}
+<li class="gig{% if include.reveal %} reveal{% endif %}">
+  <time class="gig__date" datetime="{{ show.date | date: '%Y-%m-%d' }}">
+    <span class="gig__day">{{ show.date | date: '%d' }}</span>
+    <span class="gig__month">{{ show.date | date: '%b %Y' }}</span>
+  </time>
+  <div class="gig__info">
+    <span class="gig__title">{{ show.title | escape }}</span>
+    {% if show.venue or show.city or show.time %}
+    <span class="gig__meta">
+      {% if show.venue %}{% if show.venue_url %}<a href="{{ show.venue_url }}" target="_blank" rel="noopener">{{ show.venue | escape }}</a>{% else %}{{ show.venue | escape }}{% endif %}{% endif %}{% if show.venue and show.city %} · {% endif %}{% if show.city %}{{ show.city | escape }}{% endif %}{% if show.time %}{% if show.venue or show.city %} · {% endif %}{{ show.time }}{% endif %}
+    </span>
+    {% endif %}
+  </div>
+  {% if show.url %}
+  <a class="btn btn--ghost gig__link" href="{{ show.url }}" target="_blank" rel="noopener" aria-label="Info: {{ show.title | escape }}"><span>Info</span> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+  {% endif %}
+  {% if show.video or show.embed or show.photos %}
+  <div class="gig__media">
+    {% if show.video %}{% include youtube.html id=show.video %}{% endif %}
+    {% if show.embed %}<iframe src="{{ show.embed }}" title="{{ show.title | escape }}" loading="lazy" allow="autoplay; encrypted-media" allowfullscreen></iframe>{% endif %}
+    {% if show.photos %}
+    <div class="gallery">
+      {% for photo in show.photos %}<img src="{{ photo | relative_url }}" alt="" loading="lazy" decoding="async">{% endfor %}
+    </div>
+    {% endif %}
+    {% if show.caption %}<p class="gig__caption">{{ show.caption }}</p>{% endif %}
+  </div>
+  {% endif %}
+</li>

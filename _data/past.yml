@@ -1,0 +1,502 @@
+# Past shows – shown on the Shows page, newest first, grouped by year.
+# Same format as _data/upcoming.yml: when a show has happened, move it from there to here.
+# Extra fields for past shows (all optional):
+#
+#     venue_url: https://...            # makes the venue a link
+#     video: RqQnMvwpiNk                # YouTube video id
+#     embed: https://drive.google.com/file/d/.../preview   # any other video, as an iframe address
+#     photos:                           # shown as a small gallery under the show
+#       - /images/web/photo-sm.jpg
+#     caption: "Photo: Someone"         # under the photos (HTML allowed)
+
+- date: 2026-09-12
+  time: "22:30"
+  title: "Ny Bastion - Høstfest"
+  url: "https://www.nybastion.dk/"
+
+- date: 2026-06-20
+  time: "23:30"
+  title: "Magisk Midsommer"
+  url: "https://www.instagram.com/magiskmidsommer/"
+
+- date: 2025-11-22
+  title: "Åbning af Christianias Skøjtebane"
+  url: "https://fb.me/e/6RwMTak5r"
+
+- date: 2025-11-15
+  title: "Magiske Haslev"
+  url: "https://www.magiskehaslev.dk/"
+
+- date: 2025-10-10
+  title: "Lyden af Kulturnatten på Københavns Museum"
+  url: "https://cphmuseum.kk.dk/det-sker/saerudstilling-lyden-af-koebenhavn"
+
+- date: 2025-09-27
+  title: "NusNus' SummerParty"
+  venue: "Hangaren"
+  venue_url: "https://www.hangaren.dk/"
+  url: "https://www.nusnus.dk/"
+
+- date: 2025-08-30
+  time: "22:00"
+  title: "Karrusel Festival"
+  venue: "Hakkertdukkert's Teahouse Stage"
+  venue_url: "https://hakkertdukkert.dk/"
+  url: "https://www.karrusel.dk/"
+  video: "RqQnMvwpiNk"
+
+- date: 2025-08-09
+  title: "Frigjort Festival"
+  url: "https://www.facebook.com/events/1200255194805346/"
+  video: "XIEsC5YV8EI"
+
+- date: 2025-07-26
+  title: "Ved Vandet Festival"
+  url: "https://fb.me/e/2ZNgzOjlF"
+
+- date: 2025-07-18
+  title: "Byggefestivalen på Als + Jam Session"
+  url: "https://www.byggefest.dk/"
+
+- date: 2025-07-17
+  title: "Byggefestivalen på Als"
+  url: "https://www.byggefest.dk/"
+  photos:
+    - "/images/web/bygge-001-sm.jpg"
+    - "/images/web/bygge-005-sm.jpg"
+    - "/images/web/bygge-008-sm.jpg"
+    - "/images/web/bygge-013-sm.jpg"
+    - "/images/web/bygge-016-sm.jpg"
+    - "/images/web/bygge-017-sm.jpg"
+    - "/images/web/bygge-022-sm.jpg"
+    - "/images/web/bygge-023-sm.jpg"
+    - "/images/web/bygge-026-sm.jpg"
+    - "/images/web/bygge-027-sm.jpg"
+    - "/images/web/bygge-029-sm.jpg"
+    - "/images/web/bygge-032-sm.jpg"
+    - "/images/web/bygge-035-sm.jpg"
+    - "/images/web/bygge-037-sm.jpg"
+    - "/images/web/bygge-038-sm.jpg"
+  caption: "Byggefestival 2025 // Foto: Pato Soto"
+
+- date: 2025-07-05
+  title: "Holzmarkt Sessions"
+  url: "https://www.holzmarkt.com/"
+
+- date: 2025-06-30
+  title: "Biesenthal Wokule"
+  url: "https://wokule.de/"
+
+- date: 2025-06-28
+  title: "Fusion Festival"
+  url: "https://fusion-festival.de/en"
+  photos:
+    - "/images/fusion/2025/Before Show.png"
+
+- date: 2025-06-21
+  title: "SØLYST SOMMERFEST '25"
+  url: "https://fb.me/e/3expXiHal"
+  embed: "https://drive.google.com/file/d/1ya1aJYxONvOr9zwbf7J6HIwRN2O0VNjk/preview"
+
+- date: 2025-06-13
+  title: "Free the Freaks Festival"
+  url: "https://www.facebook.com/free.the.freaks.festival"
+
+- date: 2025-06-07
+  title: "Avantgarde i Alken"
+  url: "https://fb.me/e/9OlAZmbrm"
+
+- date: 2025-05-17
+  title: "A Summer Day In The Garden"
+
+- date: 2025-05-17
+  title: "HaveSpektakel Festival"
+  url: "https://www.facebook.com/events/1672024136989019/"
+
+- date: 2025-05-16
+  title: "Lyden af København"
+  url: "https://cphmuseum.kk.dk/om-museet/forsknings-og-formidlingsprojekter/lyden-af-hovedstaden"
+  photos:
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_036.jpg"
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_037.jpg"
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_050.jpg"
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_046.jpg"
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_047.jpg"
+    - "/images/web/lyden-af-kbh-2025_05_16_lyden_af_KBH_052.jpg"
+  caption: "Lyden af København - Københavns Museum - Foto: Lina Ahnoff"
+
+- date: 2024-12-24
+  title: "Juleløses Jul 2024 feat. Rosyán"
+  url: "https://www.juleloesesjul.com/galleri-1/2024?itemId=zatds3bzprf24hd298fc670k49vnc0"
+  photos:
+    - "/images/jul24/TrorkJul14.jpg"
+    - "/images/jul24/TrorkJul13.jpg"
+    - "/images/jul24/TrorkJul15.jpg"
+    - "/images/jul24/TrorkJul1.jpg"
+    - "/images/jul24/TrorkJul10.jpg"
+    - "/images/jul24/TrorkJul11.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> with <a href=\"https://www.facebook.com/rosyanmusic\">rosyán</a> @ <a href=\"https://www.juleloesesjul.com/\">Juleløses Jul</a> // Photos by Jens Raadal"
+
+- date: 2024-09-14
+  title: "Folkedybet - Samsø Energiakademi"
+  url: "https://energiakademiet.dk/folkedybet-2024/"
+  video: "Ih18heM69U4"
+
+- date: 2024-09-07
+  title: "Amagerbro Gårdfest"
+
+- date: 2024-08-17
+  title: "Vadestedsfestival #8"
+  url: "https://www.facebook.com/events/1643807883065806/"
+
+- date: 2024-08-10
+  title: "Kultursalonerne Gisselfeld 2024"
+  url: "https://www.facebook.com/events/1053737365543912/"
+
+- date: 2024-08-09
+  title: "Kultursalonerne Gisselfeld 2024"
+  url: "https://www.facebook.com/events/1053737365543912/"
+  photos:
+    - "/images/tromleorkestret/Gisselfeldt1.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> @ <a href=\"https://kultursalonernegisselfeld.dk/tidligere-programmer\">Kultursalonerne Gisselfeldt</a>"
+
+- date: 2024-08-02
+  title: "Bascherdeis Festival 2024 - Senza Confini -"
+  url: "https://www.facebook.com/events/833929361608844/"
+  photos:
+    - "/images/bascherdeis/Bascherdeis-9.jpg"
+    - "/images/bascherdeis/Bascherdeis-13.jpg"
+    - "/images/bascherdeis/Bascherdeis-S12.png"
+    - "/images/bascherdeis/Bascherdeis-S9.png"
+    - "/images/bascherdeis/Bascherdeis-S8.png"
+    - "/images/bascherdeis/Bascherdeis-S15.png"
+  caption: "<a href=\"/\">Tromleorkestret</a> @ <a href=\"https://www.bascherdeis.it/gli-artisti/\">Bascherdeis Festival 2024 // Italy </a>"
+
+- date: 2024-07-12
+  title: "Byggefestivalen på Als - 2024"
+  url: "https://www.facebook.com/events/312564731808115/"
+  video: "ZJ_z8yWe3jE"
+
+- date: 2024-06-25
+  title: "Østre Gasværk Teatercafé"
+
+- date: 2024-06-22
+  title: "Sølyst Sommerfest 24'"
+  url: "https://www.facebook.com/events/988467155848276/"
+
+- date: 2024-06-15
+  title: "Bryllyp på Samsø"
+
+- date: 2024-06-08
+  title: "Svanholm Festival 2024"
+  url: "https://fb.me/e/2YspWUeOX"
+  photos:
+    - "/images/tromleorkestret/Svanholm.jpg"
+    - "/images/tromleorkestret/Svanholm2.jpg"
+
+- date: 2024-05-25
+  title: "Gennem Porten 2024: Åben Hus"
+  url: "https://www.facebook.com/events/984718222527135/"
+
+- date: 2024-05-11
+  title: "Grå Hal's Sommerfest"
+  url: "https://www.facebook.com/dengraahal"
+
+- date: 2024-05-08
+  title: "Verdens Mindste Kulturhus - Sommerfest i baghaven"
+  url: "https://www.facebook.com/events/1599151907549191/"
+
+- date: 2023-10-07
+  title: "Buster i Naturen"
+  url: "https://fb.me/e/6GY6wK4rD"
+  photos:
+    - "/images/web/buster2023-FM-HQ-11.jpg"
+    - "/images/web/buster2023-FM-HQ-24.jpg"
+    - "/images/web/buster2023-FM-HQ-23.jpg"
+    - "/images/web/buster2023-FM-HQ-28.jpg"
+    - "/images/web/buster2023-FM-HQ-70.jpg"
+    - "/images/web/buster2023-FM-HQ-45.jpg"
+    - "/images/web/buster2023-FM-HQ-32.jpg"
+    - "/images/web/buster2023-FM-HQ-39.jpg"
+    - "/images/web/buster2023-FM-HQ-37.jpg"
+
+- date: 2023-09-30
+  title: "Pumpehuset - Support til Fastpoholmen"
+  url: "https://www.facebook.com/events/938028364124055"
+  video: "BVNMIxkgRwk"
+
+- date: 2023-09-17
+  title: "Svampenes verden - kreativ workshop og drømmende lirekassekoncert"
+  url: "https://www.facebook.com/events/970779604248692/"
+
+- date: 2023-09-03
+  title: "Kultur i Byen"
+
+- date: 2023-08-05
+  title: "Badesøen Festival 2023"
+  url: "https://www.facebook.com/events/927089168683505/"
+
+- date: 2023-08-24
+  title: "Sølyst Sommerfest 2023"
+  url: "https://www.facebook.com/events/216249494631632/"
+
+- date: 2023-07-22
+  title: "Stjerner over farø"
+  url: "https://www.facebook.com/profile.php?id=100083416773605"
+
+- date: 2023-06-03
+  title: "Svanholm Festival"
+  url: "https://www.facebook.com/events/1417871128619577/"
+
+- date: 2023-02-12
+  title: "Amager Børnemusikfestival"
+  url: "https://www.facebook.com/events/1108896416464996/"
+
+- date: 2022-08-21
+  title: "BIG BANG Festival 2022"
+  url: "https://www.facebook.com/events/2512919615504985/"
+
+- date: 2022-08-19
+  title: "ART by NIGHT - I avantgardens tegn"
+  url: "https://www.facebook.com/events/766343297741677/"
+
+- date: 2021-08-27
+  title: "HØST MØN 2021"
+  url: "https://www.facebook.com/events/594341764510237/"
+
+- date: 2021-08-27
+  title: "HF Kongelunden"
+  photos:
+    - "/images/tromleorkestret/HF_Kongelunden_2021.jpg"
+
+- date: 2021-08-20
+  title: "den grænseløse festival 2021"
+  url: "https://www.facebook.com/events/1065508013897189/"
+
+- date: 2020-10-16
+  title: "Extreeeme PART 4"
+  url: "https://www.facebook.com/events/3565469556838969/"
+  video: "C9E8QsPlKdQ"
+
+- date: 2020-09-27
+  title: "Conducting Machines Livestream"
+  url: "https://www.facebook.com/events/427962321511508/"
+
+- date: 2020-09-24
+  title: "Conducting Machines - Grå Hal"
+  url: "https://www.facebook.com/events/370455487295710/"
+
+- date: 2020-08-22
+  title: "Conducting Machines - Frederiks Bastion"
+  url: "https://www.facebook.com/events/341926223645976/"
+
+- date: 2020-01-23
+  title: "DJBFA's Seminar & Bar"
+  url: "https://www.facebook.com/events/1059247374414333/"
+
+- date: 2019-12-07
+  title: "Lystfest Afterparty i Ribersgård med Tromleorkestret"
+  url: "https://www.facebook.com/events/420478635299945/"
+
+- date: 2019-12-07
+  title: "Lysfest på Frederiksø 2019"
+  url: "https://www.facebook.com/events/496769957842450/"
+  photos:
+    - "/images/tromleorkestret/Lysfest_Svendborg_2019.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> @ <a href=\"https://www.facebook.com/events/496769957842450/\">Lysfest på Frederiksø 2019</a>"
+
+- date: 2019-10-11
+  title: "Kulturnatten 2019 X Reffen"
+  url: "https://www.facebook.com/events/730667017394410/"
+
+- date: 2019-09-21
+  title: "Analogik + support: Tromleorkestret // Loppen"
+  url: "https://www.facebook.com/events/369305030453917/"
+
+- date: 2019-08-23
+  title: "SMK Fridays x Udstillingsåbning: Dansk Guldalder"
+  url: "https://www.facebook.com/events/475133773046199/"
+  photos:
+    - "/images/smk/SMK3.jpg"
+    - "/images/smk/SMK2.jpg"
+    - "/images/smk/SMK1.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> at <a href=\"https://www.facebook.com/events/475133773046199/\">SMK Fridays x Udstillingsåbning: Dansk Guldalder</a>"
+
+- date: 2019-08-18
+  title: "Kulturværftet - Acting for climate"
+  url: "https://www.facebook.com/events/909628902714757/?ti=icl"
+
+- date: 2019-08-17
+  title: "Havnefest for klima & sejlende cirkusshow"
+  url: "https://www.facebook.com/events/2147376568896059/"
+
+- date: 2019-08-15
+  title: "BastiOn - Brunette Bros. Back to MaMa"
+  url: "https://www.facebook.com/events/702296600217062/"
+  photos:
+    - "/images/tromleorkestret/BackToMama.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> @ <a href=\"https://www.facebook.com/events/702296600217062/\">BastiOn - Brunette Bros. Back to MaMa</a>"
+
+- date: 2019-08-14
+  title: "Hall of the odd - Tromleorkestret w. Zirkus"
+  url: "https://www.facebook.com/halloftheodd/"
+
+- date: 2019-07-26
+  title: "Himmelstorm Festival"
+  url: "https://www.facebook.com/events/521446411664239/"
+  photos:
+    - "/images/tromleorkestret/Pub1.jpg"
+    - "/images/tromleorkestret/Pub2.jpg"
+
+- date: 2019-04-27
+  title: "Science & Cocktails: The Many Worlds of Quantum Reality"
+  url: "https://www.facebook.com/events/578407449293831/"
+
+- date: 2017-06-29
+  title: "Science & Cocktails • Cosmic Connections: the Universe and You"
+  url: "https://www.facebook.com/events/262533510881384/"
+
+- date: 2017-04-22
+  title: "Godsbanens Forårsmarked 2017, Århus"
+  url: "https://www.facebook.com/events/1120144288097142/"
+
+- date: 2016-09-26
+  title: "Pyromaniacs og Tromleorkestret"
+  url: "https://www.facebook.com/events/255115434883637/"
+
+- date: 2016-07-29
+  title: "Nakkefestival 2016"
+  url: "https://www.facebook.com/events/1526703804308323/"
+
+- date: 2016-07-10
+  title: "Freqs Of Nature • Experimental Art & Music Festival • Germany"
+  url: "https://www.facebook.com/events/1650900035162677/"
+  photos:
+    - "/images/tromleorkestret/Freqs2.jpg"
+    - "/images/tromleorkestret/Freqs3.jpg"
+
+- date: 2016-07-01
+  title: "Fusion Festival • Germany"
+  url: "https://www.facebook.com/events/974064902647964/"
+  photos:
+    - "/images/fusion/DSC6086.jpg"
+    - "/images/fusion/DSC6244.jpg"
+    - "/images/fusion/DSC6183.jpg"
+    - "/images/fusion/DSC6404.jpg"
+    - "/images/fusion/DSC6201.jpg"
+    - "/images/fusion/DSC6598.jpg"
+    - "/images/fusion/DSC6198.jpg"
+    - "/images/fusion/DSC6128.jpg"
+    - "/images/fusion/DSC6600.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> with <a href=\"https://www.facebook.com/rosyanmusic\">rosyán</a> and the <a href=\"https://www.facebook.com/pyromaniacs.dk/\">Pyromaniacs</a> @ <a href=\"https://www.fusion-festival.de/en\">Fusion Festival </a>"
+
+- date: 2016-06-25
+  title: "Tromleorkestret på Magisk Midsommer"
+  url: "https://www.facebook.com/events/1591068821223534/"
+
+- date: 2016-06-11
+  title: "Tromleorkestret i Den Grå Hal"
+  url: "https://dengraahal.dk/"
+
+- date: 2016-05-24
+  title: "Science & Cocktails: Thinking about thinking about thinking"
+  url: "https://www.facebook.com/events/259786541036931/"
+
+- date: 2016-04-09
+  title: "Containerby Festival 2016"
+  url: "https://www.facebook.com/watch/?v=1975276956101993"
+
+- date: 2015-08-28
+  title: "Vadestedsfestival"
+
+- date: 2015-08-28
+  title: "Skattejagten Pandekagemysteriet"
+
+- date: 2015-08-21
+  title: "Pyromaniacs Feat. Tromleorkestret @ KB3"
+  photos:
+    - "/images/KB3/KB3-1.jpg"
+    - "/images/KB3/KB3-2.jpg"
+    - "/images/KB3/KB3-3.jpg"
+    - "/images/KB3/KB3-4.jpg"
+    - "/images/KB3/KB3-5.jpg"
+    - "/images/KB3/KB3-7.jpg"
+  caption: "<a href=\"/\">Tromleorkestret</a> and the <a href=\"https://www.facebook.com/pyromaniacs.dk/\">Pyromaniacs</a> @ <a href=\"https://www.kb3.dk/\">KB3 </a>"
+
+- date: 2015-07-25
+  title: "Thylejren Festival 2015"
+
+- date: 2014-11-14
+  title: "P3 GANDHI Awalks, Århus"
+  url: "https://www.youtube.com/embed/p7UaffmEIS0?si=oCJhpmGJbF6U-38E"
+  video: "p7UaffmEIS0"
+
+- date: 2014-05-09
+  title: "Science & Cocktails - The Luck Factor"
+  url: "https://www.scienceandcocktails.org/en/events/copenhagen/the-luck-factor"
+
+- date: 2014-04-12
+  title: "Byens Lys, Christiania"
+  url: "https://youtu.be/bC2RTdl-8B0?si=euN2TtkGwlWvIrJs"
+
+- date: 2013-11-16
+  title: "43 Farben - Acid Pauli, Tromleorkestret & Pyromaniacs"
+  url: "https://ra.co/events/530492"
+
+- date: 2013-09-26
+  title: "Pyromaniacs & Tromleorkestret @ Christiania's Birthday 2013"
+  photos:
+    - "/images/tromleorkestret/CaBday2013.jpg"
+
+- date: 2013-08-23
+  title: "Århus Lydfestival"
+  url: "https://dinavis.dk/samfund/ECE15502048/lydfestival-med-360-graderskoncert/"
+  photos:
+    - "/images/tromleorkestret/AarhusGallery.jpg"
+
+- date: 2013-08-11
+  title: "Ménage a trois Festival, Germany"
+  photos:
+    - "/images/tromleorkestret/Ménage a trois/2013-08-12 12.31.06.jpg"
+    - "/images/tromleorkestret/Ménage a trois/2013-08-12 12.30.38.jpg"
+    - "/images/tromleorkestret/Ménage a trois/2013-08-11 19.15.27.jpg"
+
+- date: 2013-08-10
+  title: "Concert at \"chez heiner\", Berlin"
+  url: "https://www.facebook.com/events/486145334812463/"
+
+- date: 2013-08-09
+  title: "Tromleorkestret in Mauerpark, Berlin"
+
+- date: 2013-08-09
+  title: "Tromleorkestret in Red Light District, Amsterdam"
+  photos:
+    - "/images/tromleorkestret/RedLightDistrict.jpg"
+
+- date: 2013-07-30
+  title: "Eiffel Tower, Paris"
+  photos:
+    - "/images/tromleorkestret/Eiffel1.jpg"
+
+- date: 2013-07-16
+  title: "Festival d'Avignon, France"
+  url: "https://festival-avignon.com/en/edition-2013"
+  photos:
+    - "/images/tromleorkestret/Avignon1.jpg"
+    - "/images/tromleorkestret/Avignon2.jpg"
+
+- date: 2013-06-22
+  title: "Tunneller og Døre, Byens Lys, Christiania"
+  url: "https://www.facebook.com/events/533015966757080/"
+
+- date: 2012-08-26
+  title: "Circus Spectaculum, La Capra Grassa, Christiania"
+
+- date: 2012-08-25
+  title: "Circus Spectaculum, La Capra Grassa, Christiania"
+
+- date: 2012-08-24
+  title: "Circus Spectaculum, La Capra Grassa, Christiania"
+
+- date: 2012-08-23
+  title: "Circus Spectaculum, La Capra Grassa, Christiania"

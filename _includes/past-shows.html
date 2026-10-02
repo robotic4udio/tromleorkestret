@@ -1,0 +1,14 @@
+{% comment %}
+  Past shows from _data/past.yml, newest first, one list per year.
+  They use the same rows as the upcoming shows (gig.html).
+{% endcomment %}
+{% assign shows = site.data.past | sort: "date" | reverse %}
+{% assign years = shows | group_by_exp: "show", "show.date | date: '%Y'" %}
+{% for year in years %}
+<h3 class="gig-year" id="y{{ year.name }}">{{ year.name }}</h3>
+<ol class="gig-list gig-list--past">
+  {% for show in year.items %}
+  {% include gig.html show=show %}
+  {% endfor %}
+</ol>
+{% endfor %}

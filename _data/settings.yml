@@ -2,7 +2,7 @@
 # Site Settings
 title: Tromleorkestret
 tagline: The Firebreathing Music Machine
-description: Tromleorkestret – a Danish ensemble playing a self-built, fire-breathing, steampunk music machine. Robotic instruments, real flames and psychedelic sound.
+description: Tromleorkestret is two people and a homebuilt music machine from Christiania, Denmark, with robotic instruments and flamethrowers that fire in sync with the music.
 email: tromleorkestret@gmail.com
 image: '/images/web/bygge-008.jpg' # Default image used when sharing links on social media
 
@@ -57,7 +57,7 @@ google-analytics: # Add your identifier. For example G-XXXXXXX
 # The preview images are page 1 of each PDF (update them if the first page changes a lot).
 presskit:
   - title: Booking Sheet
-    description: Who we are, the machine, the show and photos – everything an organiser needs in two pages.
+    description: Two pages about us, the machine and the show, with photos, past shows and the rider in short.
     url: https://raw.githubusercontent.com/robotic4udio/tromleorkestret-presskit/main/Tromleorkestret%20-%20Booking%20Sheet.pdf
     preview: '/images/web/presskit-booking-sheet.jpg'
   - title: Technical Rider

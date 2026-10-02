@@ -1,5 +1,5 @@
 # Upcoming shows – shown on the front page and at the top of the Shows page.
-# When a show has happened, move it to the "Past Shows" list in _pages/shows.md.
+# When a show has happened, move it to _data/past.yml (same format).
 #
 #   - date: 2026-11-06        # YYYY-MM-DD
 #     time: "17:00"           # optional

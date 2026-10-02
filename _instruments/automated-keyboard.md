@@ -1,57 +1,28 @@
 ---
 layout: instrument
 title: The Automated Keyboard
-tagline: "An innocent-looking keyboard hiding actuators that play at inhuman speed."
+tagline: "A keyboard with an actuator under every key."
 image: '/images/web/inst-automated-keyboard.jpg'
 robotic: true
 order: 2
 redirect_from:
   - /automated-keyboard
 ---
-> "The Automated Keyboard played with such speed and precision, it was like listening to a virtuoso from the future."
-
-Nestled beneath the commanding presence of the [Robotic Slide Bass]({{site.baseurl}}/the-machine/robotic-slide-bass/)  in Tromleorkestret’s Music Machine lies an unassuming yet extraordinary instrument—the **Automated Keyboard**. At first glance, it appears to be a standard keyboard, its exterior betraying none of the intricate mechanics hidden within. Yet, this unassuming facade conceals an ingenious system of actuators, transforming the instrument into a virtuoso capable of performances beyond human capability.
-
-> Seeing the keys move without a player felt like peeking into a world where music writes itself.
->
-> <cite> Balthazar Rivetstone </cite>
-
+The **Automated Keyboard** sits under the [Robotic Slide Bass]({{site.baseurl}}/the-machine/robotic-slide-bass/). From the outside it looks like an ordinary keyboard, but every key has its own actuator, so the keys move by themselves.
 
 ![AutoKey]({{site.baseurl}}/images/tromleorkestret/AutoKey.gif)
 *Automated Keyboard*
 
-## Key Features and Mechanized Precision
+## How it works
 
-1. **Mechanical Actuation**
-    - Inside the keyboard, every single key is connected to a **dedicated actuator**, enabling precise and independent control of each note.
-    - **Unparalleled Speed**: The actuators operate with blistering speed, replicating the dexterity of a player with 42 fingers. Complex arpeggios, rapid trills, and cascading scales flow effortlessly from the instrument, creating a sound that is both mechanical and musical.
-2. **Invisible Engineering**
-    - Unlike many of Tromleorkestret’s instruments, the mechanics of the Automated Keyboard are completely hidden. This creates an air of mystery and wonder as the keyboard seems to come to life on its own, its keys dancing with unerring precision.
+1. **One actuator per key**
+    - Each key is controlled independently, and fast enough for arpeggios, trills and runs that no keyboard player could manage.
+2. **Hidden mechanics**
+    - Unlike most of our instruments, the mechanics are hidden inside. All you see is the keys moving.
+3. **Control**
+    - It is controlled over **Open Sound Control (OSC)** like the rest of the machine, and plays together with the [Robotic Slide Bass]({{site.baseurl}}/the-machine/robotic-slide-bass/), the [Aeolynth]({{site.baseurl}}/the-machine/aeolynth/) and the other instruments.
 
 
 <p><iframe height=9 width=16 src="https://drive.google.com/file/d/1fCsbT-7CwfJgbemUBy_Ot0V4p-62ZqrN/preview" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe></p>
-
-
-## A Mesmerizing Visual Effect
-
-When the Automated Keyboard plays, it becomes a hypnotic spectacle. The rapid movement of its keys—playing intricate patterns with perfect timing—creates a dazzling blur of motion. Paired with the pulsating rhythms of the Music Machine, the keyboard becomes a visual and auditory marvel, captivating audiences with its seamless blend of subtlety and spectacle.
-
-> The precision of the Automated Keyboard was mind-blowing, but the way it added emotion to the music was pure magic.
-> 
-> <cite> Elara Nightingale </cite>
-
-
-
-### Integration with Tromleorkestret’s Music Machine
-
-1. **OSC-Controlled Precision**
-    - The Automated Keyboard is controlled via the **Open Sound Control (OSC)** protocol, ensuring it integrates seamlessly with the other instruments in Tromleorkestret’s ensemble.
-    - **Dynamic Versatility**: It can perform anything from delicate, melodic passages to frenetic, rhythmically complex patterns, adapting effortlessly to the demands of each composition.
-2. **Synchrony and Unity**
-    - The keyboard works in perfect harmony with the [Robotic Slide Bass]({{site.baseurl}}/the-machine/robotic-slide-bass/), **Aeolynth**, and other instruments, enhancing the Music Machine’s cohesive and unified performance.
-
-## Conclusion
-
-The **Automated Keyboard** is a marvel of engineering and artistry, offering Tromleorkestret a limitless palette of musical possibilities. Its ability to perform at superhuman speeds, combined with the enchanting visual effect of its moving keys, makes it an indispensable part of the Music Machine. Whether adding intricate counterpoint or driving the rhythm with mechanical precision, the Automated Keyboard exemplifies Tromleorkestret’s mastery of blending technology with musicality.
 
 ![AutoKey]({{site.baseurl}}/images/tromleorkestret/AutoKey.gif#wide)

@@ -20,6 +20,7 @@ LANG=en_US.UTF-8 bundle exec jekyll serve --livereload
 | Music, Shows, The Band, Contact | `_pages/` |
 | Instruments (sub-pages of The Machine) | `_instruments/` → `/the-machine/<file-name>/` |
 | Upcoming shows | `_data/upcoming.yml` |
+| Past shows | `_data/past.yml` |
 | Gallery photos | `images/gallery/` (added with `tools/gallery-add.sh`) |
 | Menu, social links, site texts | `_data/settings.yml` |
 | Styles / scripts | `assets/css/main.css`, `assets/js/main.js` |
@@ -28,7 +29,9 @@ LANG=en_US.UTF-8 bundle exec jekyll serve --livereload
 ## Adding a show
 
 Add it to `_data/upcoming.yml` – it appears on the front page and at the top of the Shows page.
-After the show, move it to the "Past shows" list in `_pages/shows.md`.
+After the show, move the entry to `_data/past.yml` (same format, any position: the page sorts them by date and groups them by year).
+There it can also get a `video` (YouTube id), `photos` and a `caption`; see the top of that file.
+Upcoming and past shows are drawn by the same row, `_includes/gig.html`.
 
 ## Adding photos to the Gallery
 

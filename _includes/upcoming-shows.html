@@ -7,23 +7,9 @@
 {% if shows.size > 0 %}
 <ol class="gig-list">
   {% for show in shows limit: limit %}
-  <li class="gig reveal">
-    <time class="gig__date" datetime="{{ show.date | date: '%Y-%m-%d' }}">
-      <span class="gig__day">{{ show.date | date: '%d' }}</span>
-      <span class="gig__month">{{ show.date | date: '%b %Y' }}</span>
-    </time>
-    <div class="gig__info">
-      <span class="gig__title">{{ show.title }}</span>
-      <span class="gig__meta">
-        {% if show.venue %}{{ show.venue }}{% endif %}{% if show.venue and show.city %} · {% endif %}{% if show.city %}{{ show.city }}{% endif %}{% if show.time %} · {{ show.time }}{% endif %}
-      </span>
-    </div>
-    {% if show.url %}
-    <a class="btn btn--ghost gig__link" href="{{ show.url }}" target="_blank" rel="noopener">Info <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-    {% endif %}
-  </li>
+  {% include gig.html show=show reveal=true %}
   {% endfor %}
 </ol>
 {% else %}
-<p class="gig-empty">No shows announced right now. <a href="{{ '/contact/' | relative_url }}">Want the machine at your event?</a></p>
+<p class="gig-empty">No shows announced right now. <a href="{{ '/contact/' | relative_url }}">Get in touch to book one.</a></p>
 {% endif %}

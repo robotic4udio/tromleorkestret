@@ -355,7 +355,6 @@ p { margin: 0 0 1.2em; }
 .big-quote cite { font-style: normal; color: var(--muted); letter-spacing: 0.15em; text-transform: uppercase; font-size: 0.8rem; }
 .big-quote cite::before { content: "— "; }
 
-.music-teaser { padding-top: 0; }
 .video-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 @media (max-width: 860px) { .video-grid { grid-template-columns: 1fr; } }
 
@@ -421,20 +420,40 @@ p { margin: 0 0 1.2em; }
 .instrument-card:hover .instrument-card__more i { transform: translateX(4px); }
 
 /* ---------- Gigs ---------- */
+/* One row per show; upcoming and past shows share it (_includes/gig.html). */
 
-.gig-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
-.gig { display: grid; grid-template-columns: auto 1fr auto; gap: 20px; align-items: center; padding: 20px 0; border-bottom: 1px solid var(--line); }
-.gig__date { display: flex; flex-direction: column; align-items: center; width: 72px; line-height: 1; }
+.gig-list, .prose .gig-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.gig, .prose .gig { display: grid; grid-template-columns: 72px 1fr auto; gap: 0 20px; align-items: center; margin: 0; padding: 20px 0; border-bottom: 1px solid var(--line); }
+.gig__date { display: flex; flex-direction: column; align-items: center; line-height: 1; }
 .gig__day { font-family: var(--font-display); font-weight: 900; font-size: 2.8rem; color: var(--fire); }
-.gig__month { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
-.gig__info { display: flex; flex-direction: column; }
-.gig__title { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: 1.6rem; line-height: 1.1; }
+.gig__month { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-top: 4px; white-space: nowrap; }
+.gig__info { display: flex; flex-direction: column; min-width: 0; }
+.gig__title { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: 1.6rem; line-height: 1.1; text-wrap: balance; }
 .gig__meta { color: var(--muted); font-size: 0.92rem; }
+.gig__meta a { color: inherit; }
+.gig__meta a:hover { color: var(--fire-hot); }
 .gig__link { padding: 0.6em 1.1em; }
 .gig-empty { color: var(--muted); }
+
+/* Videos and photos from a show sit under its row, in line with the title */
+.gig__media { grid-column: 2 / -1; margin-top: 16px; display: grid; gap: 10px; max-width: 40rem; }
+.gig__media .gallery { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 6px; }
+.gig__media .gallery img, .prose .gig__media .gallery img { border-radius: 6px; margin: 0; }
+.gig__caption, .prose .gig__caption { margin: 0; color: var(--muted); font-size: 0.85rem; }
+.gig__caption a { color: inherit; }
+.gig__caption a:hover { color: var(--fire-hot); }
+
+.gig-year, .prose .gig-year { color: var(--fire); font-size: clamp(2.4rem, 5vw, 3.6rem); margin: 1.4em 0 0.35em; }
+
 @media (max-width: 560px) {
-  .gig { grid-template-columns: auto 1fr; }
-  .gig__link { grid-column: 2; justify-self: start; }
+  .gig, .prose .gig { grid-template-columns: 64px 1fr; gap: 0 14px; }
+  .gig__link { grid-column: 2; justify-self: start; margin-top: 12px; }
+  .gig__media { grid-column: 1 / -1; }
+  /* The long list of past shows keeps its link on the row, as an icon */
+  .gig-list--past .gig { grid-template-columns: 64px 1fr auto; }
+  .gig-list--past .gig__link { grid-column: 3; margin-top: 0; padding: 0; width: 40px; height: 40px; }
+  .gig-list--past .gig__link span { display: none; }
+  .gig-list--past .gig__title { font-size: 1.35rem; }
 }
 
 /* ---------- Page hero ---------- */
@@ -590,10 +609,8 @@ p { margin: 0 0 1.2em; }
 .feature p { color: var(--muted); font-size: 0.95rem; line-height: 1.6; margin: 0; }
 @media (max-width: 860px) { .feature-grid { grid-template-columns: 1fr; } }
 
-/* Shows page: past gigs as a tidy list */
-.shows-page .prose > ul { list-style: none; padding: 0; border-top: 1px solid var(--line); }
-.shows-page .prose > ul > li { padding: 14px 0; margin: 0; border-bottom: 1px solid var(--line); }
-.shows-page .prose h3 { color: var(--fire); font-size: clamp(2.4rem, 5vw, 3.6rem); margin-top: 1.6em; }
+/* Shows page: headings and both show lists share one column */
+.shows-page .prose { width: min(56rem, 100% - 2 * var(--gutter)); }
 
 /* Contact */
 .contact-main { text-align: center; padding: clamp(32px, 6vw, 64px) 0; border-bottom: 1px solid var(--line); margin-bottom: clamp(32px, 5vw, 56px); }

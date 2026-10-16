@@ -5,6 +5,12 @@ tagline: The Firebreathing Music Machine
 description: Tromleorkestret is two people and a homebuilt music machine from Christiania, Denmark, with robotic instruments and flamethrowers that fire in sync with the music.
 email: tromleorkestret@gmail.com
 image: '/images/web/bygge-008.jpg' # Default image used when sharing links on social media
+image_alt: "Tromleorkestret's music machine breathing fire on stage at Byggefestivalen"
+# For search engines (structured data, _includes/structured-data.html)
+founded: 2012
+home: Christiania, Copenhagen, Denmark
+genres: [Krautrock, Psychedelic jazz, Experimental electronic music]
+members: [Hjalte Bested Hjorth, Sofie Hjorth Schausen]
 
 
 #-------------------------------

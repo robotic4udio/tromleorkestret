@@ -9,6 +9,13 @@
 #       - /images/web/photo-sm.jpg
 #     caption: "Photo: Someone"         # under the photos (HTML allowed)
 
+- date: 2026-10-03
+  time: "22:30"
+  title: Kaospilot 35th Anniversary
+  venue: Stenbroen
+  city: Aarhus
+  url: https://www.kaospilot.dk/35th-anniversary/
+
 - date: 2026-09-12
   time: "22:30"
   title: "Ny Bastion - Høstfest"

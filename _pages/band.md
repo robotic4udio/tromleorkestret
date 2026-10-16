@@ -1,5 +1,7 @@
 ---
 title: The Band
+seo_title: "The Band: Hjalte Bested Hjorth and Sofie Hjorth Schausen"
+description: "Tromleorkestret is Hjalte Bested Hjorth, who built the machine and writes the music, and Sofie Hjorth Schausen: costumes, visuals and live effects."
 kicker: Two people and a machine
 permalink: /band/
 redirect_from:

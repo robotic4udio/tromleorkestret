@@ -1,5 +1,7 @@
 ---
 title: Music
+seo_title: "Music: krautrock and psychedelic jazz – Tromleorkestret"
+description: "Krautrock, psychedelic jazz and experimental electronic music, played live on a homebuilt robotic music machine. Listen to Tromleorkestret's tracks."
 kicker: Listen
 lead: Krautrock, psychedelic jazz and experimental electronic music, played on a homebuilt music machine.
 permalink: /music/

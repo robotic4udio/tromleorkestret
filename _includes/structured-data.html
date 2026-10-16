@@ -1,0 +1,69 @@
+{%- comment -%}
+  Structured data (schema.org JSON-LD) for search engines. The front page says who the band is
+  (MusicGroup); the front page and the Shows page list the upcoming shows as events (MusicEvent),
+  which Google can show in its results. Facts come from _data/settings.yml and _data/upcoming.yml.
+{%- endcomment -%}
+{%- assign s = site.data.settings -%}
+{%- if page.url == "/" or page.url == "/shows/" -%}
+{%- capture band -%}
+{
+      "@type": "MusicGroup",
+      "@id": "{{ '/#band' | absolute_url }}",
+      "name": {{ s.title | jsonify }},
+      "url": "{{ '/' | absolute_url }}",
+      "description": {{ s.description | jsonify }},
+      "image": "{{ s.image | absolute_url }}",
+      "email": {{ s.email | jsonify }},
+      "foundingDate": "{{ s.founded }}",
+      "foundingLocation": { "@type": "Place", "name": {{ s.home | jsonify }} },
+      "genre": {{ s.genres | jsonify }},
+      "member": [{% for m in s.members %}{ "@type": "Person", "name": {{ m | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %}],
+      "sameAs": [{% assign first = true %}{% for l in s.social %}{% unless l.link contains "mailto:" %}{% unless first %}, {% endunless %}{{ l.link | jsonify }}{% assign first = false %}{% endunless %}{% endfor %}]
+    }
+{%- endcapture -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign shows = site.data.upcoming | sort: "date" -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+    {{ band }}
+    {%- for show in shows %}{% assign show_day = show.date | date: "%Y-%m-%d" %}{% if show_day >= today %},
+    {
+      "@type": "MusicEvent",
+      "name": {{ show.title | append: " – Tromleorkestret" | jsonify }},
+      "description": {{ "Tromleorkestret, the firebreathing music machine, plays " | append: show.title | append: "." | jsonify }},
+      {%- assign d = show.date | date: "%Y-%m-%d" -%}
+      {%- if show.time %}
+      {%- comment -%} Danish time: summer time (+02:00) from the last Sunday of March to the last Sunday of October {%- endcomment -%}
+      {%- assign m = show.date | date: "%-m" | plus: 0 -%}
+      {%- assign day = show.date | date: "%-d" | plus: 0 -%}
+      {%- assign offset = "+01:00" -%}
+      {%- if m > 3 and m < 10 %}{% assign offset = "+02:00" %}{% endif -%}
+      {%- if m == 3 or m == 10 -%}
+        {%- assign last = show.date | date: "%Y-%m-31" -%}
+        {%- assign wd = last | date: "%w" | plus: 0 -%}
+        {%- assign last_sunday = 31 | minus: wd -%}
+        {%- if m == 3 and day >= last_sunday %}{% assign offset = "+02:00" %}{% endif -%}
+        {%- if m == 10 and day < last_sunday %}{% assign offset = "+02:00" %}{% endif -%}
+      {%- endif %}
+      "startDate": "{{ d }}T{{ show.time }}:00{{ offset }}",
+      {%- else %}
+      "startDate": "{{ d }}",
+      {%- endif %}
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": {{ show.venue | default: show.title | jsonify }},
+        "address": { "@type": "PostalAddress",{% if show.city %} "addressLocality": {{ show.city | jsonify }},{% endif %} "addressCountry": {{ show.country | default: "DK" | jsonify }} }
+      },
+      "image": ["{{ s.image | absolute_url }}"],
+      "performer": { "@id": "{{ '/#band' | absolute_url }}" },
+      "url": {{ show.url | default: "/shows/" | absolute_url | jsonify }}
+    }{% endif %}
+    {%- endfor %}
+    ]
+  }
+  </script>
+{%- endif -%}

@@ -7,6 +7,9 @@
 #     venue: Eksercerhuset     # optional
 #     city: Fredericia         # optional
 #     url: https://...         # optional
+#     country: SE              # optional, for search engines; Denmark (DK) when left out
+#
+# A show whose day has passed drops off the list at the next build of the site, but move it anyway.
 
 - date: 2026-11-06
   time: "17:00"
@@ -14,10 +17,3 @@
   venue: Eksercerhuset
   city: Fredericia
   url: https://www.eventc.dk/fredericia-art-festival/
-
-- date: 2026-10-03
-  time: "22:30"
-  title: Kaospilot 35th Anniversary
-  venue: Stenbroen
-  city: Aarhus
-  url: https://www.kaospilot.dk/35th-anniversary/

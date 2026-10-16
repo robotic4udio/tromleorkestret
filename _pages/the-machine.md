@@ -1,5 +1,7 @@
 ---
 title: The Machine
+seo_title: "Robotic instruments and flamethrowers – Tromleorkestret"
+description: "A music machine on wheels: robotic slide bass, keyboard, drums and xylophone, a wind synth, sound gloves and flamethrowers, all built by hand."
 kicker: Handmade · Robotic · Firebreathing
 lead: A homebuilt music machine on wheels. Some of the instruments play themselves, the rest we play by hand.
 permalink: /the-machine/

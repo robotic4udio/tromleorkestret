@@ -2,13 +2,15 @@
   List of upcoming shows from _data/upcoming.yml.
   {% include upcoming-shows.html limit=3 %}
 {% endcomment %}
-{% assign shows = site.data.upcoming | sort: "date" %}
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign sorted = site.data.upcoming | sort: "date" %}
 {% assign limit = include.limit | default: 50 %}
-{% if shows.size > 0 %}
+{% assign count = 0 %}
+{% capture items %}{% for show in sorted %}{% assign day = show.date | date: "%Y-%m-%d" %}{% if day >= today and count < limit %}
+  {% include gig.html show=show reveal=true %}{% assign count = count | plus: 1 %}{% endif %}{% endfor %}{% endcapture %}
+{% if count > 0 %}
 <ol class="gig-list">
-  {% for show in shows limit: limit %}
-  {% include gig.html show=show reveal=true %}
-  {% endfor %}
+{{ items }}
 </ol>
 {% else %}
 <p class="gig-empty">No shows announced right now. <a href="{{ '/contact/' | relative_url }}">Get in touch to book one.</a></p>
